@@ -1,0 +1,13 @@
+﻿{
+    "s_Scale": 0.9,
+    "s_HeightOffset": 0,
+    "s_HeadRotationOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "s_LeftShoulderRotationWeight": 0.33399999141693118,
+    "s_RightShoulderRotationWeight": 0.33399999141693118,
+    "s_LeftArmLengthMlp": 1.0,
+    "s_RightArmLengthMlp": 1.0
+}

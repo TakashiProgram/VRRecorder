@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: babe9c899c623e14cb733c5e557b3a38
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aluminium
+    100002: Aluminium001
+    100004: Archmodels55_01_arch20_027_07
+    100006: Archmodels55_01_arch20_027_07 1
+    100008: Box14
+    100010: Box14 1
+    100012: Bridge01
+    100014: //RootNode
+    100016: Glass2
+    100018: Lather
+    100020: Light
+    100022: Light2
+    100024: Light3
+    100026: Line06
+    100028: Line06 1
+    100030: obj1
+    100032: Object03
+    100034: Object03 1
+    100036: Object04
+    100038: Object04 1
+    100040: Object14
+    100042: Object14 1
+    100044: Object25
+    100046: Object25 1
+    100048: Object29
+    100050: Object29 1
+    100052: Object30
+    100054: Object30 1
+    100056: Object31
+    100058: Object31 1
+    100060: Object32
+    100062: Object32 1
+    100064: Object33
+    100066: Object33 1
+    100068: Object34
+    100070: Object34 1
+    100072: Object39
+    100074: Object39 1
+    100076: Object40
+    100078: Object40 1
+    100080: Object42
+    100082: Object42 1
+    100084: Object43
+    100086: Object43 1
+    100088: Object44
+    100090: Object44 1
+    100092: Object45
+    100094: Object45 1
+    100096: Object46
+    100098: Object46 1
+    100100: Object47
+    100102: Object47 1
+    100104: Paint
+    100106: Paint001
+    100108: Paint003
+    100110: Paint2
+    100112: Plastic
+    100114: Plastic2
+    100116: Rectangle05
+    100118: Rectangle1
+    100120: Rectangle1 1
+    100122: Tyres
+    100124: Tyres001
+    400000: Aluminium
+    400002: Aluminium001
+    400004: Archmodels55_01_arch20_027_07
+    400006: Archmodels55_01_arch20_027_07 1
+    400008: Box14
+    400010: Box14 1
+    400012: Bridge01
+    400014: //RootNode
+    400016: Glass2
+    400018: Lather
+    400020: Light
+    400022: Light2
+    400024: Light3
+    400026: Line06
+    400028: Line06 1
+    400030: obj1
+    400032: Object03
+    400034: Object03 1
+    400036: Object04
+    400038: Object04 1
+    400040: Object14
+    400042: Object14 1
+    400044: Object25
+    400046: Object25 1
+    400048: Object29
+    400050: Object29 1
+    400052: Object30
+    400054: Object30 1
+    400056: Object31
+    400058: Object31 1
+    400060: Object32
+    400062: Object32 1
+    400064: Object33
+    400066: Object33 1
+    400068: Object34
+    400070: Object34 1
+    400072: Object39
+    400074: Object39 1
+    400076: Object40
+    400078: Object40 1
+    400080: Object42
+    400082: Object42 1
+    400084: Object43
+    400086: Object43 1
+    400088: Object44
+    400090: Object44 1
+    400092: Object45
+    400094: Object45 1
+    400096: Object46
+    400098: Object46 1
+    400100: Object47
+    400102: Object47 1
+    400104: Paint
+    400106: Paint001
+    400108: Paint003
+    400110: Paint2
+    400112: Plastic
+    400114: Plastic2
+    400116: Rectangle05
+    400118: Rectangle1
+    400120: Rectangle1 1
+    400122: Tyres
+    400124: Tyres001
+    2300000: Aluminium
+    2300002: Aluminium001
+    2300004: Bridge01
+    2300006: Glass2
+    2300008: Lather
+    2300010: Light
+    2300012: Light2
+    2300014: Light3
+    2300016: obj1
+    2300018: Paint
+    2300020: Paint001
+    2300022: Paint003
+    2300024: Paint2
+    2300026: Plastic
+    2300028: Plastic2
+    2300030: Rectangle05
+    2300032: Tyres
+    2300034: Tyres001
+    3300000: Aluminium
+    3300002: Aluminium001
+    3300004: Bridge01
+    3300006: Glass2
+    3300008: Lather
+    3300010: Light
+    3300012: Light2
+    3300014: Light3
+    3300016: obj1
+    3300018: Paint
+    3300020: Paint001
+    3300022: Paint003
+    3300024: Paint2
+    3300026: Plastic
+    3300028: Plastic2
+    3300030: Rectangle05
+    3300032: Tyres
+    3300034: Tyres001
+    4300000: Rectangle05
+    4300002: Bridge01
+    4300004: Tyres
+    4300006: obj1
+    4300008: Plastic
+    4300010: Plastic2
+    4300012: Paint
+    4300014: Light3
+    4300016: Lather
+    4300018: Paint001
+    4300020: Aluminium
+    4300022: Glass2
+    4300024: Paint2
+    4300026: Light
+    4300028: Light2
+    4300030: Aluminium001
+    4300032: Paint003
+    4300034: Tyres001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: dac91de52c46bd3468fdf61dca1e6c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #121'
+    second: {fileID: 2100000, guid: dac91de52c46bd3468fdf61dca1e6c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #122'
+    second: {fileID: 2100000, guid: 0f9169e5ad225dd46ad2ed5f3cc2e9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3188 Slot #11'
+    second: {fileID: 2100000, guid: 52cbfa303949ec34aa676461bc6523bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3188 Slot #8'
+    second: {fileID: 2100000, guid: 249c97f58ac5c4143a860fac967a5c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3521'
+    second: {fileID: 2100000, guid: 85c596e797b6ac7448283a07443a3df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyres
+    second: {fileID: 2100000, guid: 8caefebb3bf8aba4ba7518a977e68a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum
+    second: {fileID: 2100000, guid: 803cea3e007746c489920fadbd29a5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car paint
+    second: {fileID: 2100000, guid: 9d0b69438a737d8408e6ffc0b3d995a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: dd621a23fe57bc24f87c65045ebf81f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: ef3f8a287a12da14e8a73e640c0fc22c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather interior
+    second: {fileID: 2100000, guid: 9d6e49b985a810f46bc58e23dc8c7a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 55322572a96afe7469a3c75fa6a70c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light 2
+    second: {fileID: 2100000, guid: e00523978f87d0b4bac7c17cace08abe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light 3
+    second: {fileID: 2100000, guid: e05d52b44883dd4408d1c73d9e1e03d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint
+    second: {fileID: 2100000, guid: e30e363d535c6aa44a37f3a38b6ed039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint 2
+    second: {fileID: 2100000, guid: f70ede653ce8eaa478a2ebce75a77cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: aaae60d089154a34085bc15c04cfa70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic2
+    second: {fileID: 2100000, guid: 141f5571656e66a45a811170f934dd07, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

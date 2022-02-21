@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29884f2ca07a59044b94b151ff994d68, type: 3}
+  m_Name: CameraMap
+  m_EditorClassIdentifier: 
+  m_Avatars:
+  - name: "CM\u30AB\u30E1\u30E9"
+    image: {fileID: 2800000, guid: 261764c0a173fdb4dbf4d09b52986102, type: 3}
+    prefab: {fileID: 6443521746592174149, guid: 68ccad86f8db2694b8e18bbc0291586b,
+      type: 3}
+  - name: "\u30C9\u30ED\u30FC\u30F3\u30AB\u30E1\u30E9"
+    image: {fileID: 2800000, guid: 261764c0a173fdb4dbf4d09b52986102, type: 3}
+    prefab: {fileID: 6443521746592174149, guid: ea1d1ccf1ebf24243958f8056fea85e9,
+      type: 3}

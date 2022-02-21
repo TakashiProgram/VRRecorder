@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 9e2f9aac40150a1428d6c1ec2c91d8e5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: face
+    100004: hair
+    100006: //RootNode
+    100008: tarou2_A 1
+    100010: tarou2_A Head
+    100012: tarou2_A HeadNub
+    100014: tarou2_A L Calf
+    100016: tarou2_A L Clavicle
+    100018: tarou2_A L Finger0
+    100020: tarou2_A L Finger01
+    100022: tarou2_A L Finger02
+    100024: tarou2_A L Finger0Nub
+    100026: tarou2_A L Finger1
+    100028: tarou2_A L Finger11
+    100030: tarou2_A L Finger12
+    100032: tarou2_A L Finger1Nub
+    100034: tarou2_A L Finger2
+    100036: tarou2_A L Finger21
+    100038: tarou2_A L Finger22
+    100040: tarou2_A L Finger2Nub
+    100042: tarou2_A L Finger3
+    100044: tarou2_A L Finger31
+    100046: tarou2_A L Finger32
+    100048: tarou2_A L Finger3Nub
+    100050: tarou2_A L Finger4
+    100052: tarou2_A L Finger41
+    100054: tarou2_A L Finger42
+    100056: tarou2_A L Finger4Nub
+    100058: tarou2_A L Foot
+    100060: tarou2_A L Forearm
+    100062: tarou2_A L ForeTwist
+    100064: tarou2_A L Hand
+    100066: tarou2_A L Thigh
+    100068: tarou2_A L Toe0
+    100070: tarou2_A L Toe0Nub
+    100072: tarou2_A L UpperArm
+    100074: tarou2_A LCalfTwist
+    100076: tarou2_A LUpArmTwist
+    100078: tarou2_A Neck
+    100080: tarou2_A Pelvis
+    100082: tarou2_A R Calf
+    100084: tarou2_A R Clavicle
+    100086: tarou2_A R Finger0
+    100088: tarou2_A R Finger01
+    100090: tarou2_A R Finger02
+    100092: tarou2_A R Finger0Nub
+    100094: tarou2_A R Finger1
+    100096: tarou2_A R Finger11
+    100098: tarou2_A R Finger12
+    100100: tarou2_A R Finger1Nub
+    100102: tarou2_A R Finger2
+    100104: tarou2_A R Finger21
+    100106: tarou2_A R Finger22
+    100108: tarou2_A R Finger2Nub
+    100110: tarou2_A R Finger3
+    100112: tarou2_A R Finger31
+    100114: tarou2_A R Finger32
+    100116: tarou2_A R Finger3Nub
+    100118: tarou2_A R Finger4
+    100120: tarou2_A R Finger41
+    100122: tarou2_A R Finger42
+    100124: tarou2_A R Finger4Nub
+    100126: tarou2_A R Foot
+    100128: tarou2_A R Forearm
+    100130: tarou2_A R ForeTwist
+    100132: tarou2_A R Hand
+    100134: tarou2_A R Thigh
+    100136: tarou2_A R Toe0
+    100138: tarou2_A R Toe0Nub
+    100140: tarou2_A R UpperArm
+    100142: tarou2_A RCalfTwist
+    100144: tarou2_A RUpArmTwist
+    100146: tarou2_A Spine
+    100148: tarou2_A Spine1
+    100150: tarou2_A Spine2
+    100152: tarou2_A_Eye_L
+    100154: tarou2_A_Eye_R
+    100156: tarou2_A_Hair_BA_01
+    100158: tarou2_A_Hair_BA_02
+    100160: tarou2_A_Hair_FA_01
+    100162: tarou2_A_Hair_FA_02
+    100164: tarou2_A_Hair_LA_01
+    100166: tarou2_A_Hair_LA_02
+    100168: tarou2_A_Hair_LB_01
+    100170: tarou2_A_Hair_LB_02
+    100172: tarou2_A_Hair_LB_03
+    100174: tarou2_A_Hair_LC_01
+    100176: tarou2_A_Hair_LC_02
+    100178: tarou2_A_Hair_RA_01
+    100180: tarou2_A_Hair_RA_02
+    100182: tarou2_A_Hair_RB_01
+    100184: tarou2_A_Hair_RB_02
+    100186: tarou2_A_Hair_RB_03
+    100188: tarou2_A_Hair_RC_01
+    100190: tarou2_A_Hair_RC_02
+    100192: tarou2_A_Mune_L_01
+    100194: tarou2_A_Mune_R_01
+    100196: tarou2_A_Skirt_BL_01
+    100198: tarou2_A_Skirt_BL_02
+    100200: tarou2_A_Skirt_BL_03
+    100202: tarou2_A_Skirt_BR_01
+    100204: tarou2_A_Skirt_BR_02
+    100206: tarou2_A_Skirt_BR_03
+    100208: tarou2_A_Skirt_FL_01
+    100210: tarou2_A_Skirt_FL_02
+    100212: tarou2_A_Skirt_FL_03
+    100214: tarou2_A_Skirt_FR_01
+    100216: tarou2_A_Skirt_FR_02
+    100218: tarou2_A_Skirt_FR_03
+    100220: tarou2_A_Skirt_LL_01
+    100222: tarou2_A_Skirt_LL_02
+    100224: tarou2_A_Skirt_LL_03
+    100226: tarou2_A_Skirt_RR_01
+    100228: tarou2_A_Skirt_RR_02
+    100230: tarou2_A_Skirt_RR_03
+    400000: body
+    400002: face
+    400004: hair
+    400006: //RootNode
+    400008: tarou2_A 1
+    400010: tarou2_A Head
+    400012: tarou2_A HeadNub
+    400014: tarou2_A L Calf
+    400016: tarou2_A L Clavicle
+    400018: tarou2_A L Finger0
+    400020: tarou2_A L Finger01
+    400022: tarou2_A L Finger02
+    400024: tarou2_A L Finger0Nub
+    400026: tarou2_A L Finger1
+    400028: tarou2_A L Finger11
+    400030: tarou2_A L Finger12
+    400032: tarou2_A L Finger1Nub
+    400034: tarou2_A L Finger2
+    400036: tarou2_A L Finger21
+    400038: tarou2_A L Finger22
+    400040: tarou2_A L Finger2Nub
+    400042: tarou2_A L Finger3
+    400044: tarou2_A L Finger31
+    400046: tarou2_A L Finger32
+    400048: tarou2_A L Finger3Nub
+    400050: tarou2_A L Finger4
+    400052: tarou2_A L Finger41
+    400054: tarou2_A L Finger42
+    400056: tarou2_A L Finger4Nub
+    400058: tarou2_A L Foot
+    400060: tarou2_A L Forearm
+    400062: tarou2_A L ForeTwist
+    400064: tarou2_A L Hand
+    400066: tarou2_A L Thigh
+    400068: tarou2_A L Toe0
+    400070: tarou2_A L Toe0Nub
+    400072: tarou2_A L UpperArm
+    400074: tarou2_A LCalfTwist
+    400076: tarou2_A LUpArmTwist
+    400078: tarou2_A Neck
+    400080: tarou2_A Pelvis
+    400082: tarou2_A R Calf
+    400084: tarou2_A R Clavicle
+    400086: tarou2_A R Finger0
+    400088: tarou2_A R Finger01
+    400090: tarou2_A R Finger02
+    400092: tarou2_A R Finger0Nub
+    400094: tarou2_A R Finger1
+    400096: tarou2_A R Finger11
+    400098: tarou2_A R Finger12
+    400100: tarou2_A R Finger1Nub
+    400102: tarou2_A R Finger2
+    400104: tarou2_A R Finger21
+    400106: tarou2_A R Finger22
+    400108: tarou2_A R Finger2Nub
+    400110: tarou2_A R Finger3
+    400112: tarou2_A R Finger31
+    400114: tarou2_A R Finger32
+    400116: tarou2_A R Finger3Nub
+    400118: tarou2_A R Finger4
+    400120: tarou2_A R Finger41
+    400122: tarou2_A R Finger42
+    400124: tarou2_A R Finger4Nub
+    400126: tarou2_A R Foot
+    400128: tarou2_A R Forearm
+    400130: tarou2_A R ForeTwist
+    400132: tarou2_A R Hand
+    400134: tarou2_A R Thigh
+    400136: tarou2_A R Toe0
+    400138: tarou2_A R Toe0Nub
+    400140: tarou2_A R UpperArm
+    400142: tarou2_A RCalfTwist
+    400144: tarou2_A RUpArmTwist
+    400146: tarou2_A Spine
+    400148: tarou2_A Spine1
+    400150: tarou2_A Spine2
+    400152: tarou2_A_Eye_L
+    400154: tarou2_A_Eye_R
+    400156: tarou2_A_Hair_BA_01
+    400158: tarou2_A_Hair_BA_02
+    400160: tarou2_A_Hair_FA_01
+    400162: tarou2_A_Hair_FA_02
+    400164: tarou2_A_Hair_LA_01
+    400166: tarou2_A_Hair_LA_02
+    400168: tarou2_A_Hair_LB_01
+    400170: tarou2_A_Hair_LB_02
+    400172: tarou2_A_Hair_LB_03
+    400174: tarou2_A_Hair_LC_01
+    400176: tarou2_A_Hair_LC_02
+    400178: tarou2_A_Hair_RA_01
+    400180: tarou2_A_Hair_RA_02
+    400182: tarou2_A_Hair_RB_01
+    400184: tarou2_A_Hair_RB_02
+    400186: tarou2_A_Hair_RB_03
+    400188: tarou2_A_Hair_RC_01
+    400190: tarou2_A_Hair_RC_02
+    400192: tarou2_A_Mune_L_01
+    400194: tarou2_A_Mune_R_01
+    400196: tarou2_A_Skirt_BL_01
+    400198: tarou2_A_Skirt_BL_02
+    400200: tarou2_A_Skirt_BL_03
+    400202: tarou2_A_Skirt_BR_01
+    400204: tarou2_A_Skirt_BR_02
+    400206: tarou2_A_Skirt_BR_03
+    400208: tarou2_A_Skirt_FL_01
+    400210: tarou2_A_Skirt_FL_02
+    400212: tarou2_A_Skirt_FL_03
+    400214: tarou2_A_Skirt_FR_01
+    400216: tarou2_A_Skirt_FR_02
+    400218: tarou2_A_Skirt_FR_03
+    400220: tarou2_A_Skirt_LL_01
+    400222: tarou2_A_Skirt_LL_02
+    400224: tarou2_A_Skirt_LL_03
+    400226: tarou2_A_Skirt_RR_01
+    400228: tarou2_A_Skirt_RR_02
+    400230: tarou2_A_Skirt_RR_03
+    4300000: hair
+    4300002: face
+    4300004: body
+    9500000: //RootNode
+    13700000: body
+    13700002: face
+    13700004: hair
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marou2_A_Whiteeye
+    second: {fileID: 2100000, guid: d1846d1ef83ad66459026d6fbd109343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marou2_A_blackeye
+    second: {fileID: 2100000, guid: f7601977f02f5f540a2d5773578397c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marou2_A_eyebrow
+    second: {fileID: 2100000, guid: d1846d1ef83ad66459026d6fbd109343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marou2_A_face
+    second: {fileID: 2100000, guid: d1846d1ef83ad66459026d6fbd109343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtarou2_A_body
+    second: {fileID: 2100000, guid: 9522b906a4e159245867900de477dd5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtarou2_A_hair
+    second: {fileID: 2100000, guid: f7601977f02f5f540a2d5773578397c7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: tarou2_A Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: tarou2_A Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: tarou2_A(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008146034, y: 0.000000510818, z: -4.161141e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A 1
+      parentName: tarou2_A(Clone)
+      position: {x: 8.385952e-10, y: 1.0455868, z: 0.04358469}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A Pelvis
+      parentName: tarou2_A 1
+      position: {x: 0.0000000037252903, y: 0, z: 0.03509128}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A Spine
+      parentName: tarou2_A Pelvis
+      position: {x: -0.06373077, y: 0.012148337, z: 0.000000036429118}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: tarou2_A Spine1
+      parentName: tarou2_A Spine
+      position: {x: -0.09909843, y: -0.00008440971, z: -2.3411303e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: tarou2_A Spine2
+      parentName: tarou2_A Spine1
+      position: {x: -0.106021956, y: -0.00015295028, z: -4.2423834e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: tarou2_A_Mune_L_01
+      parentName: tarou2_A Spine2
+      position: {x: -0.057613067, y: 0.033321798, z: 0.043155216}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: tarou2_A_Mune_R_01
+      parentName: tarou2_A Spine2
+      position: {x: -0.057613526, y: 0.033321913, z: -0.043159783}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: tarou2_A Neck
+      parentName: tarou2_A Spine2
+      position: {x: -0.21730773, y: -0.00046857834, z: 0.00000001689208}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000005}
+    - name: tarou2_A Head
+      parentName: tarou2_A Neck
+      position: {x: -0.10590667, y: -0.0005473709, z: -0.000000003905661}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: tarou2_A HeadNub
+      parentName: tarou2_A Head
+      position: {x: -0.26357847, y: 0.0000000023841857, z: 2.0605739e-15}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_BA_01
+      parentName: tarou2_A Head
+      position: {x: -0.00078399654, y: -0.084295586, z: 0.0010345601}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A_Hair_BA_02
+      parentName: tarou2_A_Hair_BA_01
+      position: {x: -0.06852447, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_LC_01
+      parentName: tarou2_A Head
+      position: {x: -0.0055839536, y: -0.046963494, z: 0.07718517}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
+    - name: tarou2_A_Hair_LC_02
+      parentName: tarou2_A_Hair_LC_01
+      position: {x: -0.06360855, y: 0.000000114440915, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_RC_01
+      parentName: tarou2_A Head
+      position: {x: -0.0045069885, y: -0.05819924, z: -0.07628854}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: tarou2_A_Hair_RC_02
+      parentName: tarou2_A_Hair_RC_01
+      position: {x: -0.063608244, y: 0.000000076293944, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_RB_01
+      parentName: tarou2_A Head
+      position: {x: -0.0699826, y: 0.00842823, z: -0.11284134}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: tarou2_A_Hair_RB_02
+      parentName: tarou2_A_Hair_RB_01
+      position: {x: -0.056416016, y: 0.000000076293944, z: 0.000000114440915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: tarou2_A_Hair_RB_03
+      parentName: tarou2_A_Hair_RB_02
+      position: {x: -0.086677626, y: 0, z: 0.00000019073485}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_FA_01
+      parentName: tarou2_A Head
+      position: {x: -0.1385669, y: 0.13051105, z: 0.0019588417}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: tarou2_A_Hair_FA_02
+      parentName: tarou2_A_Hair_FA_01
+      position: {x: -0.08305374, y: -0.000000057220458, z: -0.00000022888183}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_RA_01
+      parentName: tarou2_A Head
+      position: {x: -0.064608, y: 0.052551225, z: -0.09718276}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: tarou2_A_Hair_RA_02
+      parentName: tarou2_A_Hair_RA_01
+      position: {x: -0.06675064, y: 0.000000019073486, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_LA_01
+      parentName: tarou2_A Head
+      position: {x: -0.068084255, y: 0.05695306, z: 0.09670783}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999998}
+    - name: tarou2_A_Hair_LA_02
+      parentName: tarou2_A_Hair_LA_01
+      position: {x: -0.06727951, y: -0.000000057220458, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Hair_LB_01
+      parentName: tarou2_A Head
+      position: {x: -0.08060623, y: 0.008861337, z: 0.10838775}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: tarou2_A_Hair_LB_02
+      parentName: tarou2_A_Hair_LB_01
+      position: {x: -0.073377535, y: -0.000000038146972, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: tarou2_A_Hair_LB_03
+      parentName: tarou2_A_Hair_LB_02
+      position: {x: -0.08793129, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Eye_L
+      parentName: tarou2_A Head
+      position: {x: -0.06352768, y: 0.026074627, z: 0.023905942}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: tarou2_A_Eye_R
+      parentName: tarou2_A Head
+      position: {x: -0.06352768, y: 0.026074685, z: -0.02390991}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000002}
+    - name: tarou2_A R Clavicle
+      parentName: tarou2_A Spine2
+      position: {x: -0.18007095, y: -0.020699577, z: -0.030406212}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 0.9999997, y: 0.99999976, z: 0.99999994}
+    - name: tarou2_A R UpperArm
+      parentName: tarou2_A R Clavicle
+      position: {x: -0.10382572, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: tarou2_A R Forearm
+      parentName: tarou2_A R UpperArm
+      position: {x: -0.24375568, y: -0.000000009536743, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: tarou2_A R Hand
+      parentName: tarou2_A R Forearm
+      position: {x: -0.23750159, y: 0.000000009536743, z: -0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: tarou2_A R Finger0
+      parentName: tarou2_A R Hand
+      position: {x: -0.024236793, y: 0.012248458, z: 0.024612788}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: tarou2_A R Finger01
+      parentName: tarou2_A R Finger0
+      position: {x: -0.03347824, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: tarou2_A R Finger02
+      parentName: tarou2_A R Finger01
+      position: {x: -0.023908004, y: -0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: tarou2_A R Finger0Nub
+      parentName: tarou2_A R Finger02
+      position: {x: -0.028502272, y: 0, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R Finger2
+      parentName: tarou2_A R Hand
+      position: {x: -0.0862133, y: -0.0040180967, z: 0.00031870184}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1}
+    - name: tarou2_A R Finger21
+      parentName: tarou2_A R Finger2
+      position: {x: -0.032188643, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: tarou2_A R Finger22
+      parentName: tarou2_A R Finger21
+      position: {x: -0.026524086, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: tarou2_A R Finger2Nub
+      parentName: tarou2_A R Finger22
+      position: {x: -0.026676178, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R Finger1
+      parentName: tarou2_A R Hand
+      position: {x: -0.083148725, y: -0.0022483824, z: 0.02201106}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.9999999}
+    - name: tarou2_A R Finger11
+      parentName: tarou2_A R Finger1
+      position: {x: -0.031292226, y: -0.00000015258789, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: tarou2_A R Finger12
+      parentName: tarou2_A R Finger11
+      position: {x: -0.023066252, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000007, z: 1}
+    - name: tarou2_A R Finger1Nub
+      parentName: tarou2_A R Finger12
+      position: {x: -0.0247303, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R Finger3
+      parentName: tarou2_A R Hand
+      position: {x: -0.07632717, y: -0.0023132323, z: -0.020059764}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1}
+    - name: tarou2_A R Finger31
+      parentName: tarou2_A R Finger3
+      position: {x: -0.036892507, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.9999999}
+    - name: tarou2_A R Finger32
+      parentName: tarou2_A R Finger31
+      position: {x: -0.027546844, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: tarou2_A R Finger3Nub
+      parentName: tarou2_A R Finger32
+      position: {x: -0.025552481, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R Finger4
+      parentName: tarou2_A R Hand
+      position: {x: -0.07360584, y: 0.005298691, z: -0.034667198}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: tarou2_A R Finger41
+      parentName: tarou2_A R Finger4
+      position: {x: -0.024187813, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: tarou2_A R Finger42
+      parentName: tarou2_A R Finger41
+      position: {x: -0.018753052, y: 0, z: 0.000000057220458}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000001}
+    - name: tarou2_A R Finger4Nub
+      parentName: tarou2_A R Finger42
+      position: {x: -0.022266844, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R ForeTwist
+      parentName: tarou2_A R Forearm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999999, z: 1.0000001}
+    - name: tarou2_A RUpArmTwist
+      parentName: tarou2_A R UpperArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A L Clavicle
+      parentName: tarou2_A Spine2
+      position: {x: -0.18007095, y: -0.020699749, z: 0.030406103}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: tarou2_A L UpperArm
+      parentName: tarou2_A L Clavicle
+      position: {x: -0.10382564, y: -0.000000019073486, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: tarou2_A L Forearm
+      parentName: tarou2_A L UpperArm
+      position: {x: -0.24375571, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A L Hand
+      parentName: tarou2_A L Forearm
+      position: {x: -0.23750159, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: tarou2_A L Finger0
+      parentName: tarou2_A L Hand
+      position: {x: -0.024236793, y: 0.012248458, z: -0.024612784}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+    - name: tarou2_A L Finger01
+      parentName: tarou2_A L Finger0
+      position: {x: -0.03347824, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: tarou2_A L Finger02
+      parentName: tarou2_A L Finger01
+      position: {x: -0.023908043, y: -0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: tarou2_A L Finger0Nub
+      parentName: tarou2_A L Finger02
+      position: {x: -0.028502272, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Finger2
+      parentName: tarou2_A L Hand
+      position: {x: -0.086213335, y: -0.004018173, z: -0.00031870246}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: tarou2_A L Finger21
+      parentName: tarou2_A L Finger2
+      position: {x: -0.03218872, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: tarou2_A L Finger22
+      parentName: tarou2_A L Finger21
+      position: {x: -0.026524046, y: -0.00000015258789, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000007, z: 1.0000006}
+    - name: tarou2_A L Finger2Nub
+      parentName: tarou2_A L Finger22
+      position: {x: -0.026676139, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Finger1
+      parentName: tarou2_A L Hand
+      position: {x: -0.083148725, y: -0.0022483063, z: -0.022011058}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A L Finger11
+      parentName: tarou2_A L Finger1
+      position: {x: -0.031292267, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: tarou2_A L Finger12
+      parentName: tarou2_A L Finger11
+      position: {x: -0.023066215, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: tarou2_A L Finger1Nub
+      parentName: tarou2_A L Finger12
+      position: {x: -0.024730338, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Finger3
+      parentName: tarou2_A L Hand
+      position: {x: -0.07632717, y: -0.0023133087, z: 0.02005976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A L Finger31
+      parentName: tarou2_A L Finger3
+      position: {x: -0.036892507, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Finger32
+      parentName: tarou2_A L Finger31
+      position: {x: -0.027546767, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: tarou2_A L Finger3Nub
+      parentName: tarou2_A L Finger32
+      position: {x: -0.025552405, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Finger4
+      parentName: tarou2_A L Hand
+      position: {x: -0.07360584, y: 0.005298691, z: 0.0346672}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: tarou2_A L Finger41
+      parentName: tarou2_A L Finger4
+      position: {x: -0.024187813, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.000001}
+    - name: tarou2_A L Finger42
+      parentName: tarou2_A L Finger41
+      position: {x: -0.018753052, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000008, z: 1.0000005}
+    - name: tarou2_A L Finger4Nub
+      parentName: tarou2_A L Finger42
+      position: {x: -0.02226696, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L ForeTwist
+      parentName: tarou2_A L Forearm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: tarou2_A LUpArmTwist
+      parentName: tarou2_A L UpperArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: tarou2_A_Skirt_BL_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.031787183, y: -0.09177968, z: 0.12051971}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: tarou2_A_Skirt_BL_02
+      parentName: tarou2_A_Skirt_BL_01
+      position: {x: -0.09560417, y: -0.0006939363, z: 0.0005819702}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: tarou2_A_Skirt_BL_03
+      parentName: tarou2_A_Skirt_BL_02
+      position: {x: -0.091658555, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Skirt_BR_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.031787336, y: -0.091780335, z: -0.120519005}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: tarou2_A_Skirt_BR_02
+      parentName: tarou2_A_Skirt_BR_01
+      position: {x: -0.09560425, y: -0.0006939268, z: 0.0005819702}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: tarou2_A_Skirt_BR_03
+      parentName: tarou2_A_Skirt_BR_02
+      position: {x: -0.09165863, y: -0.000000009536743, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Skirt_FR_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.01848526, y: 0.11603911, z: -0.07442535}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: tarou2_A_Skirt_FR_02
+      parentName: tarou2_A_Skirt_FR_01
+      position: {x: -0.07942398, y: -0.000000019073486, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: tarou2_A_Skirt_FR_03
+      parentName: tarou2_A_Skirt_FR_02
+      position: {x: -0.08724014, y: 0.000000019073486, z: -0.00000007152557}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Skirt_FL_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.018485183, y: 0.116039515, z: 0.07442489}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: tarou2_A_Skirt_FL_02
+      parentName: tarou2_A_Skirt_FL_01
+      position: {x: -0.07942398, y: 0, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: tarou2_A_Skirt_FL_03
+      parentName: tarou2_A_Skirt_FL_02
+      position: {x: -0.08724022, y: 0, z: -0.00000006198883}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Skirt_RR_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.03344467, y: 0.016183047, z: -0.16966712}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: tarou2_A_Skirt_RR_02
+      parentName: tarou2_A_Skirt_RR_01
+      position: {x: -0.09535126, y: 0, z: -0.000000085830685}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: tarou2_A_Skirt_RR_03
+      parentName: tarou2_A_Skirt_RR_02
+      position: {x: -0.08810547, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A_Skirt_LL_01
+      parentName: tarou2_A Pelvis
+      position: {x: -0.03344429, y: 0.016184, z: 0.16966717}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: tarou2_A_Skirt_LL_02
+      parentName: tarou2_A_Skirt_LL_01
+      position: {x: -0.0953511, y: 0, z: -0.000000085830685}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: tarou2_A_Skirt_LL_03
+      parentName: tarou2_A_Skirt_LL_02
+      position: {x: -0.08810547, y: 0, z: 0.0000000023841857}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Thigh
+      parentName: tarou2_A Pelvis
+      position: {x: 0.00000015258789, y: 0.00000016212464, z: 0.08263552}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: tarou2_A L Calf
+      parentName: tarou2_A L Thigh
+      position: {x: -0.46369627, y: -0.0000000047683715, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: tarou2_A LCalfTwist
+      parentName: tarou2_A L Calf
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tarou2_A L Foot
+      parentName: tarou2_A L Calf
+      position: {x: -0.43512774, y: 0.000000007152557, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: tarou2_A L Toe0
+      parentName: tarou2_A L Foot
+      position: {x: -0.15037784, y: 0.10461446, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: tarou2_A L Toe0Nub
+      parentName: tarou2_A L Toe0
+      position: {x: -0.077489585, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: tarou2_A R Thigh
+      parentName: tarou2_A Pelvis
+      position: {x: -0.00000015258789, y: -0.0000000667572, z: -0.08263552}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: tarou2_A R Calf
+      parentName: tarou2_A R Thigh
+      position: {x: -0.46369627, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: tarou2_A RCalfTwist
+      parentName: tarou2_A R Calf
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: tarou2_A R Foot
+      parentName: tarou2_A R Calf
+      position: {x: -0.43512774, y: 0.0000000047683715, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: tarou2_A R Toe0
+      parentName: tarou2_A R Foot
+      position: {x: -0.15037784, y: 0.10461447, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: tarou2_A R Toe0Nub
+      parentName: tarou2_A R Toe0
+      position: {x: -0.07748958, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair
+      parentName: tarou2_A(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: face
+      parentName: tarou2_A(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: tarou2_A(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

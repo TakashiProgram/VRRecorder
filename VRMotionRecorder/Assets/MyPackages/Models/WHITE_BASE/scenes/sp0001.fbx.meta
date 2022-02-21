@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b180867c18489c647816373025db95e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: LeftMachineGun01
+    100004: LeftMachineGun01A_Eff
+    100006: LeftMachineGun01A_Eff 1
+    100008: LeftMachineGun01B_Eff
+    100010: LeftMachineGun01B_Eff 1
+    100012: LeftMachineGun02A_Eff
+    100014: LeftMachineGun02B_Eff
+    100016: LeftMachineGun1
+    100018: LeftMachineGun2
+    100020: LeftMachineGunBase01
+    100022: LeftMachineGunBase1
+    100024: LeftMachineGunBase2
+    100026: LeftMachineGunTablre01
+    100028: LeftMachineGunTablre1
+    100030: LeftMachineGunTablre2
+    100032: LeftMegaCannonA_Eff
+    100034: LeftMegaCannonB_Eff
+    100036: LeftMegaCannonTabule
+    100038: LeftMegaCannonXRot
+    100040: LeftMegaCannonYRot
+    100042: MainCannon
+    100044: MainCannonBase
+    100046: mMainCannonBase
+    100048: RightMachineGun01
+    100050: RightMachineGun01A_Eff
+    100052: RightMachineGun01B_Eff
+    100054: RightMachineGun02
+    100056: RightMachineGun02B_Eff
+    100058: RightMachineGun03
+    100060: RightMachineGun03A_Eff
+    100062: RightMachineGun03B_Eff
+    100064: RightMachineGunBase01
+    100066: RightMachineGunBase02
+    100068: RightMachineGunBase03
+    100070: RightMachineGunTablre01
+    100072: RightMachineGunTablre02
+    100074: RightMachineGunTablre03
+    100076: RightMainCannonA_Eff
+    100078: RightMainCannonB_Eff
+    100080: RightMegaCannonA_Eff
+    100082: RightMegaCannonB_Eff
+    100084: RightMegaCannonTabule
+    100086: RightMegaCannonXRot
+    100088: RightMegaCannonYrot
+    100090: //RootNode
+    100092: tRightMachineGun02A_Eff
+    400000: Body
+    400002: LeftMachineGun01
+    400004: LeftMachineGun01A_Eff
+    400006: LeftMachineGun01A_Eff 1
+    400008: LeftMachineGun01B_Eff
+    400010: LeftMachineGun01B_Eff 1
+    400012: LeftMachineGun02A_Eff
+    400014: LeftMachineGun02B_Eff
+    400016: LeftMachineGun1
+    400018: LeftMachineGun2
+    400020: LeftMachineGunBase01
+    400022: LeftMachineGunBase1
+    400024: LeftMachineGunBase2
+    400026: LeftMachineGunTablre01
+    400028: LeftMachineGunTablre1
+    400030: LeftMachineGunTablre2
+    400032: LeftMegaCannonA_Eff
+    400034: LeftMegaCannonB_Eff
+    400036: LeftMegaCannonTabule
+    400038: LeftMegaCannonXRot
+    400040: LeftMegaCannonYRot
+    400042: MainCannon
+    400044: MainCannonBase
+    400046: mMainCannonBase
+    400048: RightMachineGun01
+    400050: RightMachineGun01A_Eff
+    400052: RightMachineGun01B_Eff
+    400054: RightMachineGun02
+    400056: RightMachineGun02B_Eff
+    400058: RightMachineGun03
+    400060: RightMachineGun03A_Eff
+    400062: RightMachineGun03B_Eff
+    400064: RightMachineGunBase01
+    400066: RightMachineGunBase02
+    400068: RightMachineGunBase03
+    400070: RightMachineGunTablre01
+    400072: RightMachineGunTablre02
+    400074: RightMachineGunTablre03
+    400076: RightMainCannonA_Eff
+    400078: RightMainCannonB_Eff
+    400080: RightMegaCannonA_Eff
+    400082: RightMegaCannonB_Eff
+    400084: RightMegaCannonTabule
+    400086: RightMegaCannonXRot
+    400088: RightMegaCannonYrot
+    400090: //RootNode
+    400092: tRightMachineGun02A_Eff
+    2300000: Body
+    3300000: Body
+    4300000: Body
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sp0001_whitebase01_mt
+    second: {fileID: 2100000, guid: e98c286b08122984a8b8b57404f7c4ef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf8a939a490aba4f8be860336b37ce9, type: 3}
+  m_Name: FacialExpressionMap_Aikatsu_Default
+  m_EditorClassIdentifier: 
+  m_FacialExpressions:
+  - name: "\u4E0B\u304C\u308A\u7709"
+    key: 49
+    indexes: 02000000
+    isStopBlinkL: 0
+    isStopBlinkR: 0
+  - name: "\u30CB\u30C3\u30B3\u30EA"
+    key: 50
+    indexes: 13000000
+    isStopBlinkL: 1
+    isStopBlinkR: 1
+  - name: "\u30B8\u30C8\u76EE"
+    key: 51
+    indexes: 16000000
+    isStopBlinkL: 1
+    isStopBlinkR: 1
+  m_IgnoreLerpIndexes: 1300000016000000
