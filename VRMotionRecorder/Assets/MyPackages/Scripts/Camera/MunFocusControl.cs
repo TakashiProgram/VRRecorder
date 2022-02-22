@@ -12,7 +12,7 @@ public class MunFocusControl : MonobitEngine.MonoBehaviour
     [SerializeField] private float m_MoveSpeed = 0.5f;
     [SerializeField] private float m_DisplaySec = 1.5f;
 
-    //private PostProcessVolume m_PPVolume = null;
+   // private PostProcessVolume m_PPVolume = null;
     private float m_DisplayLeftSec = 0f;
 
     private static readonly string FOCUS_DISTANCE_BUTTON = "Drone_FocusDistance";
@@ -26,44 +26,44 @@ public class MunFocusControl : MonobitEngine.MonoBehaviour
             return;
         }
 
-        InputKey();
+       // InputKey();
         CountDisplayTime();
     }
 
-    private void InputKey()
-    {
-        float input = Input.GetAxis(FOCUS_DISTANCE_BUTTON);
-        if (0f == input)
-        {
-            return;
-        }
+    //private void InputKey()
+    //{
+    //    float input = Input.GetAxis(FOCUS_DISTANCE_BUTTON);
+    //    if (0f == input)
+    //    {
+    //        return;
+    //    }
 
-        //if (null == m_PPVolume)
-        //{
-        //    FindPPVolume();
-        //}
+    //    if (null == m_PPVolume)
+    //    {
+    //        FindPPVolume();
+    //    }
 
-        //if (null == m_PPVolume)
-        //{
-        //    return;
-        //}
+    //    if (null == m_PPVolume)
+    //    {
+    //        return;
+    //    }
 
-        //DepthOfField pr;
-        //if (false == m_PPVolume.sharedProfile.TryGetSettings<DepthOfField>(out pr))
-        //{
-        //    return;
-        //}
+    //    DepthOfField pr;
+    //    if (false == m_PPVolume.sharedProfile.TryGetSettings<DepthOfField>(out pr))
+    //    {
+    //        return;
+    //    }
 
-        //float value = pr.focusDistance.value + (input * m_MoveSpeed * Time.deltaTime);
-        //pr.focusDistance.value = value;
+    //    float value = pr.focusDistance.value + (input * m_MoveSpeed * Time.deltaTime);
+    //    pr.focusDistance.value = value;
 
-        //if (null != m_Text)
-        //{
-        //    m_Text.text = value.ToString(TEXT_FORMAT);
-        //}
+    //    if (null != m_Text)
+    //    {
+    //        m_Text.text = value.ToString(TEXT_FORMAT);
+    //    }
 
-        //m_DisplayLeftSec = m_DisplaySec;
-    }
+    //    m_DisplayLeftSec = m_DisplaySec;
+    //}
 
     private void CountDisplayTime()
     {
@@ -85,15 +85,15 @@ public class MunFocusControl : MonobitEngine.MonoBehaviour
         }
     }
 
-    private void FindPPVolume()
-    {
-        //var ppv = FindObjectOfType<PostProcessVolume>();
+    //private void FindPPVolume()
+    //{
+    //    var ppv = FindObjectOfType<PostProcessVolume>();
 
-        //if ( null == ppv )
-        //{
-        //    return;
-        //}
+    //    if ( null == ppv )
+    //    {
+    //        return;
+    //    }
 
-        //m_PPVolume = ppv;
-    }
+    //    m_PPVolume = ppv;
+    //}
 }

@@ -23,16 +23,18 @@ public class MunMirrorController : MonobitEngine.MonoBehaviour
         {
             yield return null;
         }
+        Debug.Log("PlayerType");
 
         if (false == IsNeedPlayerType())
         {
             yield break;
         }
-
+        Debug.Log("Need");
         while (false == MonobitNetwork.room.customParameters.ContainsKey(IS_DEBUG_MODE))
         {
             yield return null;
         }
+        Debug.Log("Debug");
 
         var is_debug_mode = (bool)MonobitNetwork.room.customParameters[IS_DEBUG_MODE];
 

@@ -36,18 +36,16 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
     private NetworkSettings m_Settings;
     private static readonly string SETTINGS_PATH = "NetworkSettings.json";
     private static readonly string DEBUG_MODE_KEY = "DebugMode";
-    private static readonly string DRESS2D_KEY = "Dress2D";
-    private static readonly string SURVEILLANCE_KEY = "Surveillance";
 
     //Monobit Room/Player Custom Parameters
     private static readonly string STAGE = "STAGE";
     private static readonly string IS_DEBUG_MODE = "IS_DEBUG_MODE";
-    private static readonly string IS_SURVEILLANCE = "IS_SURVEILLANCE";
-    private static readonly string IS_DRESS2D = "IS_DRESS2D";
     private static readonly string OFFSET_POS = "OFFSET_POS";
     private static readonly string OFFSET_ROT = "OFFSET_ROT";
     private static readonly string PLAYER_TYPE = "PLAYER_TYPE";
     private static readonly string AVATAR_ID = "AVATAR_ID";
+    private static readonly string CAMERA_NUM = "CAMERA_NUM";
+    private static readonly string PLAYER_NUM = "PLAYER_NUM";
 
 
     void Start()
@@ -56,7 +54,6 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
         MonobitEngine.MonobitNetwork.updateStreamRate = m_UpdateStreamRate;
 
         m_Settings = JsonHelper<NetworkSettings>.Read(SETTINGS_PATH);
-        Debug.Log(m_LocalHostInputField);
         m_LocalHostInputField.text = m_Settings.localHost;
 
         //if (m_IsAutoJoinRoom)
@@ -92,40 +89,6 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
             customParams[IS_DEBUG_MODE] = !is_debug_mode;
             MonobitNetwork.room.SetCustomParameters(customParams);
         }
-
-
-
-        if (Input.GetButtonDown(DRESS2D_KEY))
-        {
-            Hashtable customParams = MonobitNetwork.room.customParameters;
-
-            if (false == customParams.ContainsKey(IS_DRESS2D))
-            {
-                return;
-            }
-            var is_surveillance = (bool)customParams[IS_DRESS2D];
-
-            customParams[IS_DRESS2D] = !is_surveillance;
-            MonobitNetwork.room.SetCustomParameters(customParams);
-        }
-
-        if (Input.GetButtonDown(SURVEILLANCE_KEY))
-        {
-
-            Hashtable customParams = MonobitNetwork.room.customParameters;
-
-            if (false == customParams.ContainsKey(IS_SURVEILLANCE))
-            {
-                return;
-            }
-
-            var is_surveillance = (bool)customParams[IS_SURVEILLANCE];
-
-            customParams[IS_SURVEILLANCE] = !is_surveillance;
-            MonobitNetwork.room.SetCustomParameters(customParams);
-        }
-
-
     }
 
     void OnEnable()
@@ -240,6 +203,8 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
         Hashtable customParams = new Hashtable();
         customParams[PLAYER_TYPE] = m_SelectedPlayerInfo.playerType;
         customParams[AVATAR_ID] = m_SelectedPlayerInfo.avatarID;
+        customParams[CAMERA_NUM] = m_SelectedPlayerInfo.cameraNum;
+        customParams[PLAYER_NUM] = m_SelectedPlayerInfo.playerNum;
         MonobitEngine.MonobitNetwork.SetPlayerCustomParameters(customParams);
 
         StartCoroutine(LoadStage());
@@ -359,7 +324,7 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
         //    int random = UnityEngine.Random.Range(0, points.Length);
         //    spawn_pos = points[random].transform.position;
         //}
-
+        Debug.Log(m_SelectedPlayerInfo.prefabName);
         MonobitNetwork.Instantiate(m_SelectedPlayerInfo.prefabName, spawn_pos, Quaternion.identity, 0);
 
         if (null != m_Camera)
@@ -393,12 +358,10 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
     private void GoPlayerSelect()
     {
         m_LobbyCanvas.SetActive(false);
-       
+
         if (null != m_PlayerSelectManager)
         {
-            
             m_PlayerSelectManager.StartSelect();
-
         }
     }
 
@@ -419,8 +382,6 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
             Hashtable customParams = new Hashtable();
             customParams[STAGE] = m_SelectedStageInfo.stagePath;
             customParams[IS_DEBUG_MODE] = true;
-            customParams[IS_SURVEILLANCE] = false;
-            customParams[IS_DRESS2D] = false;
             customParams[OFFSET_POS] = Vector3.zero.ToString(); //vector3 to string
             customParams[OFFSET_ROT] = Vector3.zero.ToString(); //vector3 to string
             room_settings.roomParameters = customParams;
@@ -450,9 +411,8 @@ public class MonobitNetworkConnectManager : MonobitEngine.MonoBehaviour
 
     private void OnStageSelected(SelectedStageInfo args)
     {
-        
         m_SelectedStageInfo = args;
-        
+
         GoPlayerSelect();
     }
 

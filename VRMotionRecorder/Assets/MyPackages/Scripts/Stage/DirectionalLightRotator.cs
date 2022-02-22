@@ -2,13 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using System;
 public class DirectionalLightRotator : MonoBehaviour
 {
     [SerializeField] private GameObject m_Window = null;
     [SerializeField] private Text m_Text = null;
+    //[SerializeField] private SyncObjectManager m_SyncObjectManager;
     [SerializeField] private float m_RotateSpeed = 50f;
     [SerializeField] private float m_DisplaySec = 1.5f;
+
+    public Action<Vector3> OnLightRota;
+
 
     private float m_DisplayLeftSec = 0f;
 
@@ -17,6 +21,7 @@ public class DirectionalLightRotator : MonoBehaviour
 
     void Update()
     {
+       
         InputKey();
         CountDisplayTime();
     }
@@ -29,8 +34,11 @@ public class DirectionalLightRotator : MonoBehaviour
             return;
         }
 
-        transform.Rotate(Vector3.up, value * m_RotateSpeed * Time.deltaTime, Space.World);
-
+         transform.Rotate(Vector3.up, value * m_RotateSpeed * Time.deltaTime, Space.World);
+        if (null != OnLightRota)
+        {
+            OnLightRota(transform.rotation.eulerAngles);
+        }
         if (null != m_Text)
         {
             float y = transform.rotation.eulerAngles.y;
@@ -59,6 +67,9 @@ public class DirectionalLightRotator : MonoBehaviour
             m_Window.SetActive(false);
         }
     }
+
+ 
+
 
     private float RoundValue(float value)
     {

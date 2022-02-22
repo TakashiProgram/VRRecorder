@@ -6,7 +6,11 @@ using Cinemachine;
 
 public class CMCamsManager : MonoBehaviour
 {
+
+    [SerializeField] private string m_DisplayName = "Unknown";
+    [SerializeField] private float m_BlendSec = 2f;
     [SerializeField] private List<CinemachineVirtualCamera> m_Cams;
+
 
     private List<CMCamInfo> m_CamInfo = new List<CMCamInfo>();
 
@@ -24,6 +28,16 @@ public class CMCamsManager : MonoBehaviour
             info.m_DefaultFov = m_Cams[i].m_Lens.FieldOfView;
             m_CamInfo.Add(info);
         }
+    }
+
+    public string GetName()
+    {
+        return m_DisplayName;
+    }
+
+    public float GetBlendSec()
+    {
+        return m_BlendSec;
     }
 
     public CMCamInfo Activate()

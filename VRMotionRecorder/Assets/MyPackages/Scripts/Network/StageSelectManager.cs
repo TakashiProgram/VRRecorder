@@ -20,7 +20,7 @@ public class StageSelectManager : MonoBehaviour
 
     [SerializeField]
     private GameObject m_Content;
-
+    
     private int m_CurrentStageIndex = 0;
     private bool m_IsSelected = false;
     [SerializeField]
@@ -51,13 +51,12 @@ public class StageSelectManager : MonoBehaviour
 
     public void OnEnter()
     {
-        
         var args = new SelectedStageInfo();
         args.stagePath = m_StageMap.m_Stages[m_CurrentStageIndex].stagePath;
-        
+
         if (null != OnStageSelected)
             OnStageSelected(args);
-       
+
         m_StageSelectCanvas.SetActive(false);
         m_IsSelected = true;
     }
@@ -79,7 +78,7 @@ public class StageSelectManager : MonoBehaviour
 
             var button = obj.GetComponent<Button>();
             int num = i;
-            button.onClick.AddListener(() => ClickButton(num, obj));
+            button.onClick.AddListener(() => ClickButton(num,obj));
 
             if (start_button == null)
             {
@@ -94,18 +93,18 @@ public class StageSelectManager : MonoBehaviour
         SetStageUI();
     }
 
-    public void ClickButton(int num, GameObject button)
+    public void ClickButton(int num,GameObject button)
     {
         m_CurrentStageIndex = num;
         m_ChoiceStageImage.transform.parent = button.transform;
         m_ChoiceStageImage.transform.localPosition = m_SelectPos;
         SetStageUI();
     }
-
+    
     private void SetStageUI()
     {
         var stage = m_StageMap.m_Stages[m_CurrentStageIndex];
-        
+
         if (null == stage.image)
         {
 
@@ -113,6 +112,7 @@ public class StageSelectManager : MonoBehaviour
         }
         else
         {
+
             m_StageImage.texture = stage.image;
         }
         m_StageName.text = stage.name;

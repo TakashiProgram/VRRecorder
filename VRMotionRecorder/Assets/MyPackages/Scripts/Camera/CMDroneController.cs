@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using MonobitEngine;
@@ -6,6 +7,7 @@ using Cinemachine;
 
 public class CMDroneController : MonobitEngine.MonoBehaviour
 {
+    public Action<string> OnNextTarget;
 
     [Header("Components")]
     [SerializeField] private Camera m_Camera;
@@ -159,7 +161,10 @@ public class CMDroneController : MonobitEngine.MonoBehaviour
             return;
         }
 
-        m_CurrentCamInfo = m_Targets[0].Activate();
+        var target = m_Targets[0];
+        m_CurrentCamInfo = target.Activate();
+        m_CMBrain.m_DefaultBlend.m_Time = target.GetBlendSec();
+        if (null != OnNextTarget) OnNextTarget(target.GetName());
 
         m_CurrentTargetIndex = 0;
     }
@@ -210,7 +215,10 @@ public class CMDroneController : MonobitEngine.MonoBehaviour
             return;
         }
 
-        m_CurrentCamInfo = m_Targets[m_CurrentTargetIndex].Activate();
+        var target = m_Targets[m_CurrentTargetIndex];
+        m_CurrentCamInfo = target.Activate();
+        m_CMBrain.m_DefaultBlend.m_Time = target.GetBlendSec();
+        if (null != OnNextTarget) OnNextTarget(target.GetName());
     }
 
     private void NextCamera()
@@ -226,7 +234,8 @@ public class CMDroneController : MonobitEngine.MonoBehaviour
             return;
         }
 
-        m_CurrentCamInfo = m_Targets[m_CurrentTargetIndex].NextCamera();
+        var target = m_Targets[m_CurrentTargetIndex];
+        m_CurrentCamInfo = target.NextCamera();
 
     }
 }

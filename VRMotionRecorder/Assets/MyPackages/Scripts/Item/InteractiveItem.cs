@@ -79,6 +79,17 @@ public class InteractiveItem : MonobitEngine.MonoBehaviour
         if (null != m_Rigidbody)
         {
             m_Rigidbody.useGravity = use_gravity;
+            m_Rigidbody.velocity = Vector3.zero;
+            m_Rigidbody.angularVelocity = Vector3.zero;
+
+            if (true == use_gravity)
+            {
+                m_Rigidbody.WakeUp();
+            }
+            else
+            {
+                m_Rigidbody.Sleep();
+            }
         }
     }
 }

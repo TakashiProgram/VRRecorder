@@ -30,6 +30,7 @@ public class DroneController : MonobitEngine.MonoBehaviour
     private static readonly string BUTTON_ROTATE_VERTICAL       = "Drone_RotateVertical";
     private static readonly string BUTTON_PLUS_FOV              = "Drone_PlusFOV";
     private static readonly string BUTTON_MINUS_FOV             = "Drone_MinusFOV";
+    
 
     //private static readonly string BUTTON_NEXT_TARGET       = "Drone_NextTarget";
     //private static readonly string BUTTON_RELEASE_TARGET    = "Drone_ReleaseTarget";
@@ -69,6 +70,7 @@ public class DroneController : MonobitEngine.MonoBehaviour
         //ReleaseTarget();
         ResetPos();
 
+        
         //if (null != m_Target)
         //{
         //    m_LastTargetDif = transform.position - m_Target.position;
@@ -239,5 +241,5 @@ public class DroneController : MonobitEngine.MonoBehaviour
     //    var destination = m_Target.position + m_LastTargetDif;
     //    transform.position = Vector3.Lerp(transform.position, destination, 0.9f);
     //}
-
+   
 }

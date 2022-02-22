@@ -6,6 +6,7 @@ using RootMotion.FinalIK;
 public class AvatarLoader : MonoBehaviour
 {
     [SerializeField] private AvatarMap m_Map = null;
+    [SerializeField] private AvatarMap[] m_AvatarMap = null;
 
     [SerializeField] private Transform m_HeadIKTarget = null;
     [SerializeField] private Transform m_HandLIKTarget = null;
@@ -19,14 +20,13 @@ public class AvatarLoader : MonoBehaviour
     [SerializeField] private Hand m_HandL = null;
     [SerializeField] private Hand m_HandR = null;
 
-    public void Load(int id, bool is_owner, ref VRIK ik, ref VRIKRootController ik_root_controller)
+    public void Load(int id, int num,bool is_owner, ref VRIK ik, ref VRIKRootController ik_root_controller)
     {
         if (null == m_Map)
         {
             return;
         }
-
-        GameObject avatar = Instantiate(m_Map.m_Avatars[id].prefab, transform);
+        GameObject avatar = Instantiate(m_AvatarMap[num].m_Avatars[id].prefab, transform);
 
         var settings = avatar.GetComponentInChildren<AvatarSettings>();
 
@@ -54,7 +54,6 @@ public class AvatarLoader : MonoBehaviour
         {
             return;
         }
-
         var offsets = settings.GetIKTargetOffsets();
 
         //head

@@ -74,8 +74,11 @@ public class BlinkController : MonoBehaviour
                 return;
             }
 
-            //左右のうち、より開いている目のrateに合わせる
-            rate = Mathf.Min(m_LeftCurrentRate, rate);
+            ////左右のうち、より開いている目のrateに合わせる
+            //rate = Mathf.Min(m_LeftCurrentRate, rate);
+
+            //左右のうち、より閉じている目のrateに合わせる
+            rate = Mathf.Max(m_LeftCurrentRate, rate);
 
             UpdateLeftEye(rate);
             UpdateRightEye(rate);
@@ -167,7 +170,7 @@ public class BlinkController : MonoBehaviour
             m_LeftBlinkState = BlinkState.IS_OPENING;
             while (m_BlinkOpenSec > elapsed_time)
             {
-                float value = (elapsed_time / m_BlinkOpenSec) * OPEN_RATIO;
+                float value = ( 1f- (elapsed_time / m_BlinkOpenSec) ) * CLOSE_RATIO;
                 m_Renderer.SetBlendShapeWeight(m_LeftIndex, value);
                 elapsed_time += Time.deltaTime;
 
@@ -182,7 +185,7 @@ public class BlinkController : MonoBehaviour
             m_RightBlinkState = BlinkState.IS_OPENING;
             while (m_BlinkOpenSec > elapsed_time)
             {
-                float value = (elapsed_time / m_BlinkOpenSec) * OPEN_RATIO;
+                float value = (1f - (elapsed_time / m_BlinkOpenSec)) * CLOSE_RATIO;
                 m_Renderer.SetBlendShapeWeight(m_RightIndex, value);
                 elapsed_time += Time.deltaTime;
 

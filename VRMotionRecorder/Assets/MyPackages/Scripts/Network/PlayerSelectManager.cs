@@ -20,7 +20,7 @@ public class PlayerSelectManager : MonoBehaviour
 
     [SerializeField]
     private GameObject m_ButtonPrefab;
-
+    
     [SerializeField]
     private GameObject m_PlayerContent;
 
@@ -32,7 +32,7 @@ public class PlayerSelectManager : MonoBehaviour
 
     [SerializeField]
     private AvatarMap[] m_AvatarMap;
-
+    
     [SerializeField]
     private AvatarMap[] m_DressMap;
 
@@ -49,7 +49,7 @@ public class PlayerSelectManager : MonoBehaviour
     [SerializeField]
     private Image m_ChoiceDreesImage;
 
-    private Vector3 m_SelectPos = new Vector3(-180, 0, 0);
+    private Vector3 m_SelectPos = new Vector3(-180,0,0);
     void Start()
     {
         m_PlayerSelectCanvas.SetActive(false);
@@ -57,12 +57,10 @@ public class PlayerSelectManager : MonoBehaviour
 
     public void StartSelect()
     {
-        
-
         OnSelectPlayerType(0);
+
         m_PlayerSelectCanvas.SetActive(true);
         ButtonGenerate();
-
     }
 
     //ボタン処理
@@ -71,9 +69,7 @@ public class PlayerSelectManager : MonoBehaviour
         m_CurrentPlayerTypeIndex = index;
         m_CurrentAvatarIndex = 0;
         m_ChoiceDreesImage.transform.parent = null;
-        Debug.Log("通っている");
         int num = int.Parse(m_CameraNum.text);
-        
         if (index != 1)
         {
             m_CameraNum.gameObject.SetActive(false);
@@ -82,7 +78,6 @@ public class PlayerSelectManager : MonoBehaviour
         {
             m_CameraNum.gameObject.SetActive(true);
         }
-        
         int child_count = m_DressContent.transform.childCount;
         if (child_count != 0)
         {
@@ -111,13 +106,13 @@ public class PlayerSelectManager : MonoBehaviour
     {
         var args = new SelectedPlayerInfo();
         var current_player = m_PlayerMap[m_CurrentPlayerTypeIndex];
-
+        
         args.prefabName = current_player.prefab.name;
         args.playerType = (int)current_player.type;
         args.avatarID = m_CurrentAvatarIndex;
         args.cameraNum = int.Parse(m_CameraNum.text);
         args.playerNum = m_TypeNum;
-
+ 
         if (null != OnPlayerSelected)
             OnPlayerSelected(args);
 
@@ -147,7 +142,7 @@ public class PlayerSelectManager : MonoBehaviour
                 Destroy(n.gameObject);
             }
         }
-
+        
         if (m_CurrentPlayerTypeIndex == 0)
         {
             var avatar_map = m_AvatarNameMap;
@@ -158,25 +153,25 @@ public class PlayerSelectManager : MonoBehaviour
                 var obj = Instantiate(m_ButtonPrefab);
                 obj.transform.parent = m_PlayerContent.transform;
                 obj.transform.localScale = Vector3.one;
-
+                
                 var button = obj.GetComponent<Button>();
                 int num = i;
-                button.onClick.AddListener(() => ClickDreesButton(num, obj));
+                button.onClick.AddListener(() => ClickDreesButton(num,obj));
                 if (start_button == null)
                 {
                     start_button = obj;
                     start_num = i;
                 }
-
+                
                 var text = obj.GetComponentInChildren<Text>();
                 text.text = avatar_map.m_AvatarNames[i].name;
             }
 
-            ClickDreesButton(start_num, start_button);
+            ClickDreesButton(start_num,start_button);
         }
         else
         {
-            var avatar_map = m_AvatarMap[m_CurrentPlayerTypeIndex - 1];
+            var avatar_map = m_AvatarMap[m_CurrentPlayerTypeIndex -1];
             GameObject start_button = null;
             int start_num = -1;
 
@@ -185,10 +180,10 @@ public class PlayerSelectManager : MonoBehaviour
                 var obj = Instantiate(m_ButtonPrefab);
                 obj.transform.parent = m_PlayerContent.transform;
                 obj.transform.localScale = Vector3.one;
-
+                
                 var button = obj.GetComponent<Button>();
                 int num = i;
-                button.onClick.AddListener(() => ClickButton(num, obj));
+                button.onClick.AddListener(() => ClickButton(num,obj));
 
                 if (start_button == null)
                 {
@@ -203,7 +198,7 @@ public class PlayerSelectManager : MonoBehaviour
         }
     }
 
-    private void ClickDreesButton(int num, GameObject button)
+    private void ClickDreesButton(int num,GameObject button)
     {
         m_TypeNum = num;
 
@@ -212,7 +207,7 @@ public class PlayerSelectManager : MonoBehaviour
         DressButtonGenerate(num);
     }
 
-    private void ClickButton(int num, GameObject button)
+    private void ClickButton(int num,GameObject button)
     {
         m_ChoicePlayerImage.transform.parent = button.transform;
         m_ChoicePlayerImage.transform.localPosition = m_SelectPos;
@@ -240,10 +235,10 @@ public class PlayerSelectManager : MonoBehaviour
             var obj = Instantiate(m_ButtonPrefab);
             obj.transform.parent = m_DressContent.transform;
             obj.transform.localScale = Vector3.one;
-
+            
             var button = obj.GetComponent<Button>();
             var num = i;
-            button.onClick.AddListener(() => SetDressUI(dress_count, num, obj));
+            button.onClick.AddListener(() => SetDressUI(dress_count ,num,obj));
 
 
             if (start_button == null)
@@ -257,10 +252,10 @@ public class PlayerSelectManager : MonoBehaviour
             text.text = dress_map[dress_count].m_Avatars[i].name;
         }
 
-        SetDressUI(start_dress_count, start_num, start_button);
+        SetDressUI(start_dress_count,start_num, start_button);
     }
 
-    private void SetDressUI(int dress_count, int num, GameObject button)
+    private void SetDressUI(int dress_count, int num,GameObject button)
     {
         m_CurrentAvatarIndex = num;
         m_ChoiceDreesImage.transform.parent = button.transform;

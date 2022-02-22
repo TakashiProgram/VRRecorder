@@ -14,7 +14,9 @@ public class Hand : MonoBehaviour
     private InteractiveItem m_GrabbingItem = null;
     
     [SerializeField] private bool m_IsEasyInput = false;
-    [SerializeField] private GrabPose[] m_EasyInputPose;
+    [SerializeField] private GrabPose m_EasyInputPose_Goo;
+    [SerializeField] private GrabPose m_EasyInputPose_Index;
+    [SerializeField] private GrabPose m_EasyInputPose_Paa;
 
     private readonly string SWITCH_INPUT_KEY = "SwitchHandInput";
 
@@ -69,15 +71,15 @@ public class Hand : MonoBehaviour
 
             if ((true == is_grab_pinch) && (true == is_grab_grip))
             {
-                m_FingerSync.SetPose(m_EasyInputPose[1]);
+                m_FingerSync.SetPose(m_EasyInputPose_Goo);
             }
             else if ((false == is_grab_pinch) && (true == is_grab_grip))
             {
-                m_FingerSync.SetPose(m_EasyInputPose[2]);
+                m_FingerSync.SetPose(m_EasyInputPose_Index);
             }
             else
             {
-                m_FingerSync.SetPose(m_EasyInputPose[0]);
+                m_FingerSync.SetPose(m_EasyInputPose_Paa);
             }
         }
     }

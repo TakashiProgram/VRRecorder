@@ -11,7 +11,7 @@ public class MunAvatarController : MonobitEngine.MonoBehaviour
 
     private int m_CurrentAvatarIndex = -1;
     private static readonly string AVATAR_ID = "AVATAR_ID";
-    //private static readonly string CALIBRATE_KEY = "Calibrate";
+    private static readonly string PLAYER_NUM = "PLAYER_NUM";
 
     void Start()
     {
@@ -61,7 +61,7 @@ public class MunAvatarController : MonobitEngine.MonoBehaviour
         {
             yield return null;
         }
-
+        int num = (int)monobitView.owner.customParameters[PLAYER_NUM];
         int id = (int)monobitView.owner.customParameters[AVATAR_ID];
 
         if (m_CurrentAvatarIndex == id)
@@ -75,7 +75,7 @@ public class MunAvatarController : MonobitEngine.MonoBehaviour
 
         if (null != m_Loader)
         {
-            m_Loader.Load(m_CurrentAvatarIndex, monobitView.isOwner, ref ik, ref ik_root_controller);
+            m_Loader.Load(m_CurrentAvatarIndex, num, monobitView.isOwner, ref ik, ref ik_root_controller);
         }
 
         if (null != m_Calibrator)

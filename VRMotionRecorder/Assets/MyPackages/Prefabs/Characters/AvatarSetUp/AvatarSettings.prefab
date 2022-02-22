@@ -538,6 +538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BlinkRate: 0.8
+  m_IsOneEyedBlink: 0
   m_BlinkCloseSec: 0.01
   m_BlinkOpenSec: 0.1
   m_FacialExpressionController: {fileID: 531654817464408063}
@@ -918,7 +919,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4020024162804355063}
   - component: {fileID: 3060292306659935190}
-  m_Layer: 15
+  m_Layer: 0
   m_Name: CM Cams
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -954,6 +955,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 368d0bb70cf1c454db6c1d866e6b5820, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_DisplayName: Unknown
+  m_BlendSec: 2
   m_Cams:
   - {fileID: 4020024161698221090}
   - {fileID: 4020024161985878382}
