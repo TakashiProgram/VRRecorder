@@ -15,5 +15,4 @@ MonoBehaviour:
   m_Avatars:
   - name: Dress
     image: {fileID: 2800000, guid: 261764c0a173fdb4dbf4d09b52986102, type: 3}
-    prefab: {fileID: 2676769271560778065, guid: ac7a89849643e964e88ef8356a6242dc,
-      type: 3}
+    prefab: {fileID: 846892230479229655, guid: 38ce866ef4ef00045b4375b3efaae1ff, type: 3}

@@ -158,6 +158,11 @@ MonoBehaviour:
   m_HeightOffset:
     slider: {fileID: 1173126520989660607}
     text: {fileID: 3792152508024255331}
+  m_IKTargetOffsets: {fileID: 0}
+  m_DropDown: {fileID: 0}
+  m_Offset: []
+  m_Pos: []
+  m_Rot: []
 --- !u!1 &1892433933
 GameObject:
   m_ObjectHideFlags: 0
@@ -806,10 +811,9 @@ MonoBehaviour:
   m_Solver: 1
   m_InputHandle: {fileID: 2913710686501475718}
   m_IsEasyInput: 0
-  m_EasyInputPose:
-  - {fileID: 11400000, guid: a5a06bea026cf1f44a899398732c3ee7, type: 2}
-  - {fileID: 11400000, guid: 2b7555b7a59f1e047a274c80134a9610, type: 2}
-  - {fileID: 11400000, guid: 4999e935f4ac31e46b741d7e6923b38f, type: 2}
+  m_EasyInputPose_Goo: {fileID: 0}
+  m_EasyInputPose_Index: {fileID: 0}
+  m_EasyInputPose_Paa: {fileID: 0}
 --- !u!65 &1485403449937926838
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3985,10 +3989,9 @@ MonoBehaviour:
   m_Solver: 0
   m_InputHandle: {fileID: 350328954928576186}
   m_IsEasyInput: 0
-  m_EasyInputPose:
-  - {fileID: 11400000, guid: a5a06bea026cf1f44a899398732c3ee7, type: 2}
-  - {fileID: 11400000, guid: 2b7555b7a59f1e047a274c80134a9610, type: 2}
-  - {fileID: 11400000, guid: 4999e935f4ac31e46b741d7e6923b38f, type: 2}
+  m_EasyInputPose_Goo: {fileID: 0}
+  m_EasyInputPose_Index: {fileID: 0}
+  m_EasyInputPose_Paa: {fileID: 0}
 --- !u!65 &8548846517375218074
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5194,7 +5197,7 @@ MonoBehaviour:
   m_Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 35ab30e3c9b732243aa5a080069ca351, type: 2}
+  m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
@@ -6513,6 +6516,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Map: {fileID: 11400000, guid: 17e96faf29687e34d88c476ee9f301bb, type: 2}
+  m_AvatarMap:
+  - {fileID: 11400000, guid: 17e96faf29687e34d88c476ee9f301bb, type: 2}
+  - {fileID: 11400000, guid: 500ed0cb2732be24d8d4720174733c34, type: 2}
   m_HeadIKTarget: {fileID: 241956205022795666}
   m_HandLIKTarget: {fileID: 1897981752553123025}
   m_HandRIKTarget: {fileID: 379875801054422904}

@@ -11,6 +11,7 @@ using UnityEngine;
 using System;
 using System.IO;
 using System.Reflection;
+
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
@@ -60,6 +61,18 @@ namespace Entum
         public float TargetFPS = 60.0f;
 
 
+        [SerializeField]
+        private string m_Scene;
+
+        [SerializeField]
+        private string m_Cat;
+
+        [SerializeField]
+        private string m_Take;
+
+        private string folder;
+
+
         // Use this for initialization
         private void Awake()
         {
@@ -84,6 +97,7 @@ namespace Entum
             {
                 RecordEnd();
             }
+
         }
 
         // Update is called once per frame
@@ -171,7 +185,7 @@ namespace Entum
         /// <summary>
         /// 録画開始
         /// </summary>
-        private void RecordStart()
+        public void RecordStart()
         {
             if (_recording)
             {
@@ -196,7 +210,7 @@ namespace Entum
         /// <summary>
         /// 録画終了
         /// </summary>
-        private void RecordEnd()
+        public void RecordEnd()
         {
             if (!_recording)
             {
@@ -236,9 +250,11 @@ namespace Entum
         protected virtual void WriteAnimationFile()
         {
 #if UNITY_EDITOR
-            SafeCreateDirectory("Assets/Resources");
-
-            var path = string.Format("Assets/Resources/RecordMotion_{0}{1:yyyy_MM_dd_HH_mm_ss}.asset", _animator.name, DateTime.Now);
+            var folder_name = "Assets/Resources/Scene" + m_Scene + "/Cat" + m_Cat + "/" + _animator.name;
+            SafeCreateDirectory(folder_name);
+            var time = DateTime.Now.ToString("_HH_mm_ss");
+            Debug.Log(time);
+            var path = string.Format(folder_name + "/Take" + m_Take + time + ".asset", _animator.name, DateTime.Now);
             var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
 
             AssetDatabase.CreateAsset(Poses, uniqueAssetPath);
@@ -260,6 +276,36 @@ namespace Entum
         public Animator CharacterAnimator
         {
             get { return _animator; }
+        }
+
+        public void SetScene(string scene)
+        {
+            m_Scene = scene;
+        }
+
+        public void SetCat(string cat)
+        {
+            m_Cat = cat;
+        }
+
+        public void SetTake(string take)
+        {
+            m_Take = take;
+        }
+
+        public string GetScene()
+        {
+            return m_Scene;
+        }
+
+        public string GetCat()
+        {
+            return m_Cat;
+        }
+
+        public string GetTake()
+        {
+            return m_Take;
         }
 
         public class TQ

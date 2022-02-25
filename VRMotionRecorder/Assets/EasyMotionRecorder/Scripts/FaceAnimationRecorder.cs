@@ -25,10 +25,12 @@ namespace Entum
     [RequireComponent(typeof(MotionDataRecorder))]
     public class FaceAnimationRecorder : MonoBehaviour
     {
-        [Header("表情記録を同時に行う場合はtrueにします")] [SerializeField]
+        [Header("表情記録を同時に行う場合はtrueにします")]
+        [SerializeField]
         private bool _recordFaceBlendshapes = false;
 
-        [Header("リップシンクを記録したくない場合はここにモーフ名を入れていく 例:face_mouse_eなど")] [SerializeField]
+        [Header("リップシンクを記録したくない場合はここにモーフ名を入れていく 例:face_mouse_eなど")]
+        [SerializeField]
         private List<string> _exclusiveBlendshapeNames;
 
         [Tooltip("記録するFPS。0で制限しない。UpdateのFPSは超えられません。")]
@@ -50,7 +52,20 @@ namespace Entum
 
         private float _recordedTime = 0f;
         private float _startTime;
+        //[SerializeField]
+        //private string m_Scene;
 
+        //[SerializeField]
+       //private string m_Cat;
+
+        //[SerializeField]
+        //private string m_Take;
+
+        [SerializeField]
+        private MotionDataRecorder m_MotionDataRecorder;
+
+        [SerializeField]
+        private GameObject m_Model;
         // Use this for initialization
         private void OnEnable()
         {
@@ -322,11 +337,11 @@ namespace Entum
                     AnimationUtility.SetEditorCurve(animclip, curveBinding, curve);
                 }
             }
+            var folder_name = "Assets/Resources/Scene" + m_MotionDataRecorder.GetScene() + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + m_Model.name;
+            MotionDataRecorder.SafeCreateDirectory(folder_name);
 
-            MotionDataRecorder.SafeCreateDirectory("Assets/Resources");
-
-            var outputPath = "Assets/Resources/FaceRecordMotion_" + _animRecorder.CharacterAnimator.name + "_" +
-                             DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss") + "_Clip.anim";
+            var outputPath = folder_name + "/Take" + m_MotionDataRecorder.GetTake() + _animRecorder.CharacterAnimator.name + "_" +
+                             DateTime.Now.ToString("HH_mm_ss") + "_Clip.anim";
 
             Debug.Log("outputPath:" + outputPath);
             AssetDatabase.CreateAsset(animclip,
