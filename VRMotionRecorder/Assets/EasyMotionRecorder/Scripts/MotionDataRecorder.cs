@@ -72,6 +72,8 @@ namespace Entum
 
         private string folder;
 
+        [SerializeField]
+        private MotionConverter m_MotionConverter;
 
         // Use this for initialization
         private void Awake()
@@ -225,6 +227,7 @@ namespace Entum
 
             OnRecordEnd -= WriteAnimationFile;
             _recording = false;
+            m_MotionConverter.ExportHumanoidAnim();
         }
 
         private static void SetHumanBoneTransformToHumanoidPoses(Animator animator, ref HumanoidPoses.SerializeHumanoidPose pose)
@@ -250,6 +253,7 @@ namespace Entum
         protected virtual void WriteAnimationFile()
         {
 #if UNITY_EDITOR
+            Debug.Log("Assets/Resources/Scene" + m_Scene + "/Cat" + m_Cat + "/" + _animator.name);
             var folder_name = "Assets/Resources/Scene" + m_Scene + "/Cat" + m_Cat + "/" + _animator.name;
             SafeCreateDirectory(folder_name);
             var time = DateTime.Now.ToString("_HH_mm_ss");
@@ -306,6 +310,16 @@ namespace Entum
         public string GetTake()
         {
             return m_Take;
+        }
+
+        public HumanoidPoses GetPoses()
+        {
+            return Poses;
+        }
+
+        public string GetAnimatorName()
+        {
+            return _animator.name;
         }
 
         public class TQ

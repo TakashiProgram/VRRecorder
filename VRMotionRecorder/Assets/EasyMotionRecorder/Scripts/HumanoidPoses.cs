@@ -167,7 +167,7 @@ namespace Entum
 
             var path = string.Format("Assets/Resources/RecordMotion_{0:yyyy_MM_dd_HH_mm_ss}_Generic.anim", DateTime.Now);
             var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
-
+            
             AssetDatabase.CreateAsset(clip, uniqueAssetPath);
             AssetDatabase.SaveAssets();
         }
@@ -329,7 +329,8 @@ namespace Entum
 
             var path = string.Format("Assets/Resources/RecordMotion_{0:yyyy_MM_dd_HH_mm_ss}_Humanoid.anim", DateTime.Now);
             var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
-
+            Debug.Log("通った");
+            
             AssetDatabase.CreateAsset(clip, uniqueAssetPath);
             AssetDatabase.SaveAssets();
         }

@@ -1,0 +1,6101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &57855785279740848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2587985113733639259}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2587985113733639259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57855785279740848}
+  m_LocalRotation: {x: -0.25089902, y: 0.93398005, z: 0.08921851, w: 0.23826668}
+  m_LocalPosition: {x: -0.04752755, y: 2.842171e-16, z: 8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6695531902759422157}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &184022268587514493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4313722503042042029}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4313722503042042029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184022268587514493}
+  m_LocalRotation: {x: -0.004619785, y: -0.11249088, z: -0.010737819, w: 0.993584}
+  m_LocalPosition: {x: -0.08753502, y: 4.2047553e-17, z: 5.8508324e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8136306458374728108}
+  m_Father: {fileID: 4290236427094123866}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &223073524492233208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 83543865282640014}
+  m_Layer: 0
+  m_Name: Boruto_HairBack8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &83543865282640014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 223073524492233208}
+  m_LocalRotation: {x: 0.5143938, y: -0.48549458, z: 0.49232113, w: 0.5072612}
+  m_LocalPosition: {x: -0.13533013, y: -0.00038591964, z: -0.09363445}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9061972650464610241}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &235110188202449755
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5488727279288306775}
+  m_Layer: 0
+  m_Name: Boruto_RightForeArmRoll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5488727279288306775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 235110188202449755}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.1058697, y: 0.00000077919753, z: -0.000000029201715}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 123342495890204898}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &283450622252778800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7719221007972194912}
+  - component: {fileID: 1484688225049937899}
+  m_Layer: 0
+  m_Name: Band
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7719221007972194912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283450622252778800}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1484688225049937899
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283450622252778800}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 7edb80fa71d02844d9e9871461acb8d8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 5239907867132663878, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.66175056, y: -0.00014600158, z: -0.023415282}
+    m_Extent: {x: 0.057689607, y: 0.10466659, z: 0.112844214}
+  m_DirtyAABB: 0
+--- !u!1 &401731872892922850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 303231691206140293}
+  m_Layer: 0
+  m_Name: Boruto_RightHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &303231691206140293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 401731872892922850}
+  m_LocalRotation: {x: 0.0010838729, y: -0.013337073, z: 0.03591103, w: 0.99926543}
+  m_LocalPosition: {x: 0.039353944, y: -0.0000005858448, z: 0.000000025388983}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4351866048104855072}
+  m_Father: {fileID: 2875732870966609606}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &722594380728656735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4183827868047142102}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4183827868047142102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722594380728656735}
+  m_LocalRotation: {x: -0.3638198, y: 0.27160516, z: 0.15637879, w: 0.8771611}
+  m_LocalPosition: {x: -0.040813927, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 704032448854771088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &794496102001435475
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 496781021982136244}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &496781021982136244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794496102001435475}
+  m_LocalRotation: {x: -0.224105, y: 0.68774855, z: 0.18534133, w: 0.6651523}
+  m_LocalPosition: {x: -0.061641414, y: 0, z: -8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6532366517399705920}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &851321834013990920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7466027857272647976}
+  m_Layer: 0
+  m_Name: Boruto_RightHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7466027857272647976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851321834013990920}
+  m_LocalRotation: {x: 0.0002667124, y: 0.01840775, z: 0.04061574, w: 0.99900526}
+  m_LocalPosition: {x: 0.072346546, y: -0.0012225268, z: -0.019374225}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6051481249356570540}
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &905567886972142084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566021565390100670}
+  m_Layer: 0
+  m_Name: Boruto
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566021565390100670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905567886972142084}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8665069846275910925}
+  - {fileID: 7316629399165677375}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &964009500508789580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5097776953533098287}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5097776953533098287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964009500508789580}
+  m_LocalRotation: {x: 0.9982978, y: 0.052657712, z: -0.024653766, w: -0.0045641954}
+  m_LocalPosition: {x: -0.0014038852, y: 0.0942, z: 0.08280588}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3657672897812838807}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1168571544654583635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6051481249356570540}
+  m_Layer: 0
+  m_Name: Boruto_RightHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6051481249356570540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168571544654583635}
+  m_LocalRotation: {x: 0.00062305515, y: 0.0113846315, z: -0.02679747, w: 0.99957585}
+  m_LocalPosition: {x: 0.036416467, y: 0.00000014807219, z: -0.0000000067999744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1447233472572940912}
+  m_Father: {fileID: 7466027857272647976}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1201119384259122282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3920972519389719270}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3920972519389719270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201119384259122282}
+  m_LocalRotation: {x: 0.072082624, y: 0.0033962957, z: 0.9935336, w: 0.08765569}
+  m_LocalPosition: {x: -0.026023827, y: -0.15322557, z: -0.0037818353}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3264026798747332944}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1201960801780252811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4895677455784566411}
+  m_Layer: 0
+  m_Name: Boruto_Necklace
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4895677455784566411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201960801780252811}
+  m_LocalRotation: {x: -0.36051536, y: -6.6247913e-16, z: 0.93275326, w: -1.7140173e-15}
+  m_LocalPosition: {x: -0.1938177, y: 1.9363878e-15, z: 0.045882516}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8010338523506598315}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1397602024416280600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8010338523506598315}
+  m_Layer: 0
+  m_Name: Boruto_Necklace1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8010338523506598315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397602024416280600}
+  m_LocalRotation: {x: 0, y: -0.13026959, z: -0, w: 0.9914786}
+  m_LocalPosition: {x: -0.038358428, y: -3.3369039e-18, z: 1.35960526e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 135536154259124438}
+  m_Father: {fileID: 4895677455784566411}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1446602654375179628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 507726138704676446}
+  m_Layer: 0
+  m_Name: Boruto_RightHandPinky3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &507726138704676446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446602654375179628}
+  m_LocalRotation: {x: -0.0024781812, y: 0.011117846, z: -0.016480813, w: 0.9997993}
+  m_LocalPosition: {x: 0.017786046, y: 0.00000033141396, z: -0.000000022223984}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2463595931896243038}
+  m_Father: {fileID: 193616365135538301}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1507435485738968069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1247305055540753640}
+  m_Layer: 0
+  m_Name: Boruto_LeftEyeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1247305055540753640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1507435485738968069}
+  m_LocalRotation: {x: 0.49444938, y: -0.49444938, z: -0.5054897, w: 0.5054897}
+  m_LocalPosition: {x: -0.05446625, y: -4.7683323e-19, z: 7.7854385e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6134064072681214814}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1640758492192473256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8109472015125507576}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8109472015125507576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1640758492192473256}
+  m_LocalRotation: {x: -0.004619785, y: -0.11249088, z: -0.010737819, w: 0.993584}
+  m_LocalPosition: {x: 0.087535314, y: 0.000000020707123, z: 0.00000073312503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2951929469445155053}
+  m_Father: {fileID: 3692106669096162666}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1651115927810392599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3054124184565033528}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3054124184565033528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1651115927810392599}
+  m_LocalRotation: {x: 0.0001497726, y: -0.013821245, z: 0.0031493984, w: 0.99989957}
+  m_LocalPosition: {x: 0.113058075, y: 0.00000056759035, z: 0.000000016797113}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8879548942764457573}
+  m_Father: {fileID: 7857739726581628731}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1656353795872202898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2448485956567949539}
+  m_Layer: 0
+  m_Name: Boruto_RightHairFront
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2448485956567949539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1656353795872202898}
+  m_LocalRotation: {x: 0.018080171, y: 0.008121858, z: 0.91201055, w: -0.40968752}
+  m_LocalPosition: {x: -0.182096, y: -0.0074982373, z: 0.11123288}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2044277270940965435}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1671318140888090543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5536483802453593084}
+  - component: {fileID: 5394970626881331461}
+  m_Layer: 0
+  m_Name: Hair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5536483802453593084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671318140888090543}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5394970626881331461
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1671318140888090543}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 7edb80fa71d02844d9e9871461acb8d8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -3178576508544696699, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.70547026, y: 0.002876833, z: -0.045461085}
+    m_Extent: {x: 0.13237357, y: 0.1689712, z: 0.15669255}
+  m_DirtyAABB: 0
+--- !u!1 &1689017623584800954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4537520138223779064}
+  - component: {fileID: 2156370633817910086}
+  m_Layer: 0
+  m_Name: Leg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4537520138223779064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689017623584800954}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2156370633817910086
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689017623584800954}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  - {fileID: 2100000, guid: 428b4925091a91d4483c54124741446e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 2537422257332086475, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: 0.2814747, y: -0.0018720776, z: 0.0146663785}
+    m_Extent: {x: 0.48642755, y: 0.2942987, z: 0.14392813}
+  m_DirtyAABB: 0
+--- !u!1 &2015374342631282021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1268626629170336754}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1268626629170336754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015374342631282021}
+  m_LocalRotation: {x: 0.024653766, y: 0.0045641954, z: 0.9982978, w: 0.052657712}
+  m_LocalPosition: {x: -0.0014039918, y: -0.094200045, z: 0.08280592}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8480793989470980473}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2157698710870025499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6534901415302783257}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacketTop1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6534901415302783257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2157698710870025499}
+  m_LocalRotation: {x: -0.019772476, y: 0.023440588, z: -0.6444625, w: 0.76402074}
+  m_LocalPosition: {x: -0.11635625, y: -9.687749e-17, z: -4.540094e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3264026798747332944}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2247157446841827042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3405377003782116342}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandIndexTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3405377003782116342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2247157446841827042}
+  m_LocalRotation: {x: 0.00091512105, y: -0.0024379198, z: -0.35142562, w: 0.9362122}
+  m_LocalPosition: {x: -0.021690968, y: -0.000000067226225, z: -0.000000006888229}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2827406305743458071}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2270418849263765145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1447233472572940912}
+  m_Layer: 0
+  m_Name: Boruto_RightHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1447233472572940912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2270418849263765145}
+  m_LocalRotation: {x: -0.00006136558, y: -0.014713032, z: 0.0030799357, w: 0.99988705}
+  m_LocalPosition: {x: 0.020403491, y: -0.00000006140047, z: -0.000000010145789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8016642846859263797}
+  m_Father: {fileID: 6051481249356570540}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2330759313849209709
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3971589370309456079}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3971589370309456079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2330759313849209709}
+  m_LocalRotation: {x: -0.078493856, y: 0.96863765, z: -0.01904198, w: 0.23498373}
+  m_LocalPosition: {x: -0.07887372, y: -2.842171e-16, z: -1.7763568e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4604857498533420514}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2423276727823309581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4513184452276206958}
+  m_Layer: 0
+  m_Name: Boruto_LeftForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4513184452276206958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2423276727823309581}
+  m_LocalRotation: {x: 0.000038260947, y: 0.028879428, z: 0.013773696, w: 0.99948806}
+  m_LocalPosition: {x: -0.23567516, y: 0.00041197764, z: -0.00086571794}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 580695772555450263}
+  - {fileID: 7492504399767689763}
+  m_Father: {fileID: 1890007142869918044}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2566481686969228200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3839794428146673289}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3839794428146673289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2566481686969228200}
+  m_LocalRotation: {x: -0.18225491, y: 0.8856622, z: 0.06998093, w: 0.42129365}
+  m_LocalPosition: {x: -0.055031702, y: 0, z: -2.6645352e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6673019372220819204}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2621906683096941799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7426758706940574940}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7426758706940574940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621906683096941799}
+  m_LocalRotation: {x: -0.0054302244, y: 0.0014458111, z: -0.042125646, w: 0.9990965}
+  m_LocalPosition: {x: -0.021860698, y: -0.0000004966015, z: -0.00000009002023}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8332969572343985011}
+  m_Father: {fileID: 1370688539228849403}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2685785901558745457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6388336217628995138}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6388336217628995138
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685785901558745457}
+  m_LocalRotation: {x: 0.0002667124, y: 0.01840775, z: 0.04061574, w: 0.99900526}
+  m_LocalPosition: {x: -0.072346546, y: 0.0012225268, z: 0.019374225}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6938724373440807542}
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2774232611386623006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3793785709202971821}
+  m_Layer: 0
+  m_Name: Boruto_RightHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3793785709202971821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2774232611386623006}
+  m_LocalRotation: {x: -0.00009789924, y: -0.007581547, z: -0.00079804496, w: 0.999971}
+  m_LocalPosition: {x: 0.037151176, y: -0.0000003241277, z: -0.00000007011934}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1897392817598647995}
+  m_Father: {fileID: 8818845312460348538}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2805096642219522202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 193616365135538301}
+  m_Layer: 0
+  m_Name: Boruto_RightHandPinky2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &193616365135538301
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2805096642219522202}
+  m_LocalRotation: {x: -0.0012532591, y: -0.0066081393, z: -0.008086376, w: 0.9999447}
+  m_LocalPosition: {x: 0.030440137, y: -0.000000027624328, z: 0.000000012180179}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 507726138704676446}
+  m_Father: {fileID: 4682793237150359337}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2824983702541680917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8570446655913979164}
+  m_Layer: 0
+  m_Name: Boruto_LeftLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8570446655913979164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2824983702541680917}
+  m_LocalRotation: {x: -0.000034436463, y: -0.046920996, z: 0.0020355321, w: 0.99889654}
+  m_LocalPosition: {x: -0.3101489, y: 1.797979e-16, z: -6.217249e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2307530469955838398}
+  m_Father: {fileID: 5882490040578794300}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3074075963322185255
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8879548942764457573}
+  m_Layer: 0
+  m_Name: Boruto_RightJacketTop1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8879548942764457573
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3074075963322185255}
+  m_LocalRotation: {x: -0.019772476, y: 0.023440588, z: -0.6444625, w: 0.76402074}
+  m_LocalPosition: {x: 0.11635658, y: -0.000000491951, z: -0.000000027211184}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3054124184565033528}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3107180237535142839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7422181975904837156}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacketTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7422181975904837156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3107180237535142839}
+  m_LocalRotation: {x: 0.0068344357, y: -0.0074450695, z: -0.67621624, w: 0.7366339}
+  m_LocalPosition: {x: -0.121666916, y: -1.2887975e-17, z: -1.3638473e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8480793989470980473}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3114961074806974613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2463595931896243038}
+  m_Layer: 0
+  m_Name: Boruto_RightHandPinkyTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2463595931896243038
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3114961074806974613}
+  m_LocalRotation: {x: -0.0226567, y: 0.06518482, z: -0.3275275, w: 0.9423181}
+  m_LocalPosition: {x: 0.020146372, y: -0.00000032253922, z: -0.000000075723946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 507726138704676446}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3128370873613115441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5728524924239123339}
+  m_Layer: 0
+  m_Name: Boruto_LeftToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5728524924239123339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3128370873613115441}
+  m_LocalRotation: {x: 0.008000531, y: 0.24789092, z: 0.00078324444, w: 0.9687546}
+  m_LocalPosition: {x: -0.11763998, y: -4.9960034e-18, z: 1.3100631e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1089639592853263566}
+  m_Father: {fileID: 2307530469955838398}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3304595322381130374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1897392817598647995}
+  m_Layer: 0
+  m_Name: Boruto_RightHandRing3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1897392817598647995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3304595322381130374}
+  m_LocalRotation: {x: -0.0054302244, y: 0.0014458111, z: -0.042125646, w: 0.9990965}
+  m_LocalPosition: {x: 0.021860698, y: 0.0000004966015, z: 0.00000009002022}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5859231697804470697}
+  m_Father: {fileID: 3793785709202971821}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3363043280541727763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 373981017817579755}
+  - component: {fileID: 3436168456020874256}
+  m_Layer: 0
+  m_Name: Face
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &373981017817579755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3363043280541727763}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3436168456020874256
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3363043280541727763}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a550c50ec15d3194c98548a99ba74847, type: 2}
+  - {fileID: 2100000, guid: 428b4925091a91d4483c54124741446e, type: 2}
+  - {fileID: 2100000, guid: 7edb80fa71d02844d9e9871461acb8d8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 3621554888825754127, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.54257715, y: 0, z: -0.013697438}
+    m_Extent: {x: 0.1266666, y: 0.10141534, z: 0.107210815}
+  m_DirtyAABB: 0
+--- !u!1 &3402282380205096299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8332969572343985011}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandRingTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8332969572343985011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3402282380205096299}
+  m_LocalRotation: {x: -0.020819921, y: 0.05981332, z: -0.328076, w: 0.9425259}
+  m_LocalPosition: {x: -0.02324532, y: -0.00000005812204, z: 0.00000009364747}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7426758706940574940}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3512797109924611056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8427133941620116787}
+  m_Layer: 0
+  m_Name: Boruto_Collar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8427133941620116787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3512797109924611056}
+  m_LocalRotation: {x: 0.032359112, y: 0.03235911, z: 0.706366, w: 0.706366}
+  m_LocalPosition: {x: -0.22783767, y: 1.918472e-15, z: -0.062883474}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8559353682804173792}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3522566088825164300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7530015235546106260}
+  m_Layer: 0
+  m_Name: Boruto_RightCollarTop1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7530015235546106260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3522566088825164300}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0180728, y: -0.06132, z: -0.0029021}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6354300964326757486}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3523606694909223854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 135536154259124438}
+  m_Layer: 0
+  m_Name: Boruto_NecklaceTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &135536154259124438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3523606694909223854}
+  m_LocalRotation: {x: 0.19810125, y: -0.19810125, z: -0.67879003, w: 0.67879003}
+  m_LocalPosition: {x: -0.036379907, y: -8.488848e-18, z: -2.307594e-19}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8010338523506598315}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3557126823487786353
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2827406305743458071}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2827406305743458071
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3557126823487786353}
+  m_LocalRotation: {x: -0.00006136559, y: -0.014713032, z: 0.0030799357, w: 0.99988705}
+  m_LocalPosition: {x: -0.020403491, y: 0.00000006140047, z: 0.000000010145783}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3405377003782116342}
+  m_Father: {fileID: 6938724373440807542}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3567564398042983763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3739394221550513287}
+  m_Layer: 0
+  m_Name: Boruto_LeftHairFront1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3739394221550513287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3567564398042983763}
+  m_LocalRotation: {x: 0.018324211, y: -0.0759332, z: 0.22250062, w: 0.97179824}
+  m_LocalPosition: {x: -0.06724918, y: -7.6712055e-17, z: 1.5664163e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2013481341867613460}
+  m_Father: {fileID: 7607800665199114586}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3575750237359993752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 451468492887551119}
+  m_Layer: 0
+  m_Name: Boruto_RightShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &451468492887551119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3575750237359993752}
+  m_LocalRotation: {x: 0.8148618, y: 0.5759882, z: -0.06471215, w: -0.0070900735}
+  m_LocalPosition: {x: -0.1553383, y: 0.0522692, z: 0.01723632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4977174798494679847}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3577479515476593545
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6673019372220819204}
+  m_Layer: 0
+  m_Name: Boruto_HairBack5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6673019372220819204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3577479515476593545}
+  m_LocalRotation: {x: 0.7551315, y: -0.49738407, z: 0.2484156, w: 0.3473836}
+  m_LocalPosition: {x: -0.2026005, y: 0.07532345, z: -0.061665438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3839794428146673289}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3668041957320839398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6938724373440807542}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6938724373440807542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3668041957320839398}
+  m_LocalRotation: {x: 0.00062305515, y: 0.0113846315, z: -0.02679747, w: 0.99957585}
+  m_LocalPosition: {x: -0.036416467, y: -0.00000014807219, z: 0.000000006799968}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2827406305743458071}
+  m_Father: {fileID: 6388336217628995138}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3694584538683458721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5859231697804470697}
+  m_Layer: 0
+  m_Name: Boruto_RightHandRingTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5859231697804470697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3694584538683458721}
+  m_LocalRotation: {x: -0.020819921, y: 0.05981332, z: -0.328076, w: 0.9425259}
+  m_LocalPosition: {x: 0.02324532, y: 0.000000058122026, z: -0.000000093647486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1897392817598647995}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3795453082118737388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8559353682804173792}
+  m_Layer: 0
+  m_Name: Boruto_CollarTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8559353682804173792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3795453082118737388}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.0867436e-10, y: 0.061322372, z: -0.0062716063}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8427133941620116787}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3814646140862638491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 580695772555450263}
+  m_Layer: 0
+  m_Name: Boruto_LeftForeArmRoll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &580695772555450263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3814646140862638491}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.10586972, y: -0.0000003243123, z: 0.000000015617717}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4513184452276206958}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3848720089451276746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1095054565791031525}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1095054565791031525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3848720089451276746}
+  m_LocalRotation: {x: -0.002920954, y: 0.0017466944, z: -0.06989197, w: 0.99754876}
+  m_LocalPosition: {x: -0.022804772, y: 0.00000040576577, z: 0.000000029877082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4353536513497092635}
+  m_Father: {fileID: 2063958041727895619}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3929669332551909446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2307530469955838398}
+  m_Layer: 0
+  m_Name: Boruto_LeftFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2307530469955838398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3929669332551909446}
+  m_LocalRotation: {x: -0.0027206924, y: 0.52257514, z: 0.0047533815, w: 0.8525757}
+  m_LocalPosition: {x: -0.2869611, y: -1.0658141e-16, z: -2.8865798e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5728524924239123339}
+  m_Father: {fileID: 8570446655913979164}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4271002649528521867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5882004049503386546}
+  m_Layer: 0
+  m_Name: Boruto_RightEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5882004049503386546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4271002649528521867}
+  m_LocalRotation: {x: 0.7148704, y: 1.2619383e-14, z: 0.699257, w: -1.29011554e-14}
+  m_LocalPosition: {x: -0.060180962, y: 0.043720398, z: 0.045348376}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4861975740323146282}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4458279773937126182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7857739726581628731}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7857739726581628731
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4458279773937126182}
+  m_LocalRotation: {x: 0.9935336, y: 0.08765569, z: -0.072082624, w: -0.0033962957}
+  m_LocalPosition: {x: -0.026023354, y: 0.153226, z: -0.0037818898}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3054124184565033528}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4480507244654297693
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1300101788222474967}
+  m_Layer: 0
+  m_Name: Boruto_RightFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1300101788222474967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4480507244654297693}
+  m_LocalRotation: {x: -0.0027206924, y: 0.52257514, z: 0.0047533815, w: 0.8525757}
+  m_LocalPosition: {x: 0.28696135, y: 0.00000032104904, z: -0.000000017444641}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7125219353498045696}
+  m_Father: {fileID: 8186200131893652993}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4525699861388832376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 490565669067939627}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandPinky3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &490565669067939627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4525699861388832376}
+  m_LocalRotation: {x: -0.0024781812, y: 0.011117846, z: -0.016480813, w: 0.9997993}
+  m_LocalPosition: {x: -0.017786046, y: -0.00000033141396, z: 0.000000022223977}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5785991421074461453}
+  m_Father: {fileID: 6402184111192822947}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4547374151868758352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6555638278512593518}
+  m_Layer: 0
+  m_Name: Boruto_LeftArmRoll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6555638278512593518
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4547374151868758352}
+  m_LocalRotation: {x: 0.00000016084448, y: 0.00000015461994, z: 0.0000050780527, w: 1}
+  m_LocalPosition: {x: -0.14367197, y: -1.2518414e-17, z: 3.318514e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1890007142869918044}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4659473828919256481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1370688539228849403}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandRing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1370688539228849403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4659473828919256481}
+  m_LocalRotation: {x: -0.00009789924, y: -0.007581547, z: -0.00079804496, w: 0.999971}
+  m_LocalPosition: {x: -0.037151176, y: 0.00000032412768, z: 0.00000007011933}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7426758706940574940}
+  m_Father: {fileID: 7521122167197252422}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4719244782418603094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2040310272755057358}
+  m_Layer: 0
+  m_Name: Boruto_RightHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2040310272755057358
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4719244782418603094}
+  m_LocalRotation: {x: 0.80291426, y: 0.25866315, z: -0.16118945, w: 0.51228905}
+  m_LocalPosition: {x: 0.026135948, y: 0.013474602, z: -0.022967758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4809744785601449253}
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4801080405228566047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1089639592853263566}
+  m_Layer: 0
+  m_Name: Boruto_LeftToeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1089639592853263566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4801080405228566047}
+  m_LocalRotation: {x: -0.7019535, y: 0.0672235, z: 0.70581406, w: -0.06759321}
+  m_LocalPosition: {x: -0.06111833, y: 1.1136925e-17, z: 2.593791e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5728524924239123339}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4857414585454112968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2738981967122990444}
+  m_Layer: 0
+  m_Name: Boruto_RightToeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2738981967122990444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4857414585454112968}
+  m_LocalRotation: {x: -0.7019535, y: 0.0672235, z: 0.70581406, w: -0.06759321}
+  m_LocalPosition: {x: 0.061118115, y: -0.00000012281119, z: 0.0000000024552693}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7125219353498045696}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4861616952439667926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7710380717498773195}
+  - component: {fileID: 5680613515633285246}
+  m_Layer: 0
+  m_Name: Jacket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7710380717498773195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861616952439667926}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5680613515633285246
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861616952439667926}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -5819183975530660181, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.2510016, y: -0.000000029802322, z: -0.04864905}
+    m_Extent: {x: 0.32106906, y: 0.50794363, z: 0.17633832}
+  m_DirtyAABB: 0
+--- !u!1 &4889960638951388000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2063958041727895619}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2063958041727895619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889960638951388000}
+  m_LocalRotation: {x: 0.0010838729, y: -0.013337073, z: 0.03591103, w: 0.99926543}
+  m_LocalPosition: {x: -0.039353944, y: 0.0000005858448, z: -0.000000025389}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1095054565791031525}
+  m_Father: {fileID: 2084481700397525479}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4927018257205394697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7783205618717927938}
+  m_Layer: 0
+  m_Name: Boruto_PorchTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7783205618717927938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4927018257205394697}
+  m_LocalRotation: {x: -0.14275512, y: 0.14275512, z: -0.6925467, w: 0.6925467}
+  m_LocalPosition: {x: -0.14127162, y: 1.0077697e-30, z: -3.968567e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 363030401717392762}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4979356018197923297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8480793989470980473}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8480793989470980473
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4979356018197923297}
+  m_LocalRotation: {x: -0.00041564516, y: -0.020775799, z: 0.010134125, w: 0.99973273}
+  m_LocalPosition: {x: -0.1168664, y: 5.1245318e-17, z: 3.400485e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7422181975904837156}
+  m_Father: {fileID: 1268626629170336754}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5061294150215216067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4268508820573281116}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4268508820573281116
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5061294150215216067}
+  m_LocalRotation: {x: -0.0041927546, y: 0.011770535, z: -0.33552873, w: 0.9419471}
+  m_LocalPosition: {x: -0.15691692, y: -0.00000026298449, z: 0.000000043427857}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5066863253597610872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5097197807971241488}
+  m_Layer: 0
+  m_Name: Boruto_RightHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5097197807971241488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5066863253597610872}
+  m_LocalRotation: {x: -0.048259407, y: 0.024793886, z: 0.097163446, w: 0.99378854}
+  m_LocalPosition: {x: 0.019918317, y: -0.000000032953658, z: -0.00000018520184}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4912953224100343554}
+  m_Father: {fileID: 4809744785601449253}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5097617445472521973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8186200131893652993}
+  m_Layer: 0
+  m_Name: Boruto_RightLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8186200131893652993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5097617445472521973}
+  m_LocalRotation: {x: -0.000034436467, y: -0.046920996, z: 0.0020355321, w: 0.99889654}
+  m_LocalPosition: {x: 0.3101485, y: 0.00000007510901, z: -0.000000032646675}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1300101788222474967}
+  m_Father: {fileID: 2779171755963630964}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5104906260002612245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8665069846275910925}
+  m_Layer: 0
+  m_Name: BlendShape
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8665069846275910925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5104906260002612245}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 566021565390100670}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5145340774638992914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4682793237150359337}
+  m_Layer: 0
+  m_Name: Boruto_RightHandPinky1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4682793237150359337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5145340774638992914}
+  m_LocalRotation: {x: 0.00147592, y: -0.061033867, z: 0.017105246, w: 0.99798805}
+  m_LocalPosition: {x: 0.06833045, y: 0.0021841163, z: 0.03318562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 193616365135538301}
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5151584144375120404
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5544115566542460323}
+  m_Layer: 0
+  m_Name: Boruto_HairAhoge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5544115566542460323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5151584144375120404}
+  m_LocalRotation: {x: -0.0033662482, y: 0.0983252, z: 0.034049824, w: 0.99456596}
+  m_LocalPosition: {x: -0.1985954, y: -0.017108222, z: 0.09445478}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7981159998954653441}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5237370053633684253
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7981159998954653441}
+  m_Layer: 0
+  m_Name: Boruto_HairAhogeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7981159998954653441
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5237370053633684253}
+  m_LocalRotation: {x: -0.067146115, y: -0.07190671, z: 0.6791875, w: 0.7273412}
+  m_LocalPosition: {x: -0.060612753, y: -2.9478335e-17, z: 2.669749e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5544115566542460323}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5262000528144359152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6429723645384642538}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6429723645384642538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5262000528144359152}
+  m_LocalRotation: {x: -0.2514502, y: 0.91312444, z: 0.11881755, w: 0.2980923}
+  m_LocalPosition: {x: -0.06089024, y: 0, z: -1.7763568e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6845340328832795486}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5274831255799386850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1359317494861032671}
+  m_Layer: 0
+  m_Name: Boruto_RightJacketTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1359317494861032671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5274831255799386850}
+  m_LocalRotation: {x: 0.0068344357, y: -0.0074450695, z: -0.67621624, w: 0.7366339}
+  m_LocalPosition: {x: 0.12166696, y: -0.00000042667673, z: -0.0000000045209663}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3657672897812838807}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5427078205000815376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7125219353498045696}
+  m_Layer: 0
+  m_Name: Boruto_RightToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7125219353498045696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5427078205000815376}
+  m_LocalRotation: {x: 0.008000531, y: 0.24789092, z: 0.00078324444, w: 0.9687546}
+  m_LocalPosition: {x: 0.11764011, y: -0.00000072042684, z: 0.00000018020502}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2738981967122990444}
+  m_Father: {fileID: 1300101788222474967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5483080051539495928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5882490040578794300}
+  m_Layer: 0
+  m_Name: Boruto_LeftUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5882490040578794300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5483080051539495928}
+  m_LocalRotation: {x: -0.042093676, y: 0.0020537963, z: 0.9945595, w: 0.09526385}
+  m_LocalPosition: {x: 0.018744588, y: -0.095225304, z: -0.030638121}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8570446655913979164}
+  m_Father: {fileID: 5672363173923715627}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5504262589660659711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3692106669096162666}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3692106669096162666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5504262589660659711}
+  m_LocalRotation: {x: 0.9784339, y: 0.048491772, z: -0.20073865, w: 0.004434941}
+  m_LocalPosition: {x: -0.03127916, y: 0.0660558, z: -0.11909087}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8109472015125507576}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5536615610971310982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6402184111192822947}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandPinky2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6402184111192822947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5536615610971310982}
+  m_LocalRotation: {x: -0.0012532591, y: -0.0066081393, z: -0.008086376, w: 0.9999447}
+  m_LocalPosition: {x: -0.030440137, y: 0.000000027624306, z: -0.000000012180189}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 490565669067939627}
+  m_Father: {fileID: 2920875352067746044}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5549354916395861515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8818845312460348538}
+  m_Layer: 0
+  m_Name: Boruto_RightHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8818845312460348538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5549354916395861515}
+  m_LocalRotation: {x: 0.0025122263, y: -0.044701852, z: 0.035966143, w: 0.9983496}
+  m_LocalPosition: {x: 0.07060709, y: -0.0026996818, z: 0.016654069}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3793785709202971821}
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5630395593132527207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6680048269589888292}
+  m_Layer: 0
+  m_Name: Boruto_Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6680048269589888292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5630395593132527207}
+  m_LocalRotation: {x: 0, y: -0.026354237, z: -0, w: 0.9996527}
+  m_LocalPosition: {x: -0.10072453, y: 7.266576e-18, z: 7.387446e-32}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7425965699235297396}
+  m_Father: {fileID: 5672363173923715627}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5705114658995037516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1220823707542277147}
+  m_Layer: 0
+  m_Name: Boruto_LeftCollarTop1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1220823707542277147
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5705114658995037516}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.018072791, y: 0.061322372, z: 0.0029020947}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 383774021935293627}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5755682649168118554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 480112355769864233}
+  m_Layer: 0
+  m_Name: Boruto_Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &480112355769864233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5755682649168118554}
+  m_LocalRotation: {x: 0, y: 0.10275875, z: -0, w: 0.99470633}
+  m_LocalPosition: {x: -0.20721081, y: 1.7833948e-15, z: 3.0955208e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8012653511629132538}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5838000597482175824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6869072907131225387}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandThumb3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6869072907131225387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5838000597482175824}
+  m_LocalRotation: {x: -0.048259407, y: 0.024793886, z: 0.097163446, w: 0.99378854}
+  m_LocalPosition: {x: -0.019918317, y: 0.000000032953665, z: 0.00000018520183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6076937643234849174}
+  m_Father: {fileID: 8710135913416377240}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5874878682511251178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7196107201379295389}
+  m_Layer: 0
+  m_Name: Boruto_Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7196107201379295389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874878682511251178}
+  m_LocalRotation: {x: 0, y: 0.009796849, z: -0, w: 0.999952}
+  m_LocalPosition: {x: -0.092866756, y: 1.7431313e-15, z: -3.939349e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8427133941620116787}
+  - {fileID: 383774021935293627}
+  - {fileID: 226023644455648874}
+  - {fileID: 480112355769864233}
+  - {fileID: 4895677455784566411}
+  - {fileID: 6354300964326757486}
+  - {fileID: 451468492887551119}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5995748758752880572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6203624129360100160}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6203624129360100160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5995748758752880572}
+  m_LocalRotation: {x: -0.15781775, y: 0.40156356, z: 0.16269787, w: 0.8873385}
+  m_LocalPosition: {x: -0.06413084, y: 2.842171e-16, z: 7.105427e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 601835456115007414}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6038355174703935756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2951929469445155053}
+  m_Layer: 0
+  m_Name: Boruto_RightJacketTop2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2951929469445155053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6038355174703935756}
+  m_LocalRotation: {x: -0.17016858, y: 0.19207594, z: -0.6409262, w: 0.72343844}
+  m_LocalPosition: {x: 0.08767679, y: 0.000000107800304, z: -0.000000344882}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8109472015125507576}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6075486333215153885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3657672897812838807}
+  m_Layer: 0
+  m_Name: Boruto_RightJacket1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3657672897812838807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6075486333215153885}
+  m_LocalRotation: {x: -0.00041564516, y: -0.020775799, z: 0.010134125, w: 0.99973273}
+  m_LocalPosition: {x: 0.11686659, y: 0.00000020597423, z: 0.000000035389956}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1359317494861032671}
+  m_Father: {fileID: 5097776953533098287}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6121862645811606313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6532366517399705920}
+  m_Layer: 0
+  m_Name: Boruto_HairBack4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6532366517399705920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6121862645811606313}
+  m_LocalRotation: {x: 0.6447778, y: -0.32784548, z: 0.3392776, w: 0.60138977}
+  m_LocalPosition: {x: -0.18920171, y: -0.0035138528, z: -0.07277681}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 496781021982136244}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6134410708876902214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7607800665199114586}
+  m_Layer: 0
+  m_Name: Boruto_LeftHairFront
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7607800665199114586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6134410708876902214}
+  m_LocalRotation: {x: 0.0020393373, y: -0.00048400697, z: 0.9729704, w: 0.23092036}
+  m_LocalPosition: {x: -0.18337573, y: -0.038011197, z: 0.11267183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3739394221550513287}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6177563607445061698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7521122167197252422}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandRing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7521122167197252422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6177563607445061698}
+  m_LocalRotation: {x: 0.0025122263, y: -0.044701852, z: 0.035966143, w: 0.9983496}
+  m_LocalPosition: {x: -0.07060709, y: 0.0026996818, z: -0.016654069}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1370688539228849403}
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6194684568779751066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 123342495890204898}
+  m_Layer: 0
+  m_Name: Boruto_RightForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &123342495890204898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6194684568779751066}
+  m_LocalRotation: {x: 0.000038260947, y: 0.028879428, z: 0.013773696, w: 0.99948806}
+  m_LocalPosition: {x: 0.2356752, y: -0.000412432, z: 0.0008657304}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5488727279288306775}
+  - {fileID: 4210504857945657331}
+  m_Father: {fileID: 4977174798494679847}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6233589915549080458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8171239491895668709}
+  m_Layer: 0
+  m_Name: Boruto_RightHairFrontTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8171239491895668709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6233589915549080458}
+  m_LocalRotation: {x: -0.12483792, y: 0.102517486, z: -0.76266146, w: 0.62630117}
+  m_LocalPosition: {x: -0.099529035, y: -6.166029e-17, z: -3.5960605e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2044277270940965435}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6263525201044181092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6845340328832795486}
+  m_Layer: 0
+  m_Name: Boruto_HairBack1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6845340328832795486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6263525201044181092}
+  m_LocalRotation: {x: 0.82347864, y: -0.46787435, z: 0.1267664, w: 0.2947998}
+  m_LocalPosition: {x: -0.23347388, y: 0.03200492, z: 0.035436757}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6429723645384642538}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6347440026404730139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1729114955676314006}
+  m_Layer: 0
+  m_Name: Boruto_RightHandMiddleTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1729114955676314006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6347440026404730139}
+  m_LocalRotation: {x: -0.006304758, y: 0.018987868, z: -0.31506097, w: 0.9488605}
+  m_LocalPosition: {x: 0.023442227, y: 0.00000069225314, z: -0.00000004020366}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4351866048104855072}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6585899057372163201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4290236427094123866}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4290236427094123866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6585899057372163201}
+  m_LocalRotation: {x: 0.20073865, y: -0.004434941, z: 0.9784339, w: 0.048491772}
+  m_LocalPosition: {x: -0.031278774, y: -0.06605579, z: -0.119091384}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4313722503042042029}
+  m_Father: {fileID: 7425965699235297396}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6627518327535679626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4353536513497092635}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandMiddleTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4353536513497092635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6627518327535679626}
+  m_LocalRotation: {x: -0.006304758, y: 0.018987868, z: -0.31506097, w: 0.9488605}
+  m_LocalPosition: {x: -0.023442227, y: -0.00000069225314, z: 0.000000040203645}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1095054565791031525}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6647927950486478230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6354300964326757486}
+  m_Layer: 0
+  m_Name: Boruto_RightCollar1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6354300964326757486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6647927950486478230}
+  m_LocalRotation: {x: 0.706366, y: 0.706366, z: -0.032359112, w: -0.03235911}
+  m_LocalPosition: {x: -0.20740382, y: 0.0582755, z: 0.028201573}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7530015235546106260}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6765544445435651893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4604857498533420514}
+  m_Layer: 0
+  m_Name: Boruto_HairBack9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4604857498533420514
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6765544445435651893}
+  m_LocalRotation: {x: 0.74043375, y: -0.62942666, z: 0.17962329, w: 0.15269387}
+  m_LocalPosition: {x: -0.14248475, y: 0.08075009, z: -0.06747103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3971589370309456079}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6780538986174626330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8804276165119495428}
+  - component: {fileID: 6599661132273459945}
+  m_Layer: 0
+  m_Name: Porch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8804276165119495428
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6780538986174626330}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6599661132273459945
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6780538986174626330}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -2734063371654208272, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.018119954, y: 0, z: -0.14434709}
+    m_Extent: {x: 0.10516047, y: 0.12750676, z: 0.08268443}
+  m_DirtyAABB: 0
+--- !u!1 &6860668536191056802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4809744785601449253}
+  m_Layer: 0
+  m_Name: Boruto_RightHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4809744785601449253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6860668536191056802}
+  m_LocalRotation: {x: -0.23080602, y: 0.03314992, z: 0.18627204, w: 0.95442784}
+  m_LocalPosition: {x: 0.033760503, y: 0.0000001462161, z: 0.0000005506769}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5097197807971241488}
+  m_Father: {fileID: 2040310272755057358}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7010622370412991083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5255737522265754214}
+  m_Layer: 0
+  m_Name: Boruto_RightHandTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5255737522265754214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7010622370412991083}
+  m_LocalRotation: {x: -0.0041927546, y: 0.011770535, z: -0.33552873, w: 0.9419471}
+  m_LocalPosition: {x: 0.15691692, y: 0.00000026298449, z: -0.00000004342793}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7018557596420770333
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2085537791685368169}
+  m_Layer: 0
+  m_Name: Boruto_RightArmRoll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2085537791685368169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7018557596420770333}
+  m_LocalRotation: {x: 0.00000016100842, y: 0.00000015461977, z: 0.000005078047, w: 1}
+  m_LocalPosition: {x: 0.14367197, y: -2.842171e-16, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4977174798494679847}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7019828490464121546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7151956803965080798}
+  m_Layer: 0
+  m_Name: Boruto_HeadTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7151956803965080798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7019828490464121546}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.27274308, y: 5.866859e-17, z: -2.7807135e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7020010791869390518
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 601835456115007414}
+  m_Layer: 0
+  m_Name: Boruto_HairBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &601835456115007414
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7020010791869390518}
+  m_LocalRotation: {x: 0.39554235, y: -0.17235431, z: 0.51239836, w: 0.74248785}
+  m_LocalPosition: {x: -0.22942449, y: -0.06453905, z: 0.025896234}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6203624129360100160}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7037030461699205578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2084481700397525479}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2084481700397525479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7037030461699205578}
+  m_LocalRotation: {x: 0.00026066753, y: 0.0040815216, z: 0.01246508, w: 0.999914}
+  m_LocalPosition: {x: -0.07146448, y: 0.002170753, z: 0.00045699882}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2063958041727895619}
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7045346997621844314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1890007142869918044}
+  m_Layer: 0
+  m_Name: Boruto_LeftArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1890007142869918044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7045346997621844314}
+  m_LocalRotation: {x: 0.010802243, y: 0.017208071, z: 0.21892646, w: 0.97552985}
+  m_LocalPosition: {x: -0.08461918, y: -3.6862874e-18, z: 1.5265567e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  m_Father: {fileID: 226023644455648874}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7121886993065117419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5672363173923715627}
+  m_Layer: 0
+  m_Name: Boruto_Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5672363173923715627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7121886993065117419}
+  m_LocalRotation: {x: 0.0073336265, y: 0.0073336265, z: -0.70706874, w: 0.70706874}
+  m_LocalPosition: {x: -0, y: 0.68370706, z: 0.004911336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5882490040578794300}
+  - {fileID: 363030401717392762}
+  - {fileID: 2779171755963630964}
+  - {fileID: 6680048269589888292}
+  m_Father: {fileID: 3773893070785954392}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7215774328702997347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3773893070785954392}
+  m_Layer: 0
+  m_Name: Boruto_Reference
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3773893070785954392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7215774328702997347}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5672363173923715627}
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7271043741862178739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5785991421074461453}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandPinkyTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5785991421074461453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7271043741862178739}
+  m_LocalRotation: {x: -0.0226567, y: 0.06518482, z: -0.3275275, w: 0.9423181}
+  m_LocalPosition: {x: -0.020146372, y: 0.0000003225392, z: 0.00000007572394}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 490565669067939627}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7316943492967520731
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4384343472868816109}
+  m_Layer: 0
+  m_Name: Boruto_HairBack7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4384343472868816109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7316943492967520731}
+  m_LocalRotation: {x: 0.045786757, y: -0.20891649, z: 0.62979686, w: 0.74673516}
+  m_LocalPosition: {x: -0.14104809, y: -0.08289013, z: -0.06664694}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3947508864167393859}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7344468916733376682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4912953224100343554}
+  m_Layer: 0
+  m_Name: Boruto_RightHandThumbTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4912953224100343554
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7344468916733376682}
+  m_LocalRotation: {x: -0.60698384, y: -0.3110116, z: -0.3626231, w: 0.6350961}
+  m_LocalPosition: {x: 0.026607765, y: 0.00000013495661, z: -0.0000008486777}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5097197807971241488}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7487785247997470995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3264026798747332944}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacket3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3264026798747332944
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7487785247997470995}
+  m_LocalRotation: {x: 0.0001497726, y: -0.013821245, z: 0.0031493984, w: 0.99989957}
+  m_LocalPosition: {x: -0.11305864, y: 5.2038356e-17, z: 3.431326e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6534901415302783257}
+  m_Father: {fileID: 3920972519389719270}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7493831705635096372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6076937643234849174}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandThumbTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6076937643234849174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7493831705635096372}
+  m_LocalRotation: {x: -0.60698384, y: -0.3110116, z: -0.3626231, w: 0.6350961}
+  m_LocalPosition: {x: -0.026607765, y: -0.0000001349566, z: 0.0000008486777}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6869072907131225387}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7578820257408868234
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 226023644455648874}
+  m_Layer: 0
+  m_Name: Boruto_LeftShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &226023644455648874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7578820257408868234}
+  m_LocalRotation: {x: 0.06471215, y: 0.0070900735, z: 0.8148618, w: 0.5759882}
+  m_LocalPosition: {x: -0.1553383, y: -0.0522692, z: 0.01723632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1890007142869918044}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7593387251790192024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7492504399767689763}
+  m_Layer: 0
+  m_Name: Boruto_LeftHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7492504399767689763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7593387251790192024}
+  m_LocalRotation: {x: 0.000035798625, y: -0.02549425, z: -0.06405538, w: 0.99762064}
+  m_LocalPosition: {x: -0.20366132, y: -0.000000018521193, z: 0.000000026792005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6388336217628995138}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2920875352067746044}
+  - {fileID: 7521122167197252422}
+  - {fileID: 2183340340727950365}
+  - {fileID: 4268508820573281116}
+  m_Father: {fileID: 4513184452276206958}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7674546468425271992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3789442276732164053}
+  m_Layer: 0
+  m_Name: Boruto_HairBack3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3789442276732164053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674546468425271992}
+  m_LocalRotation: {x: 0.40891188, y: -0.25887993, z: 0.5239199, w: 0.70091385}
+  m_LocalPosition: {x: -0.19947119, y: -0.08259319, z: -0.06746819}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 60204511041248064}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7860569352777254554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4977174798494679847}
+  m_Layer: 0
+  m_Name: Boruto_RightArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4977174798494679847
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7860569352777254554}
+  m_LocalRotation: {x: 0.010802243, y: 0.017208071, z: 0.21892646, w: 0.97552985}
+  m_LocalPosition: {x: 0.08461918, y: -1.4210854e-16, z: 8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  m_Father: {fileID: 451468492887551119}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7907248238664940775
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8710135913416377240}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandThumb2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8710135913416377240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7907248238664940775}
+  m_LocalRotation: {x: -0.23080602, y: 0.03314992, z: 0.18627204, w: 0.95442784}
+  m_LocalPosition: {x: -0.033760503, y: -0.00000014621611, z: -0.00000055067693}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6869072907131225387}
+  m_Father: {fileID: 2183340340727950365}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7911585883242208842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2013481341867613460}
+  m_Layer: 0
+  m_Name: Boruto_LeftHairFrontTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2013481341867613460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7911585883242208842}
+  m_LocalRotation: {x: -0.0561136, y: 0.057004157, z: -0.6992703, w: 0.71036816}
+  m_LocalPosition: {x: -0.07651632, y: 6.335686e-17, z: -1.946163e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3739394221550513287}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7932050159728718666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2044277270940965435}
+  m_Layer: 0
+  m_Name: Boruto_RightHairFront1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2044277270940965435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7932050159728718666}
+  m_LocalRotation: {x: -0.057702556, y: -0.13454457, z: -0.3134149, w: 0.93826395}
+  m_LocalPosition: {x: -0.08927822, y: -3.3616316e-17, z: -2.1269709e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8171239491895668709}
+  m_Father: {fileID: 2448485956567949539}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8011276265647816047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 60204511041248064}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &60204511041248064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8011276265647816047}
+  m_LocalRotation: {x: -0.10608861, y: 0.47220016, z: 0.12515366, w: 0.8660883}
+  m_LocalPosition: {x: -0.052324314, y: -2.842171e-16, z: 7.9936054e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3789442276732164053}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8092716578886985768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8136306458374728108}
+  m_Layer: 0
+  m_Name: Boruto_LeftJacketTop2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8136306458374728108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8092716578886985768}
+  m_LocalRotation: {x: -0.17016858, y: 0.19207594, z: -0.6409262, w: 0.72343844}
+  m_LocalPosition: {x: -0.087676145, y: 3.2313864e-17, z: 3.171581e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4313722503042042029}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8241974925644247527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8016642846859263797}
+  m_Layer: 0
+  m_Name: Boruto_RightHandIndexTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8016642846859263797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8241974925644247527}
+  m_LocalRotation: {x: 0.00091512105, y: -0.0024379198, z: -0.35142562, w: 0.9362122}
+  m_LocalPosition: {x: 0.021690968, y: 0.000000067226225, z: 0.0000000068882215}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1447233472572940912}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8301140982919296128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2875732870966609606}
+  m_Layer: 0
+  m_Name: Boruto_RightHandMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2875732870966609606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301140982919296128}
+  m_LocalRotation: {x: 0.00026066753, y: 0.0040815216, z: 0.01246508, w: 0.999914}
+  m_LocalPosition: {x: 0.07146448, y: -0.002170753, z: -0.00045699882}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 303231691206140293}
+  m_Father: {fileID: 4210504857945657331}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8323904209610360166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 813276075026479189}
+  - component: {fileID: 7839992914547701501}
+  m_Layer: 0
+  m_Name: Necklace
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &813276075026479189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8323904209610360166}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &7839992914547701501
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8323904209610360166}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 1642066607988742572, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.4832654, y: 0.000028394163, z: -0.01776931}
+    m_Extent: {x: 0.06337659, y: 0.049499243, z: 0.07777938}
+  m_DirtyAABB: 0
+--- !u!1 &8378299244412507510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4351866048104855072}
+  m_Layer: 0
+  m_Name: Boruto_RightHandMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4351866048104855072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378299244412507510}
+  m_LocalRotation: {x: -0.002920954, y: 0.0017466944, z: -0.06989197, w: 0.99754876}
+  m_LocalPosition: {x: 0.022804772, y: -0.00000040576577, z: -0.000000029877086}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1729114955676314006}
+  m_Father: {fileID: 303231691206140293}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8529586446861165874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2779171755963630964}
+  m_Layer: 0
+  m_Name: Boruto_RightUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2779171755963630964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8529586446861165874}
+  m_LocalRotation: {x: 0.9945595, y: 0.09526385, z: 0.042093676, w: -0.0020537963}
+  m_LocalPosition: {x: 0.018744554, y: 0.0952253, z: -0.030638136}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8186200131893652993}
+  m_Father: {fileID: 5672363173923715627}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8587247541907480688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4210504857945657331}
+  m_Layer: 0
+  m_Name: Boruto_RightHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4210504857945657331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8587247541907480688}
+  m_LocalRotation: {x: 0.000035798625, y: -0.02549425, z: -0.06405538, w: 0.99762064}
+  m_LocalPosition: {x: 0.20366131, y: 0.00000047340646, z: -0.000000040376}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7466027857272647976}
+  - {fileID: 2875732870966609606}
+  - {fileID: 4682793237150359337}
+  - {fileID: 8818845312460348538}
+  - {fileID: 2040310272755057358}
+  - {fileID: 5255737522265754214}
+  m_Father: {fileID: 123342495890204898}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8592462717691638344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6134064072681214814}
+  m_Layer: 0
+  m_Name: Boruto_LeftEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6134064072681214814
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8592462717691638344}
+  m_LocalRotation: {x: -0.699257, y: -1.2929916e-14, z: 0.7148704, w: -1.3218622e-14}
+  m_LocalPosition: {x: -0.060180817, y: -0.043720398, z: 0.045348357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1247305055540753640}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8682735282692010432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7425965699235297396}
+  m_Layer: 0
+  m_Name: Boruto_Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7425965699235297396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682735282692010432}
+  m_LocalRotation: {x: 0, y: -0.03957955, z: -0, w: 0.99921644}
+  m_LocalPosition: {x: -0.09513144, y: -1.3518695e-17, z: -2.341822e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1268626629170336754}
+  - {fileID: 3920972519389719270}
+  - {fileID: 4290236427094123866}
+  - {fileID: 5097776953533098287}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3692106669096162666}
+  - {fileID: 7196107201379295389}
+  m_Father: {fileID: 6680048269589888292}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8728515482227432614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2183340340727950365}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandThumb1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2183340340727950365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8728515482227432614}
+  m_LocalRotation: {x: 0.80291426, y: 0.25866315, z: -0.16118945, w: 0.51228905}
+  m_LocalPosition: {x: -0.026135948, y: -0.013474602, z: 0.022967758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8710135913416377240}
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8732172219640607010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9061972650464610241}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9061972650464610241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8732172219640607010}
+  m_LocalRotation: {x: -0.02043485, y: 0.7070279, z: 0.010564229, w: 0.7068115}
+  m_LocalPosition: {x: -0.07053145, y: 0, z: 4.440892e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 83543865282640014}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8799800757222633997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3216403914999628113}
+  - component: {fileID: 7422093210315913560}
+  m_Layer: 0
+  m_Name: Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3216403914999628113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8799800757222633997}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7316629399165677375}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &7422093210315913560
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8799800757222633997}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 428b4925091a91d4483c54124741446e, type: 2}
+  - {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 2959467708922500008, guid: 614d69c5a0b2ba843ba04d3cef70b09c, type: 3}
+  m_Bones:
+  - {fileID: 5672363173923715627}
+  - {fileID: 6680048269589888292}
+  - {fileID: 7425965699235297396}
+  - {fileID: 7196107201379295389}
+  - {fileID: 480112355769864233}
+  - {fileID: 8012653511629132538}
+  - {fileID: 7151956803965080798}
+  - {fileID: 7607800665199114586}
+  - {fileID: 3739394221550513287}
+  - {fileID: 2013481341867613460}
+  - {fileID: 2448485956567949539}
+  - {fileID: 2044277270940965435}
+  - {fileID: 8171239491895668709}
+  - {fileID: 601835456115007414}
+  - {fileID: 6203624129360100160}
+  - {fileID: 6845340328832795486}
+  - {fileID: 6429723645384642538}
+  - {fileID: 704032448854771088}
+  - {fileID: 4183827868047142102}
+  - {fileID: 3789442276732164053}
+  - {fileID: 60204511041248064}
+  - {fileID: 6532366517399705920}
+  - {fileID: 496781021982136244}
+  - {fileID: 6673019372220819204}
+  - {fileID: 3839794428146673289}
+  - {fileID: 6695531902759422157}
+  - {fileID: 2587985113733639259}
+  - {fileID: 4384343472868816109}
+  - {fileID: 3947508864167393859}
+  - {fileID: 83543865282640014}
+  - {fileID: 9061972650464610241}
+  - {fileID: 4604857498533420514}
+  - {fileID: 3971589370309456079}
+  - {fileID: 5544115566542460323}
+  - {fileID: 7981159998954653441}
+  - {fileID: 6134064072681214814}
+  - {fileID: 1247305055540753640}
+  - {fileID: 5882004049503386546}
+  - {fileID: 4861975740323146282}
+  - {fileID: 4895677455784566411}
+  - {fileID: 8010338523506598315}
+  - {fileID: 135536154259124438}
+  - {fileID: 8427133941620116787}
+  - {fileID: 8559353682804173792}
+  - {fileID: 383774021935293627}
+  - {fileID: 1220823707542277147}
+  - {fileID: 6354300964326757486}
+  - {fileID: 7530015235546106260}
+  - {fileID: 226023644455648874}
+  - {fileID: 1890007142869918044}
+  - {fileID: 6555638278512593518}
+  - {fileID: 4513184452276206958}
+  - {fileID: 7492504399767689763}
+  - {fileID: 2183340340727950365}
+  - {fileID: 8710135913416377240}
+  - {fileID: 6869072907131225387}
+  - {fileID: 6076937643234849174}
+  - {fileID: 6388336217628995138}
+  - {fileID: 6938724373440807542}
+  - {fileID: 2827406305743458071}
+  - {fileID: 3405377003782116342}
+  - {fileID: 2084481700397525479}
+  - {fileID: 2063958041727895619}
+  - {fileID: 1095054565791031525}
+  - {fileID: 4353536513497092635}
+  - {fileID: 7521122167197252422}
+  - {fileID: 1370688539228849403}
+  - {fileID: 7426758706940574940}
+  - {fileID: 8332969572343985011}
+  - {fileID: 2920875352067746044}
+  - {fileID: 6402184111192822947}
+  - {fileID: 490565669067939627}
+  - {fileID: 5785991421074461453}
+  - {fileID: 4268508820573281116}
+  - {fileID: 580695772555450263}
+  - {fileID: 451468492887551119}
+  - {fileID: 4977174798494679847}
+  - {fileID: 2085537791685368169}
+  - {fileID: 123342495890204898}
+  - {fileID: 4210504857945657331}
+  - {fileID: 2040310272755057358}
+  - {fileID: 4809744785601449253}
+  - {fileID: 5097197807971241488}
+  - {fileID: 4912953224100343554}
+  - {fileID: 7466027857272647976}
+  - {fileID: 6051481249356570540}
+  - {fileID: 1447233472572940912}
+  - {fileID: 8016642846859263797}
+  - {fileID: 2875732870966609606}
+  - {fileID: 303231691206140293}
+  - {fileID: 4351866048104855072}
+  - {fileID: 1729114955676314006}
+  - {fileID: 8818845312460348538}
+  - {fileID: 3793785709202971821}
+  - {fileID: 1897392817598647995}
+  - {fileID: 5859231697804470697}
+  - {fileID: 4682793237150359337}
+  - {fileID: 193616365135538301}
+  - {fileID: 507726138704676446}
+  - {fileID: 2463595931896243038}
+  - {fileID: 5255737522265754214}
+  - {fileID: 5488727279288306775}
+  - {fileID: 1268626629170336754}
+  - {fileID: 8480793989470980473}
+  - {fileID: 7422181975904837156}
+  - {fileID: 3920972519389719270}
+  - {fileID: 3264026798747332944}
+  - {fileID: 6534901415302783257}
+  - {fileID: 4290236427094123866}
+  - {fileID: 4313722503042042029}
+  - {fileID: 8136306458374728108}
+  - {fileID: 5097776953533098287}
+  - {fileID: 3657672897812838807}
+  - {fileID: 1359317494861032671}
+  - {fileID: 7857739726581628731}
+  - {fileID: 3054124184565033528}
+  - {fileID: 8879548942764457573}
+  - {fileID: 3692106669096162666}
+  - {fileID: 8109472015125507576}
+  - {fileID: 2951929469445155053}
+  - {fileID: 363030401717392762}
+  - {fileID: 7783205618717927938}
+  - {fileID: 5882490040578794300}
+  - {fileID: 8570446655913979164}
+  - {fileID: 2307530469955838398}
+  - {fileID: 5728524924239123339}
+  - {fileID: 1089639592853263566}
+  - {fileID: 2779171755963630964}
+  - {fileID: 8186200131893652993}
+  - {fileID: 1300101788222474967}
+  - {fileID: 7125219353498045696}
+  - {fileID: 2738981967122990444}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5672363173923715627}
+  m_AABB:
+    m_Center: {x: -0.23682363, y: 0.000000029802322, z: -0.020596843}
+    m_Extent: {x: 0.24467878, y: 0.5627059, z: 0.13778636}
+  m_DirtyAABB: 0
+--- !u!1 &8932199576041510720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2920875352067746044}
+  m_Layer: 0
+  m_Name: Boruto_LeftHandPinky1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2920875352067746044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8932199576041510720}
+  m_LocalRotation: {x: 0.00147592, y: -0.061033867, z: 0.017105246, w: 0.99798805}
+  m_LocalPosition: {x: -0.06833045, y: -0.0021841163, z: -0.03318562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6402184111192822947}
+  m_Father: {fileID: 7492504399767689763}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8954981743496510148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 383774021935293627}
+  m_Layer: 0
+  m_Name: Boruto_LeftCollar1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &383774021935293627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8954981743496510148}
+  m_LocalRotation: {x: 0.032359112, y: 0.03235911, z: 0.706366, w: 0.706366}
+  m_LocalPosition: {x: -0.20740062, y: -0.05827553, z: 0.028201276}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1220823707542277147}
+  m_Father: {fileID: 7196107201379295389}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9003660301647919948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 704032448854771088}
+  m_Layer: 0
+  m_Name: Boruto_HairBack2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &704032448854771088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9003660301647919948}
+  m_LocalRotation: {x: 0.44931325, y: 0.06520561, z: 0.50967, w: 0.73082304}
+  m_LocalPosition: {x: -0.18922435, y: -0.113242835, z: -0.03955335}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4183827868047142102}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9046705553600722024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4861975740323146282}
+  m_Layer: 0
+  m_Name: Boruto_RightEyeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4861975740323146282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9046705553600722024}
+  m_LocalRotation: {x: 0.49444938, y: -0.49444938, z: -0.5054897, w: 0.5054897}
+  m_LocalPosition: {x: 0.054466218, y: 0, z: -0.0000025768409}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5882004049503386546}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9096752480394160513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 363030401717392762}
+  m_Layer: 0
+  m_Name: Boruto_Porch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &363030401717392762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9096752480394160513}
+  m_LocalRotation: {x: 0.1917176, y: 1.17393175e-17, z: 0.98145014, w: -6.009649e-17}
+  m_LocalPosition: {x: -0.060514126, y: 3.667834e-15, z: -0.115336165}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7783205618717927938}
+  m_Father: {fileID: 5672363173923715627}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9107349057511609669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3947508864167393859}
+  m_Layer: 0
+  m_Name: Boruto_HairBackTop7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3947508864167393859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9107349057511609669}
+  m_LocalRotation: {x: 0.115350135, y: 0.1801024, z: 0.08268784, w: 0.9733551}
+  m_LocalPosition: {x: -0.07238347, y: 0, z: 1.0658141e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4384343472868816109}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9194134031947203556
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6695531902759422157}
+  m_Layer: 0
+  m_Name: Boruto_HairBack6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6695531902759422157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194134031947203556}
+  m_LocalRotation: {x: 0.837836, y: -0.48301125, z: 0.10539297, w: 0.231567}
+  m_LocalPosition: {x: -0.19677751, y: 0.105136424, z: -0.02838158}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2587985113733639259}
+  m_Father: {fileID: 8012653511629132538}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9212156942108896836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7316629399165677375}
+  m_Layer: 0
+  m_Name: Boruto
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7316629399165677375
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9212156942108896836}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7719221007972194912}
+  - {fileID: 3216403914999628113}
+  - {fileID: 3773893070785954392}
+  - {fileID: 373981017817579755}
+  - {fileID: 5536483802453593084}
+  - {fileID: 7710380717498773195}
+  - {fileID: 4537520138223779064}
+  - {fileID: 813276075026479189}
+  - {fileID: 8804276165119495428}
+  m_Father: {fileID: 566021565390100670}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9221476982284322529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8012653511629132538}
+  m_Layer: 0
+  m_Name: Boruto_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8012653511629132538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9221476982284322529}
+  m_LocalRotation: {x: 0, y: -0.05713066, z: -0, w: 0.9983667}
+  m_LocalPosition: {x: -0.064832926, y: 7.640876e-17, z: 1.919987e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5544115566542460323}
+  - {fileID: 601835456115007414}
+  - {fileID: 6845340328832795486}
+  - {fileID: 704032448854771088}
+  - {fileID: 3789442276732164053}
+  - {fileID: 6532366517399705920}
+  - {fileID: 6673019372220819204}
+  - {fileID: 6695531902759422157}
+  - {fileID: 4384343472868816109}
+  - {fileID: 83543865282640014}
+  - {fileID: 4604857498533420514}
+  - {fileID: 7151956803965080798}
+  - {fileID: 6134064072681214814}
+  - {fileID: 7607800665199114586}
+  - {fileID: 5882004049503386546}
+  - {fileID: 2448485956567949539}
+  m_Father: {fileID: 480112355769864233}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -1,0 +1,1576 @@
+fileFormatVersion: 2
+guid: 614d69c5a0b2ba843ba04d3cef70b09c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Band
+    100002: BlendShape
+    100004: Body
+    100006: //RootNode
+    100008: Boruto
+    100010: Boruto_Collar
+    100012: Boruto_CollarTop
+    100014: Boruto_HairAhoge
+    100016: Boruto_HairAhogeTop
+    100018: Boruto_HairBack
+    100020: Boruto_HairBack1
+    100022: Boruto_HairBack2
+    100024: Boruto_HairBack3
+    100026: Boruto_HairBack4
+    100028: Boruto_HairBack5
+    100030: Boruto_HairBack6
+    100032: Boruto_HairBack7
+    100034: Boruto_HairBack8
+    100036: Boruto_HairBack9
+    100038: Boruto_HairBackTop
+    100040: Boruto_HairBackTop1
+    100042: Boruto_HairBackTop2
+    100044: Boruto_HairBackTop3
+    100046: Boruto_HairBackTop4
+    100048: Boruto_HairBackTop5
+    100050: Boruto_HairBackTop6
+    100052: Boruto_HairBackTop7
+    100054: Boruto_HairBackTop8
+    100056: Boruto_HairBackTop9
+    100058: Boruto_Head
+    100060: Boruto_HeadTop
+    100062: Boruto_Hips
+    100064: Boruto_LeftArm
+    100066: Boruto_LeftArmRoll
+    100068: Boruto_LeftCollar1
+    100070: Boruto_LeftCollarTop1
+    100072: Boruto_LeftEye
+    100074: Boruto_LeftEyeTop
+    100076: Boruto_LeftFoot
+    100078: Boruto_LeftForeArm
+    100080: Boruto_LeftForeArmRoll
+    100082: Boruto_LeftHairFront
+    100084: Boruto_LeftHairFront1
+    100086: Boruto_LeftHairFrontTop
+    100088: Boruto_LeftHand
+    100090: Boruto_LeftHandIndex1
+    100092: Boruto_LeftHandIndex2
+    100094: Boruto_LeftHandIndex3
+    100096: Boruto_LeftHandIndexTop
+    100098: Boruto_LeftHandMiddle1
+    100100: Boruto_LeftHandMiddle2
+    100102: Boruto_LeftHandMiddle3
+    100104: Boruto_LeftHandMiddleTop
+    100106: Boruto_LeftHandPinky1
+    100108: Boruto_LeftHandPinky2
+    100110: Boruto_LeftHandPinky3
+    100112: Boruto_LeftHandPinkyTop
+    100114: Boruto_LeftHandRing1
+    100116: Boruto_LeftHandRing2
+    100118: Boruto_LeftHandRing3
+    100120: Boruto_LeftHandRingTop
+    100122: Boruto_LeftHandThumb1
+    100124: Boruto_LeftHandThumb2
+    100126: Boruto_LeftHandThumb3
+    100128: Boruto_LeftHandThumbTop
+    100130: Boruto_LeftHandTop
+    100132: Boruto_LeftJacket
+    100134: Boruto_LeftJacket1
+    100136: Boruto_LeftJacket2
+    100138: Boruto_LeftJacket3
+    100140: Boruto_LeftJacket4
+    100142: Boruto_LeftJacket5
+    100144: Boruto_LeftJacketTop
+    100146: Boruto_LeftJacketTop1
+    100148: Boruto_LeftJacketTop2
+    100150: Boruto_LeftLeg
+    100152: Boruto_LeftShoulder
+    100154: Boruto_LeftToeBase
+    100156: Boruto_LeftToeTop
+    100158: Boruto_LeftUpLeg
+    100160: Boruto_Neck
+    100162: Boruto_Necklace
+    100164: Boruto_Necklace1
+    100166: Boruto_NecklaceTop
+    100168: Boruto_Porch
+    100170: Boruto_PorchTop
+    100172: Boruto_Reference
+    100174: Boruto_RightArm
+    100176: Boruto_RightArmRoll
+    100178: Boruto_RightCollar1
+    100180: Boruto_RightCollarTop1
+    100182: Boruto_RightEye
+    100184: Boruto_RightEyeTop
+    100186: Boruto_RightFoot
+    100188: Boruto_RightForeArm
+    100190: Boruto_RightForeArmRoll
+    100192: Boruto_RightHairFront
+    100194: Boruto_RightHairFront1
+    100196: Boruto_RightHairFrontTop
+    100198: Boruto_RightHand
+    100200: Boruto_RightHandIndex1
+    100202: Boruto_RightHandIndex2
+    100204: Boruto_RightHandIndex3
+    100206: Boruto_RightHandIndexTop
+    100208: Boruto_RightHandMiddle1
+    100210: Boruto_RightHandMiddle2
+    100212: Boruto_RightHandMiddle3
+    100214: Boruto_RightHandMiddleTop
+    100216: Boruto_RightHandPinky1
+    100218: Boruto_RightHandPinky2
+    100220: Boruto_RightHandPinky3
+    100222: Boruto_RightHandPinkyTop
+    100224: Boruto_RightHandRing1
+    100226: Boruto_RightHandRing2
+    100228: Boruto_RightHandRing3
+    100230: Boruto_RightHandRingTop
+    100232: Boruto_RightHandThumb1
+    100234: Boruto_RightHandThumb2
+    100236: Boruto_RightHandThumb3
+    100238: Boruto_RightHandThumbTop
+    100240: Boruto_RightHandTop
+    100242: Boruto_RightJacket
+    100244: Boruto_RightJacket1
+    100246: Boruto_RightJacket2
+    100248: Boruto_RightJacket3
+    100250: Boruto_RightJacket4
+    100252: Boruto_RightJacket5
+    100254: Boruto_RightJacketTop
+    100256: Boruto_RightJacketTop1
+    100258: Boruto_RightJacketTop2
+    100260: Boruto_RightLeg
+    100262: Boruto_RightShoulder
+    100264: Boruto_RightToeBase
+    100266: Boruto_RightToeTop
+    100268: Boruto_RightUpLeg
+    100270: Boruto_Spine
+    100272: Boruto_Spine1
+    100274: Boruto_Spine2
+    100276: Face
+    100278: Hair
+    100280: Jacket
+    100282: Leg
+    100284: Necklace
+    100286: Porch
+    400000: Band
+    400002: BlendShape
+    400004: Body
+    400006: //RootNode
+    400008: Boruto
+    400010: Boruto_Collar
+    400012: Boruto_CollarTop
+    400014: Boruto_HairAhoge
+    400016: Boruto_HairAhogeTop
+    400018: Boruto_HairBack
+    400020: Boruto_HairBack1
+    400022: Boruto_HairBack2
+    400024: Boruto_HairBack3
+    400026: Boruto_HairBack4
+    400028: Boruto_HairBack5
+    400030: Boruto_HairBack6
+    400032: Boruto_HairBack7
+    400034: Boruto_HairBack8
+    400036: Boruto_HairBack9
+    400038: Boruto_HairBackTop
+    400040: Boruto_HairBackTop1
+    400042: Boruto_HairBackTop2
+    400044: Boruto_HairBackTop3
+    400046: Boruto_HairBackTop4
+    400048: Boruto_HairBackTop5
+    400050: Boruto_HairBackTop6
+    400052: Boruto_HairBackTop7
+    400054: Boruto_HairBackTop8
+    400056: Boruto_HairBackTop9
+    400058: Boruto_Head
+    400060: Boruto_HeadTop
+    400062: Boruto_Hips
+    400064: Boruto_LeftArm
+    400066: Boruto_LeftArmRoll
+    400068: Boruto_LeftCollar1
+    400070: Boruto_LeftCollarTop1
+    400072: Boruto_LeftEye
+    400074: Boruto_LeftEyeTop
+    400076: Boruto_LeftFoot
+    400078: Boruto_LeftForeArm
+    400080: Boruto_LeftForeArmRoll
+    400082: Boruto_LeftHairFront
+    400084: Boruto_LeftHairFront1
+    400086: Boruto_LeftHairFrontTop
+    400088: Boruto_LeftHand
+    400090: Boruto_LeftHandIndex1
+    400092: Boruto_LeftHandIndex2
+    400094: Boruto_LeftHandIndex3
+    400096: Boruto_LeftHandIndexTop
+    400098: Boruto_LeftHandMiddle1
+    400100: Boruto_LeftHandMiddle2
+    400102: Boruto_LeftHandMiddle3
+    400104: Boruto_LeftHandMiddleTop
+    400106: Boruto_LeftHandPinky1
+    400108: Boruto_LeftHandPinky2
+    400110: Boruto_LeftHandPinky3
+    400112: Boruto_LeftHandPinkyTop
+    400114: Boruto_LeftHandRing1
+    400116: Boruto_LeftHandRing2
+    400118: Boruto_LeftHandRing3
+    400120: Boruto_LeftHandRingTop
+    400122: Boruto_LeftHandThumb1
+    400124: Boruto_LeftHandThumb2
+    400126: Boruto_LeftHandThumb3
+    400128: Boruto_LeftHandThumbTop
+    400130: Boruto_LeftHandTop
+    400132: Boruto_LeftJacket
+    400134: Boruto_LeftJacket1
+    400136: Boruto_LeftJacket2
+    400138: Boruto_LeftJacket3
+    400140: Boruto_LeftJacket4
+    400142: Boruto_LeftJacket5
+    400144: Boruto_LeftJacketTop
+    400146: Boruto_LeftJacketTop1
+    400148: Boruto_LeftJacketTop2
+    400150: Boruto_LeftLeg
+    400152: Boruto_LeftShoulder
+    400154: Boruto_LeftToeBase
+    400156: Boruto_LeftToeTop
+    400158: Boruto_LeftUpLeg
+    400160: Boruto_Neck
+    400162: Boruto_Necklace
+    400164: Boruto_Necklace1
+    400166: Boruto_NecklaceTop
+    400168: Boruto_Porch
+    400170: Boruto_PorchTop
+    400172: Boruto_Reference
+    400174: Boruto_RightArm
+    400176: Boruto_RightArmRoll
+    400178: Boruto_RightCollar1
+    400180: Boruto_RightCollarTop1
+    400182: Boruto_RightEye
+    400184: Boruto_RightEyeTop
+    400186: Boruto_RightFoot
+    400188: Boruto_RightForeArm
+    400190: Boruto_RightForeArmRoll
+    400192: Boruto_RightHairFront
+    400194: Boruto_RightHairFront1
+    400196: Boruto_RightHairFrontTop
+    400198: Boruto_RightHand
+    400200: Boruto_RightHandIndex1
+    400202: Boruto_RightHandIndex2
+    400204: Boruto_RightHandIndex3
+    400206: Boruto_RightHandIndexTop
+    400208: Boruto_RightHandMiddle1
+    400210: Boruto_RightHandMiddle2
+    400212: Boruto_RightHandMiddle3
+    400214: Boruto_RightHandMiddleTop
+    400216: Boruto_RightHandPinky1
+    400218: Boruto_RightHandPinky2
+    400220: Boruto_RightHandPinky3
+    400222: Boruto_RightHandPinkyTop
+    400224: Boruto_RightHandRing1
+    400226: Boruto_RightHandRing2
+    400228: Boruto_RightHandRing3
+    400230: Boruto_RightHandRingTop
+    400232: Boruto_RightHandThumb1
+    400234: Boruto_RightHandThumb2
+    400236: Boruto_RightHandThumb3
+    400238: Boruto_RightHandThumbTop
+    400240: Boruto_RightHandTop
+    400242: Boruto_RightJacket
+    400244: Boruto_RightJacket1
+    400246: Boruto_RightJacket2
+    400248: Boruto_RightJacket3
+    400250: Boruto_RightJacket4
+    400252: Boruto_RightJacket5
+    400254: Boruto_RightJacketTop
+    400256: Boruto_RightJacketTop1
+    400258: Boruto_RightJacketTop2
+    400260: Boruto_RightLeg
+    400262: Boruto_RightShoulder
+    400264: Boruto_RightToeBase
+    400266: Boruto_RightToeTop
+    400268: Boruto_RightUpLeg
+    400270: Boruto_Spine
+    400272: Boruto_Spine1
+    400274: Boruto_Spine2
+    400276: Face
+    400278: Hair
+    400280: Jacket
+    400282: Leg
+    400284: Necklace
+    400286: Porch
+    4300000: Hair
+    4300002: Face
+    4300004: Body
+    4300006: Leg
+    4300008: Jacket
+    4300010: Band
+    4300012: Porch
+    4300014: Necklace
+    9500000: //RootNode
+    13700000: Band
+    13700002: Body
+    13700004: Face
+    13700006: Hair
+    13700008: Jacket
+    13700010: Leg
+    13700012: Necklace
+    13700014: Porch
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boruto_Cloth
+    second: {fileID: 2100000, guid: d4b8e570ca218f34c973412d50db7b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boruto_Eye
+    second: {fileID: 2100000, guid: a550c50ec15d3194c98548a99ba74847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boruto_Hair
+    second: {fileID: 2100000, guid: 7edb80fa71d02844d9e9871461acb8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boruto_Skin
+    second: {fileID: 2100000, guid: 428b4925091a91d4483c54124741446e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Boruto_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_HairAhoge
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Boruto_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Boruto(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BlendShape
+      parentName: Boruto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto
+      parentName: Boruto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Band
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Reference
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Hips
+      parentName: Boruto_Reference
+      position: {x: -0, y: 0.68370706, z: 0.004911336}
+      rotation: {x: 0.0073336265, y: 0.0073336265, z: -0.70706874, w: 0.70706874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftUpLeg
+      parentName: Boruto_Hips
+      position: {x: 0.018744588, y: -0.095225304, z: -0.030638121}
+      rotation: {x: -0.04175621, y: 0.0057181637, z: 0.9990777, w: 0.008221587}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftLeg
+      parentName: Boruto_LeftUpLeg
+      position: {x: -0.3101489, y: 1.797979e-16, z: -6.217249e-17}
+      rotation: {x: -0.000034436463, y: -0.046920996, z: 0.0020355321, w: 0.99889654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftFoot
+      parentName: Boruto_LeftLeg
+      position: {x: -0.2869611, y: -1.0658141e-16, z: -2.8865798e-17}
+      rotation: {x: -0.0027206924, y: 0.52257514, z: 0.0047533815, w: 0.8525757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftToeBase
+      parentName: Boruto_LeftFoot
+      position: {x: -0.11763998, y: -4.9960034e-18, z: 1.3100631e-16}
+      rotation: {x: 0.008000533, y: 0.24789092, z: 0.00078324456, w: 0.9687546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftToeTop
+      parentName: Boruto_LeftToeBase
+      position: {x: -0.06111833, y: 1.1136925e-17, z: 2.593791e-17}
+      rotation: {x: -0.7019535, y: 0.0672235, z: 0.70581406, w: -0.06759321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Porch
+      parentName: Boruto_Hips
+      position: {x: -0.060514126, y: 3.667834e-15, z: -0.115336165}
+      rotation: {x: 0.1917176, y: 1.17393175e-17, z: 0.98145014, w: -6.009649e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_PorchTop
+      parentName: Boruto_Porch
+      position: {x: -0.14127162, y: 1.0077697e-30, z: -3.968567e-17}
+      rotation: {x: -0.14275512, y: 0.14275512, z: -0.6925467, w: 0.6925467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightUpLeg
+      parentName: Boruto_Hips
+      position: {x: 0.018744554, y: 0.0952253, z: -0.030638136}
+      rotation: {x: -0.9990777, y: -0.008221492, z: -0.041756205, w: 0.0057181674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightLeg
+      parentName: Boruto_RightUpLeg
+      position: {x: 0.3101485, y: 0.00000007510901, z: -0.000000032646675}
+      rotation: {x: -0.000034436467, y: -0.046920996, z: 0.0020355321, w: 0.99889654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightFoot
+      parentName: Boruto_RightLeg
+      position: {x: 0.28696135, y: 0.00000032104904, z: -0.000000017444641}
+      rotation: {x: -0.0027206924, y: 0.52257514, z: 0.0047533815, w: 0.8525757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightToeBase
+      parentName: Boruto_RightFoot
+      position: {x: 0.11764011, y: -0.00000072042684, z: 0.00000018020502}
+      rotation: {x: 0.008000533, y: 0.24789092, z: 0.00078324456, w: 0.9687546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightToeTop
+      parentName: Boruto_RightToeBase
+      position: {x: 0.061118115, y: -0.00000012281119, z: 0.0000000024552693}
+      rotation: {x: -0.7019535, y: 0.0672235, z: 0.70581406, w: -0.06759321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Spine
+      parentName: Boruto_Hips
+      position: {x: -0.10072453, y: 7.266576e-18, z: 7.387446e-32}
+      rotation: {x: 0, y: -0.026354237, z: -0, w: 0.9996527}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Spine1
+      parentName: Boruto_Spine
+      position: {x: -0.09513144, y: -1.3518695e-17, z: -2.341822e-16}
+      rotation: {x: 0, y: -0.03957955, z: -0, w: 0.99921644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket
+      parentName: Boruto_Spine1
+      position: {x: -0.0014039918, y: -0.094200045, z: 0.08280592}
+      rotation: {x: 0.024653766, y: 0.0045641954, z: 0.9982978, w: 0.052657712}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket1
+      parentName: Boruto_LeftJacket
+      position: {x: -0.1168664, y: 5.1245318e-17, z: 3.400485e-17}
+      rotation: {x: -0.00041564516, y: -0.020775799, z: 0.010134125, w: 0.99973273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacketTop
+      parentName: Boruto_LeftJacket1
+      position: {x: -0.121666916, y: -1.2887975e-17, z: -1.3638473e-16}
+      rotation: {x: 0.0068344357, y: -0.0074450695, z: -0.67621624, w: 0.7366339}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket2
+      parentName: Boruto_Spine1
+      position: {x: -0.026023827, y: -0.15322557, z: -0.0037818353}
+      rotation: {x: 0.072082624, y: 0.0033962957, z: 0.9935336, w: 0.08765569}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket3
+      parentName: Boruto_LeftJacket2
+      position: {x: -0.11305864, y: 5.2038356e-17, z: 3.431326e-17}
+      rotation: {x: 0.0001497726, y: -0.013821245, z: 0.0031493984, w: 0.99989957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacketTop1
+      parentName: Boruto_LeftJacket3
+      position: {x: -0.11635625, y: -9.687749e-17, z: -4.540094e-16}
+      rotation: {x: -0.019772476, y: 0.023440588, z: -0.6444625, w: 0.76402074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket4
+      parentName: Boruto_Spine1
+      position: {x: -0.031278774, y: -0.06605579, z: -0.119091384}
+      rotation: {x: 0.20073865, y: -0.004434941, z: 0.9784339, w: 0.048491772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacket5
+      parentName: Boruto_LeftJacket4
+      position: {x: -0.08753502, y: 4.2047553e-17, z: 5.8508324e-17}
+      rotation: {x: -0.004619786, y: -0.11249088, z: -0.0107378205, w: 0.993584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftJacketTop2
+      parentName: Boruto_LeftJacket5
+      position: {x: -0.087676145, y: 3.2313864e-17, z: 3.171581e-17}
+      rotation: {x: -0.17016858, y: 0.19207594, z: -0.6409262, w: 0.72343844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket
+      parentName: Boruto_Spine1
+      position: {x: -0.0014038852, y: 0.0942, z: 0.08280588}
+      rotation: {x: 0.9982978, y: 0.052657712, z: -0.024653766, w: -0.0045641954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket1
+      parentName: Boruto_RightJacket
+      position: {x: 0.11686659, y: 0.00000020597423, z: 0.000000035389956}
+      rotation: {x: -0.00041564516, y: -0.020775799, z: 0.010134125, w: 0.99973273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacketTop
+      parentName: Boruto_RightJacket1
+      position: {x: 0.12166696, y: -0.00000042667673, z: -0.0000000045209663}
+      rotation: {x: 0.0068344357, y: -0.0074450695, z: -0.67621624, w: 0.7366339}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket2
+      parentName: Boruto_Spine1
+      position: {x: -0.026023354, y: 0.153226, z: -0.0037818898}
+      rotation: {x: 0.9935336, y: 0.08765569, z: -0.072082624, w: -0.0033962957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket3
+      parentName: Boruto_RightJacket2
+      position: {x: 0.113058075, y: 0.00000056759035, z: 0.000000016797113}
+      rotation: {x: 0.0001497726, y: -0.013821245, z: 0.0031493984, w: 0.99989957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacketTop1
+      parentName: Boruto_RightJacket3
+      position: {x: 0.11635658, y: -0.000000491951, z: -0.000000027211184}
+      rotation: {x: -0.019772476, y: 0.023440588, z: -0.6444625, w: 0.76402074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket4
+      parentName: Boruto_Spine1
+      position: {x: -0.03127916, y: 0.0660558, z: -0.11909087}
+      rotation: {x: 0.9784339, y: 0.048491772, z: -0.20073865, w: 0.004434941}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacket5
+      parentName: Boruto_RightJacket4
+      position: {x: 0.087535314, y: 0.000000020707123, z: 0.00000073312503}
+      rotation: {x: -0.004619786, y: -0.11249088, z: -0.0107378205, w: 0.993584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightJacketTop2
+      parentName: Boruto_RightJacket5
+      position: {x: 0.08767679, y: 0.000000107800304, z: -0.000000344882}
+      rotation: {x: -0.17016858, y: 0.19207594, z: -0.6409262, w: 0.72343844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Spine2
+      parentName: Boruto_Spine1
+      position: {x: -0.092866756, y: 1.7431313e-15, z: -3.939349e-17}
+      rotation: {x: 0, y: 0.009796849, z: -0, w: 0.999952}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Collar
+      parentName: Boruto_Spine2
+      position: {x: -0.22783767, y: 1.918472e-15, z: -0.062883474}
+      rotation: {x: 0.032359112, y: 0.03235911, z: 0.706366, w: 0.706366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_CollarTop
+      parentName: Boruto_Collar
+      position: {x: -9.0867436e-10, y: 0.061322372, z: -0.0062716063}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftCollar1
+      parentName: Boruto_Spine2
+      position: {x: -0.20740062, y: -0.05827553, z: 0.028201276}
+      rotation: {x: 0.032359112, y: 0.03235911, z: 0.706366, w: 0.706366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftCollarTop1
+      parentName: Boruto_LeftCollar1
+      position: {x: -0.018072791, y: 0.061322372, z: 0.0029020947}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftShoulder
+      parentName: Boruto_Spine2
+      position: {x: -0.1553383, y: -0.0522692, z: 0.01723632}
+      rotation: {x: 0.0633282, y: 0.0085827485, z: 0.80995226, w: 0.5830037}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftArm
+      parentName: Boruto_LeftShoulder
+      position: {x: -0.08461918, y: -3.6862874e-18, z: 1.5265567e-18}
+      rotation: {x: 0.0029157586, y: 0.031044643, z: -0.1372838, w: 0.9900409}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftArmRoll
+      parentName: Boruto_LeftArm
+      position: {x: -0.14367197, y: -1.2518414e-17, z: 3.318514e-18}
+      rotation: {x: 0.00000016084448, y: 0.00000015461994, z: 0.0000050780527, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftForeArm
+      parentName: Boruto_LeftArm
+      position: {x: -0.23567516, y: 0.00041197764, z: -0.00086571794}
+      rotation: {x: -0.000079447396, y: 0.023975296, z: 0.007360618, w: 0.9996855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftForeArmRoll
+      parentName: Boruto_LeftForeArm
+      position: {x: -0.10586972, y: -0.0000003243123, z: 0.000000015617717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHand
+      parentName: Boruto_LeftForeArm
+      position: {x: -0.20366132, y: -0.000000018521193, z: 0.000000026792005}
+      rotation: {x: 0.000035798632, y: -0.02549425, z: -0.0640554, w: 0.99762064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandIndex1
+      parentName: Boruto_LeftHand
+      position: {x: -0.072346546, y: 0.0012225268, z: 0.019374225}
+      rotation: {x: 0.0002667124, y: 0.01840775, z: 0.04061574, w: 0.99900526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandIndex2
+      parentName: Boruto_LeftHandIndex1
+      position: {x: -0.036416467, y: -0.00000014807219, z: 0.000000006799968}
+      rotation: {x: 0.00062305515, y: 0.0113846315, z: -0.02679747, w: 0.99957585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandIndex3
+      parentName: Boruto_LeftHandIndex2
+      position: {x: -0.020403491, y: 0.00000006140047, z: 0.000000010145783}
+      rotation: {x: -0.00006136559, y: -0.014713032, z: 0.0030799357, w: 0.99988705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandIndexTop
+      parentName: Boruto_LeftHandIndex3
+      position: {x: -0.021690968, y: -0.000000067226225, z: -0.000000006888229}
+      rotation: {x: 0.00091512105, y: -0.0024379198, z: -0.35142562, w: 0.9362122}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandMiddle1
+      parentName: Boruto_LeftHand
+      position: {x: -0.07146448, y: 0.002170753, z: 0.00045699882}
+      rotation: {x: 0.00026066753, y: 0.0040815216, z: 0.01246508, w: 0.999914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandMiddle2
+      parentName: Boruto_LeftHandMiddle1
+      position: {x: -0.039353944, y: 0.0000005858448, z: -0.000000025389}
+      rotation: {x: 0.0010838729, y: -0.013337073, z: 0.03591103, w: 0.99926543}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandMiddle3
+      parentName: Boruto_LeftHandMiddle2
+      position: {x: -0.022804772, y: 0.00000040576577, z: 0.000000029877082}
+      rotation: {x: -0.0029256993, y: 0.0010028821, z: -0.04014047, w: 0.99918926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandMiddleTop
+      parentName: Boruto_LeftHandMiddle3
+      position: {x: -0.023442227, y: -0.00000069225314, z: 0.000000040203645}
+      rotation: {x: -0.006304758, y: 0.018987868, z: -0.31506097, w: 0.9488605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandPinky1
+      parentName: Boruto_LeftHand
+      position: {x: -0.06833045, y: -0.0021841163, z: -0.03318562}
+      rotation: {x: 0.00147592, y: -0.061033867, z: 0.017105246, w: 0.99798805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandPinky2
+      parentName: Boruto_LeftHandPinky1
+      position: {x: -0.030440137, y: 0.000000027624306, z: -0.000000012180189}
+      rotation: {x: -0.0012532591, y: -0.0066081393, z: -0.008086376, w: 0.9999447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandPinky3
+      parentName: Boruto_LeftHandPinky2
+      position: {x: -0.017786046, y: -0.00000033141396, z: 0.000000022223977}
+      rotation: {x: -0.0024781812, y: 0.011117846, z: -0.016480813, w: 0.9997993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandPinkyTop
+      parentName: Boruto_LeftHandPinky3
+      position: {x: -0.020146372, y: 0.0000003225392, z: 0.00000007572394}
+      rotation: {x: -0.0226567, y: 0.06518482, z: -0.3275275, w: 0.9423181}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandRing1
+      parentName: Boruto_LeftHand
+      position: {x: -0.07060709, y: 0.0026996818, z: -0.016654069}
+      rotation: {x: 0.0025122263, y: -0.044701852, z: 0.035966143, w: 0.9983496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandRing2
+      parentName: Boruto_LeftHandRing1
+      position: {x: -0.037151176, y: 0.00000032412768, z: 0.00000007011933}
+      rotation: {x: -0.00009789924, y: -0.007581547, z: -0.00079804496, w: 0.999971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandRing3
+      parentName: Boruto_LeftHandRing2
+      position: {x: -0.021860698, y: -0.0000004966015, z: -0.00000009002023}
+      rotation: {x: -0.0054302244, y: 0.0014458111, z: -0.042125646, w: 0.9990965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandRingTop
+      parentName: Boruto_LeftHandRing3
+      position: {x: -0.02324532, y: -0.00000005812204, z: 0.00000009364747}
+      rotation: {x: -0.020819921, y: 0.05981332, z: -0.328076, w: 0.9425259}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandThumb1
+      parentName: Boruto_LeftHand
+      position: {x: -0.026135948, y: -0.013474602, z: 0.022967758}
+      rotation: {x: 0.7754351, y: 0.23329611, z: -0.25296888, w: 0.5294149}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandThumb2
+      parentName: Boruto_LeftHandThumb1
+      position: {x: -0.033760503, y: -0.00000014621611, z: -0.00000055067693}
+      rotation: {x: -0.23491487, y: 0.005946022, z: 0.03347655, w: 0.97142106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandThumb3
+      parentName: Boruto_LeftHandThumb2
+      position: {x: -0.019918317, y: 0.000000032953665, z: 0.00000018520183}
+      rotation: {x: -0.04846901, y: 0.0095314365, z: 0.037388984, w: 0.9980791}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandThumbTop
+      parentName: Boruto_LeftHandThumb3
+      position: {x: -0.026607765, y: -0.0000001349566, z: 0.0000008486777}
+      rotation: {x: -0.60698384, y: -0.3110116, z: -0.3626231, w: 0.6350961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHandTop
+      parentName: Boruto_LeftHand
+      position: {x: -0.15691692, y: -0.00000026298449, z: 0.000000043427857}
+      rotation: {x: -0.0041927546, y: 0.011770535, z: -0.33552873, w: 0.9419471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Neck
+      parentName: Boruto_Spine2
+      position: {x: -0.20721081, y: 1.7833948e-15, z: 3.0955208e-16}
+      rotation: {x: 0, y: 0.10275875, z: -0, w: 0.99470633}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Head
+      parentName: Boruto_Neck
+      position: {x: -0.064832926, y: 7.640876e-17, z: 1.919987e-17}
+      rotation: {x: 0, y: -0.05713066, z: -0, w: 0.9983667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairAhoge
+      parentName: Boruto_Head
+      position: {x: -0.1985954, y: -0.017108222, z: 0.09445478}
+      rotation: {x: -0.0033662482, y: 0.0983252, z: 0.034049824, w: 0.99456596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairAhogeTop
+      parentName: Boruto_HairAhoge
+      position: {x: -0.060612753, y: -2.9478335e-17, z: 2.669749e-17}
+      rotation: {x: -0.067146115, y: -0.07190671, z: 0.6791875, w: 0.7273412}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack
+      parentName: Boruto_Head
+      position: {x: -0.22942449, y: -0.06453905, z: 0.025896234}
+      rotation: {x: 0.39554235, y: -0.17235431, z: 0.51239836, w: 0.74248785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop
+      parentName: Boruto_HairBack
+      position: {x: -0.06413084, y: 2.842171e-16, z: 7.105427e-17}
+      rotation: {x: -0.15781775, y: 0.40156356, z: 0.16269787, w: 0.8873385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack1
+      parentName: Boruto_Head
+      position: {x: -0.23347388, y: 0.03200492, z: 0.035436757}
+      rotation: {x: 0.82347864, y: -0.46787435, z: 0.1267664, w: 0.2947998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop1
+      parentName: Boruto_HairBack1
+      position: {x: -0.06089024, y: 0, z: -1.7763568e-17}
+      rotation: {x: -0.2514502, y: 0.91312444, z: 0.11881755, w: 0.2980923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack2
+      parentName: Boruto_Head
+      position: {x: -0.18922435, y: -0.113242835, z: -0.03955335}
+      rotation: {x: 0.44931325, y: 0.06520561, z: 0.50967, w: 0.73082304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop2
+      parentName: Boruto_HairBack2
+      position: {x: -0.040813927, y: 0, z: 0}
+      rotation: {x: -0.3638198, y: 0.27160516, z: 0.15637879, w: 0.8771611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack3
+      parentName: Boruto_Head
+      position: {x: -0.19947119, y: -0.08259319, z: -0.06746819}
+      rotation: {x: 0.40891188, y: -0.25887993, z: 0.5239199, w: 0.70091385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop3
+      parentName: Boruto_HairBack3
+      position: {x: -0.052324314, y: -2.842171e-16, z: 7.9936054e-17}
+      rotation: {x: -0.10608861, y: 0.47220016, z: 0.12515366, w: 0.8660883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack4
+      parentName: Boruto_Head
+      position: {x: -0.18920171, y: -0.0035138528, z: -0.07277681}
+      rotation: {x: 0.6447778, y: -0.3278455, z: 0.3392776, w: 0.6013898}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop4
+      parentName: Boruto_HairBack4
+      position: {x: -0.061641414, y: 0, z: -8.881784e-18}
+      rotation: {x: -0.224105, y: 0.68774855, z: 0.18534133, w: 0.6651523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack5
+      parentName: Boruto_Head
+      position: {x: -0.2026005, y: 0.07532345, z: -0.061665438}
+      rotation: {x: 0.7551315, y: -0.49738407, z: 0.2484156, w: 0.3473836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop5
+      parentName: Boruto_HairBack5
+      position: {x: -0.055031702, y: 0, z: -2.6645352e-17}
+      rotation: {x: -0.18225491, y: 0.8856622, z: 0.06998093, w: 0.42129365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack6
+      parentName: Boruto_Head
+      position: {x: -0.19677751, y: 0.105136424, z: -0.02838158}
+      rotation: {x: 0.837836, y: -0.48301125, z: 0.10539297, w: 0.231567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop6
+      parentName: Boruto_HairBack6
+      position: {x: -0.04752755, y: 2.842171e-16, z: 8.881784e-18}
+      rotation: {x: -0.25089902, y: 0.93398005, z: 0.08921851, w: 0.23826668}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack7
+      parentName: Boruto_Head
+      position: {x: -0.14104809, y: -0.08289013, z: -0.06664694}
+      rotation: {x: 0.045786757, y: -0.20891649, z: 0.62979686, w: 0.74673516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop7
+      parentName: Boruto_HairBack7
+      position: {x: -0.07238347, y: 0, z: 1.0658141e-16}
+      rotation: {x: 0.115350135, y: 0.1801024, z: 0.08268784, w: 0.9733551}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack8
+      parentName: Boruto_Head
+      position: {x: -0.13533013, y: -0.00038591964, z: -0.09363445}
+      rotation: {x: 0.5143938, y: -0.48549458, z: 0.49232113, w: 0.5072612}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop8
+      parentName: Boruto_HairBack8
+      position: {x: -0.07053145, y: 0, z: 4.440892e-18}
+      rotation: {x: -0.02043485, y: 0.7070279, z: 0.010564229, w: 0.7068115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBack9
+      parentName: Boruto_Head
+      position: {x: -0.14248475, y: 0.08075009, z: -0.06747103}
+      rotation: {x: 0.74043375, y: -0.62942666, z: 0.17962329, w: 0.15269387}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HairBackTop9
+      parentName: Boruto_HairBack9
+      position: {x: -0.07887372, y: -2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: -0.078493856, y: 0.96863765, z: -0.01904198, w: 0.23498373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_HeadTop
+      parentName: Boruto_Head
+      position: {x: -0.27274308, y: 5.866859e-17, z: -2.7807135e-17}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftEye
+      parentName: Boruto_Head
+      position: {x: -0.060180817, y: -0.043720398, z: 0.045348357}
+      rotation: {x: -0.699257, y: -1.2929916e-14, z: 0.7148704, w: -1.3218622e-14}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftEyeTop
+      parentName: Boruto_LeftEye
+      position: {x: -0.05446625, y: -4.7683323e-19, z: 7.7854385e-17}
+      rotation: {x: 0.49444938, y: -0.49444938, z: -0.5054897, w: 0.5054897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHairFront
+      parentName: Boruto_Head
+      position: {x: -0.18337573, y: -0.038011197, z: 0.11267183}
+      rotation: {x: 0.0020393373, y: -0.00048400697, z: 0.9729704, w: 0.23092036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHairFront1
+      parentName: Boruto_LeftHairFront
+      position: {x: -0.06724918, y: -7.6712055e-17, z: 1.5664163e-18}
+      rotation: {x: 0.018324211, y: -0.0759332, z: 0.22250062, w: 0.97179824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_LeftHairFrontTop
+      parentName: Boruto_LeftHairFront1
+      position: {x: -0.07651632, y: 6.335686e-17, z: -1.946163e-17}
+      rotation: {x: -0.0561136, y: 0.057004157, z: -0.6992703, w: 0.71036816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightEye
+      parentName: Boruto_Head
+      position: {x: -0.060180962, y: 0.043720398, z: 0.045348376}
+      rotation: {x: 0.7148704, y: 1.2619383e-14, z: 0.699257, w: -1.29011554e-14}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightEyeTop
+      parentName: Boruto_RightEye
+      position: {x: 0.054466218, y: 0, z: -0.0000025768409}
+      rotation: {x: 0.49444938, y: -0.49444938, z: -0.5054897, w: 0.5054897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHairFront
+      parentName: Boruto_Head
+      position: {x: -0.182096, y: -0.0074982373, z: 0.11123288}
+      rotation: {x: 0.018080171, y: 0.008121858, z: 0.91201055, w: -0.40968752}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHairFront1
+      parentName: Boruto_RightHairFront
+      position: {x: -0.08927822, y: -3.3616316e-17, z: -2.1269709e-18}
+      rotation: {x: -0.057702556, y: -0.13454457, z: -0.3134149, w: 0.93826395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHairFrontTop
+      parentName: Boruto_RightHairFront1
+      position: {x: -0.099529035, y: -6.166029e-17, z: -3.5960605e-17}
+      rotation: {x: -0.12483792, y: 0.102517486, z: -0.76266146, w: 0.62630117}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Necklace
+      parentName: Boruto_Spine2
+      position: {x: -0.1938177, y: 1.9363878e-15, z: 0.045882516}
+      rotation: {x: -0.36051536, y: -6.6247913e-16, z: 0.93275326, w: -1.7140173e-15}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_Necklace1
+      parentName: Boruto_Necklace
+      position: {x: -0.038358428, y: -3.3369039e-18, z: 1.35960526e-17}
+      rotation: {x: 0, y: -0.13026959, z: -0, w: 0.9914786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_NecklaceTop
+      parentName: Boruto_Necklace1
+      position: {x: -0.036379907, y: -8.488848e-18, z: -2.307594e-19}
+      rotation: {x: 0.19810125, y: -0.19810125, z: -0.67879003, w: 0.67879003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightCollar1
+      parentName: Boruto_Spine2
+      position: {x: -0.20740382, y: 0.0582755, z: 0.028201573}
+      rotation: {x: 0.706366, y: 0.706366, z: -0.032359112, w: -0.03235911}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightCollarTop1
+      parentName: Boruto_RightCollar1
+      position: {x: 0.0180728, y: -0.06132, z: -0.0029021}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightShoulder
+      parentName: Boruto_Spine2
+      position: {x: -0.1553383, y: 0.0522692, z: 0.01723632}
+      rotation: {x: 0.8099526, y: 0.58300316, z: -0.06332831, w: -0.008582632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightArm
+      parentName: Boruto_RightShoulder
+      position: {x: 0.08461918, y: -1.4210854e-16, z: 8.881784e-18}
+      rotation: {x: 0.0029157903, y: 0.031044748, z: -0.1372833, w: 0.9900409}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightArmRoll
+      parentName: Boruto_RightArm
+      position: {x: 0.14367197, y: -2.842171e-16, z: 0}
+      rotation: {x: 0.00000016100842, y: 0.00000015461977, z: 0.000005078047, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightForeArm
+      parentName: Boruto_RightArm
+      position: {x: 0.2356752, y: -0.000412432, z: 0.0008657304}
+      rotation: {x: -0.00007946905, y: 0.023974448, z: 0.0073592323, w: 0.99968547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightForeArmRoll
+      parentName: Boruto_RightForeArm
+      position: {x: 0.1058697, y: 0.00000077919753, z: -0.000000029201715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHand
+      parentName: Boruto_RightForeArm
+      position: {x: 0.20366131, y: 0.00000047340646, z: -0.000000040376}
+      rotation: {x: 0.000035798632, y: -0.02549425, z: -0.0640554, w: 0.99762064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandIndex1
+      parentName: Boruto_RightHand
+      position: {x: 0.072346546, y: -0.0012225268, z: -0.019374225}
+      rotation: {x: 0.0002667124, y: 0.01840775, z: 0.04061574, w: 0.99900526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandIndex2
+      parentName: Boruto_RightHandIndex1
+      position: {x: 0.036416467, y: 0.00000014807219, z: -0.0000000067999744}
+      rotation: {x: 0.00062305515, y: 0.0113846315, z: -0.02679747, w: 0.99957585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandIndex3
+      parentName: Boruto_RightHandIndex2
+      position: {x: 0.020403491, y: -0.00000006140047, z: -0.000000010145789}
+      rotation: {x: -0.00006136558, y: -0.014713032, z: 0.0030799357, w: 0.99988705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandIndexTop
+      parentName: Boruto_RightHandIndex3
+      position: {x: 0.021690968, y: 0.000000067226225, z: 0.0000000068882215}
+      rotation: {x: 0.00091512105, y: -0.0024379198, z: -0.35142562, w: 0.9362122}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandMiddle1
+      parentName: Boruto_RightHand
+      position: {x: 0.07146448, y: -0.002170753, z: -0.00045699882}
+      rotation: {x: 0.00026066753, y: 0.0040815216, z: 0.01246508, w: 0.999914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandMiddle2
+      parentName: Boruto_RightHandMiddle1
+      position: {x: 0.039353944, y: -0.0000005858448, z: 0.000000025388983}
+      rotation: {x: 0.0010838729, y: -0.013337073, z: 0.03591103, w: 0.99926543}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandMiddle3
+      parentName: Boruto_RightHandMiddle2
+      position: {x: 0.022804772, y: -0.00000040576577, z: -0.000000029877086}
+      rotation: {x: -0.0029257038, y: 0.0010025846, z: -0.04013755, w: 0.9991894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandMiddleTop
+      parentName: Boruto_RightHandMiddle3
+      position: {x: 0.023442227, y: 0.00000069225314, z: -0.00000004020366}
+      rotation: {x: -0.006304758, y: 0.018987868, z: -0.31506097, w: 0.9488605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandPinky1
+      parentName: Boruto_RightHand
+      position: {x: 0.06833045, y: 0.0021841163, z: 0.03318562}
+      rotation: {x: 0.00147592, y: -0.061033867, z: 0.017105246, w: 0.99798805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandPinky2
+      parentName: Boruto_RightHandPinky1
+      position: {x: 0.030440137, y: -0.000000027624328, z: 0.000000012180179}
+      rotation: {x: -0.0012532591, y: -0.0066081393, z: -0.008086376, w: 0.9999447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandPinky3
+      parentName: Boruto_RightHandPinky2
+      position: {x: 0.017786046, y: 0.00000033141396, z: -0.000000022223984}
+      rotation: {x: -0.0024781812, y: 0.011117846, z: -0.016480813, w: 0.9997993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandPinkyTop
+      parentName: Boruto_RightHandPinky3
+      position: {x: 0.020146372, y: -0.00000032253922, z: -0.000000075723946}
+      rotation: {x: -0.0226567, y: 0.06518482, z: -0.3275275, w: 0.9423181}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandRing1
+      parentName: Boruto_RightHand
+      position: {x: 0.07060709, y: -0.0026996818, z: 0.016654069}
+      rotation: {x: 0.0025122263, y: -0.044701852, z: 0.035966143, w: 0.9983496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandRing2
+      parentName: Boruto_RightHandRing1
+      position: {x: 0.037151176, y: -0.0000003241277, z: -0.00000007011934}
+      rotation: {x: -0.00009789924, y: -0.007581547, z: -0.00079804496, w: 0.999971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandRing3
+      parentName: Boruto_RightHandRing2
+      position: {x: 0.021860698, y: 0.0000004966015, z: 0.00000009002022}
+      rotation: {x: -0.0054302244, y: 0.0014458111, z: -0.042125646, w: 0.9990965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandRingTop
+      parentName: Boruto_RightHandRing3
+      position: {x: 0.02324532, y: 0.000000058122026, z: -0.000000093647486}
+      rotation: {x: -0.020819921, y: 0.05981332, z: -0.328076, w: 0.9425259}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandThumb1
+      parentName: Boruto_RightHand
+      position: {x: 0.026135948, y: 0.013474602, z: -0.022967758}
+      rotation: {x: 0.77543503, y: 0.2332953, z: -0.2529691, w: 0.52941525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandThumb2
+      parentName: Boruto_RightHandThumb1
+      position: {x: 0.033760503, y: 0.0000001462161, z: 0.0000005506769}
+      rotation: {x: -0.23491424, y: 0.005947292, z: 0.033476785, w: 0.97142124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandThumb3
+      parentName: Boruto_RightHandThumb2
+      position: {x: 0.019918317, y: -0.000000032953658, z: -0.00000018520184}
+      rotation: {x: -0.048469, y: 0.009534822, z: 0.037389886, w: 0.9980791}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandThumbTop
+      parentName: Boruto_RightHandThumb3
+      position: {x: 0.026607765, y: 0.00000013495661, z: -0.0000008486777}
+      rotation: {x: -0.60698384, y: -0.3110116, z: -0.3626231, w: 0.6350961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boruto_RightHandTop
+      parentName: Boruto_RightHand
+      position: {x: 0.15691692, y: 0.00000026298449, z: -0.00000004342793}
+      rotation: {x: -0.0041927546, y: 0.011770535, z: -0.33552873, w: 0.9419471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jacket
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Necklace
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Porch
+      parentName: Boruto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

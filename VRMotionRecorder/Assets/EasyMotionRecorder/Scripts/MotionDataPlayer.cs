@@ -47,6 +47,9 @@ namespace Entum
         private Action _onPlayFinish;
         private float _playingTime;
 
+        [SerializeField]
+        private MotionDataRecorder m_MotionDataRecorder;
+
         private void Awake()
         {
             if (_animator == null)
@@ -66,6 +69,7 @@ namespace Entum
         {
             if (Input.GetKeyDown(_playStartKey))
             {
+              //  RecordedMotionData = m_MotionDataRecorder.GetPoses();
                 PlayMotion();
             }
 
