@@ -20,7 +20,7 @@ public class MotionConverter : MonoBehaviour
     public void ExportHumanoidAnim()
     {
         var clip = new AnimationClip { frameRate = 30 };
-        AnimationUtility.SetAnimationClipSettings(clip, new AnimationClipSettings { loopTime = false });
+        AnimationUtility.SetAnimationClipSettings(clip, new AnimationClipSettings { loopTime = false ,keepOriginalPositionY = true});
 
         
         {

@@ -36,7 +36,8 @@ public class MotionPlayer : MonoBehaviour
             {
                 m_VRIK.enabled = false;
             }
-
+            m_Animator.transform.position = Vector3.zero;
+            m_Animator.transform.rotation = Quaternion.identity;
             AnimatorClipChange();
 
             m_Animator.Play(MOTION, 0, 0);
