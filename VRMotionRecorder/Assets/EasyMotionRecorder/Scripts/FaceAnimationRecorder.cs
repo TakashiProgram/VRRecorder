@@ -91,11 +91,6 @@ namespace Entum
             
             var helper = root;
             var renderers = helper.GetComponentsInChildren<SkinnedMeshRenderer>();
-            Debug.Log("いいい");
-            for (int i = 0; i < renderers.Length; i++)
-            {
-                Debug.Log("あああ" + renderers[i]);
-            }
             
             List<SkinnedMeshRenderer> smeshList = new List<SkinnedMeshRenderer>();
             for (int i = 0; i < renderers.Length; i++)
@@ -309,7 +304,6 @@ namespace Entum
         /// <param name="facial"></param>
         void ExportFacialAnimationClip(Animator root, CharacterFacialData facial)
         {
-            Debug.Log(root.name);
             var animclip = new AnimationClip();
 
             var mesh = _smeshs;

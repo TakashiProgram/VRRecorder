@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HostType: 1
   HostProtocol: 0
-  AuthID: 
-  SelfServerAddress: 
-  m_SelfServerPortString: 
-  m_SelfServerPort: 0
+  AuthID: 8a9db296-43be-43ec-ad1e-cf4ca32ffc27-7a899bc0
+  SelfServerAddress: 192.168.0.119
+  m_SelfServerPortString: 9005
+  m_SelfServerPort: 9005
   MunCloudEndpointAddress: 
   MunCloudAppID: 
   MunCloudConnectionTimeOut: 20000
@@ -29,5 +29,5 @@ MonoBehaviour:
   ObjectStreamSendLimitBytesPerFrame: 2147483647
   RpcSendLimitBytesPerFrame: 2147483647
   ReceiveLimitBytesPerFrame: 4294967295
-  ServerConnectWaitTime: 5000
-  KeepAliveUpdateTime: 10000
+  ServerConnectWaitTime: 50000
+  KeepAliveUpdateTime: 100000

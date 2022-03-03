@@ -173,7 +173,7 @@ public class MotionConverter : MonoBehaviour
         //                         + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + ".anim");
 
         var path = string.Format("Assets/Resources/Scene" + m_MotionDataRecorder.GetScene() 
-                                 + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + m_MotionDataRecorder.GetAnimatorName() +"/"+ m_MotionDataRecorder.GetAnimatorName() +"_Humanoid.anim", DateTime.Now);
+                                 + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + m_MotionDataRecorder.GetAnimatorName() +"/Take" + m_MotionDataRecorder.GetTake() + "_Humanoid.anim", DateTime.Now);
        // var path = string.Format("Assets/Resources/RecordMotion_{0:yyyy_MM_dd_HH_mm_ss}_Humanoid.anim", DateTime.Now);
         var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
         m_Motion = clip;
