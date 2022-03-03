@@ -122,14 +122,14 @@ namespace Entum
                 }
                 if (FrameIndex % TargetFPS == 0)
                 {
-                    print("Motion_FPS=" + 1 / (RecordedTime / FrameIndex));
+                    //print("Motion_FPS=" + 1 / (RecordedTime / FrameIndex));
                 }
             }
             else
             {
                 if (Time.frameCount % Application.targetFrameRate == 0)
                 {
-                    print("Motion_FPS=" + 1 / Time.deltaTime);
+                   // print("Motion_FPS=" + 1 / Time.deltaTime);
                 }
             }
 
@@ -253,11 +253,10 @@ namespace Entum
         protected virtual void WriteAnimationFile()
         {
 #if UNITY_EDITOR
-            Debug.Log("Assets/Resources/Scene" + m_Scene + "/Cat" + m_Cat + "/" + _animator.name);
             var folder_name = "Assets/Resources/Scene" + m_Scene + "/Cat" + m_Cat + "/" + _animator.name;
             SafeCreateDirectory(folder_name);
             var time = DateTime.Now.ToString("_HH_mm_ss");
-            Debug.Log(time);
+
             var path = string.Format(folder_name + "/Take" + m_Take + time + ".asset", _animator.name, DateTime.Now);
             var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
 

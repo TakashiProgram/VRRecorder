@@ -66,22 +66,34 @@ namespace Entum
 
         [SerializeField]
         private GameObject m_Model;
+
+        [SerializeField]
+        private Animator m_Animator;
         // Use this for initialization
         private void OnEnable()
         {
+            
             _animRecorder = GetComponent<MotionDataRecorder>();
             _animRecorder.OnRecordStart += RecordStart;
             _animRecorder.OnRecordEnd += RecordEnd;
+            
             if (_animRecorder.CharacterAnimator != null)
             {
-                _smeshs = GetSkinnedMeshRenderers(_animRecorder.CharacterAnimator);
+                
+                _smeshs = GetSkinnedMeshRenderers(m_Animator);
             }
         }
 
         SkinnedMeshRenderer[] GetSkinnedMeshRenderers(Animator root)
         {
+            
             var helper = root;
             var renderers = helper.GetComponentsInChildren<SkinnedMeshRenderer>();
+            for (int i = 0; i < renderers.Length; i++)
+            {
+                Debug.Log("あああ" + renderers[i]);
+            }
+            
             List<SkinnedMeshRenderer> smeshList = new List<SkinnedMeshRenderer>();
             for (int i = 0; i < renderers.Length; i++)
             {
@@ -123,7 +135,7 @@ namespace Entum
             {
                 return;
             }
-
+            Debug.Log("通った");
             if (_smeshs.Length == 0)
             {
                 Debug.LogError("顔のメッシュ指定がされていないので顔のアニメーションは記録しません");
@@ -231,14 +243,14 @@ namespace Entum
                 }
                 if (_frameCount % TargetFPS == 0)
                 {
-                    print("Face_FPS=" + 1 / (_recordedTime / _frameCount));
+                    //print("Face_FPS=" + 1 / (_recordedTime / _frameCount));
                 }
             }
             else
             {
                 if (Time.frameCount % Application.targetFrameRate == 0)
                 {
-                    print("Face_FPS=" + 1 / Time.deltaTime);
+                   // print("Face_FPS=" + 1 / Time.deltaTime);
                 }
             }
 
@@ -341,8 +353,9 @@ namespace Entum
             MotionDataRecorder.SafeCreateDirectory(folder_name);
 
             var outputPath = folder_name + "/Take" + m_MotionDataRecorder.GetTake() + _animRecorder.CharacterAnimator.name + "_" +
-                             DateTime.Now.ToString("HH_mm_ss") + "_Clip.anim";
+                             DateTime.Now.ToString("HH_mm_ss") + "_Face_Clip.anim";
 
+            Debug.Log("うううう"+outputPath);
             Debug.Log("outputPath:" + outputPath);
             AssetDatabase.CreateAsset(animclip,
                 AssetDatabase.GenerateUniqueAssetPath(outputPath));
