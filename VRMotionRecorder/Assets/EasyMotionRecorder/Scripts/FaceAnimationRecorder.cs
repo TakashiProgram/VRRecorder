@@ -69,6 +69,8 @@ namespace Entum
 
         [SerializeField]
         private Animator m_Animator;
+
+        private Motion m_Motion;
         // Use this for initialization
         private void OnEnable()
         {
@@ -89,6 +91,7 @@ namespace Entum
             
             var helper = root;
             var renderers = helper.GetComponentsInChildren<SkinnedMeshRenderer>();
+            Debug.Log("いいい");
             for (int i = 0; i < renderers.Length; i++)
             {
                 Debug.Log("あああ" + renderers[i]);
@@ -135,7 +138,6 @@ namespace Entum
             {
                 return;
             }
-            Debug.Log("通った");
             if (_smeshs.Length == 0)
             {
                 Debug.LogError("顔のメッシュ指定がされていないので顔のアニメーションは記録しません");
@@ -171,7 +173,8 @@ namespace Entum
             else
             {
                 //WriteAnimationFileToScriptableObject();
-                ExportFacialAnimationClip(_animRecorder.CharacterAnimator, _facialData);
+                //ExportFacialAnimationClip(_animRecorder.CharacterAnimator, _facialData);
+                ExportFacialAnimationClip(m_Animator, _facialData);
             }
 
             Debug.Log("FaceAnimationRecorder record end");
@@ -306,6 +309,7 @@ namespace Entum
         /// <param name="facial"></param>
         void ExportFacialAnimationClip(Animator root, CharacterFacialData facial)
         {
+            Debug.Log(root.name);
             var animclip = new AnimationClip();
 
             var mesh = _smeshs;
@@ -354,8 +358,7 @@ namespace Entum
 
             var outputPath = folder_name + "/Take" + m_MotionDataRecorder.GetTake() + _animRecorder.CharacterAnimator.name + "_" +
                              DateTime.Now.ToString("HH_mm_ss") + "_Face_Clip.anim";
-
-            Debug.Log("うううう"+outputPath);
+            m_Motion = animclip;
             Debug.Log("outputPath:" + outputPath);
             AssetDatabase.CreateAsset(animclip,
                 AssetDatabase.GenerateUniqueAssetPath(outputPath));
@@ -405,12 +408,16 @@ namespace Entum
                     AnimationUtility.SetEditorCurve(animclip, curveBinding, curve);
                 }
             }
-
+            
             AssetDatabase.CreateAsset(animclip,
                 AssetDatabase.GenerateUniqueAssetPath("Assets/" + _animRecorder.CharacterAnimator.name +
                                                       "_facial_ClipTest.anim"));
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
+        }
+        public Motion GetFaceMotion()
+        {
+            return m_Motion;
         }
     }
 }
