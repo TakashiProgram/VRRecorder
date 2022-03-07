@@ -1104,7 +1104,7 @@ MonoBehaviour:
   m_EyeMaxRotation: 20
   EyeShapeTables:
   - skinnedMeshRenderer: {fileID: 4502282290481585270}
-    eyeShapes: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    eyeShapes: ffffffffffffffffffffffffffffffffffffffff0000000006000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
   EyebrowAnimationCurveUpper:
     serializedVersion: 2
     m_Curve:

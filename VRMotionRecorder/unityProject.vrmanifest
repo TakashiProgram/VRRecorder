@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.vrmotionrecorder.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "F:\\Git\\VRRecorder\\VRMotionRecorder\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "E:\\Git\\VRRecorder\\VRMotionRecorder\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "VRMotionRecorder [Testing]"

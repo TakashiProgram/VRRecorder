@@ -75,6 +75,9 @@ namespace Entum
         [SerializeField]
         private MotionConverter m_MotionConverter;
 
+        [SerializeField]
+        private EyeMotionConverter[] m_EyeMotionConverter;
+
         // Use this for initialization
         private void Awake()
         {
@@ -207,6 +210,8 @@ namespace Entum
             RecordedTime = 0f;
             StartTime = Time.time;
             FrameIndex = 0;
+            m_EyeMotionConverter[0].SetRecord(true);
+            m_EyeMotionConverter[1].SetRecord(true);
         }
 
         /// <summary>
@@ -228,6 +233,8 @@ namespace Entum
             OnRecordEnd -= WriteAnimationFile;
             _recording = false;
             m_MotionConverter.ExportHumanoidAnim();
+            m_EyeMotionConverter[0].ExportEyeAnim();
+            m_EyeMotionConverter[1].ExportEyeAnim();
         }
 
         private static void SetHumanBoneTransformToHumanoidPoses(Animator animator, ref HumanoidPoses.SerializeHumanoidPose pose)

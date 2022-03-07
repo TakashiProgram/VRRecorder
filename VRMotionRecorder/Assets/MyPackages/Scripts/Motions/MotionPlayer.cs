@@ -7,13 +7,34 @@ using UnityEngine;
 public class MotionPlayer : MonoBehaviour
 {
     [SerializeField]
-    private Animator[] m_Animator;
+    private Animator m_ModelAniamtor;
 
     [SerializeField]
-    private RuntimeAnimatorController[] m_RuntimeAnimatorController;
+    private Animator m_FaceAnimator;
+
+    [SerializeField]
+    private Animator m_LeftEyeAnimator;
+
+    [SerializeField]
+    private Animator m_RightEyeAnimator;
+    
+    [SerializeField]
+    private RuntimeAnimatorController m_ModelRuntimeAnimator;
+
+    [SerializeField]
+    private RuntimeAnimatorController m_FaceRuntimeAnimator;
+
+    [SerializeField]
+    private RuntimeAnimatorController m_LeftEyeRuntimeAnimator;
+
+    [SerializeField]
+    private RuntimeAnimatorController m_RightEyeRuntimeAnimator;
 
     [SerializeField]
     private MotionConverter m_MotionConverter;
+
+    [SerializeField]
+    private EyeMotionConverter[] m_EyeMotionConverter;
 
     [SerializeField]
     private FaceAnimationRecorder m_FaceAnimationRecorder;
@@ -40,33 +61,32 @@ public class MotionPlayer : MonoBehaviour
             {
                 m_VRIK.enabled = false;
             }
-            m_Animator[0].transform.position = Vector3.zero;
-            m_Animator[0].transform.rotation = Quaternion.identity;
+            m_ModelAniamtor.transform.position = Vector3.zero;
+            m_ModelAniamtor.transform.rotation = Quaternion.identity;
+            
+            AnimatorClipChange(m_ModelRuntimeAnimator, m_ModelAniamtor,(AnimationClip)m_MotionConverter.GetMotion());
+            AnimatorClipChange(m_FaceRuntimeAnimator, m_FaceAnimator,(AnimationClip)m_FaceAnimationRecorder.GetFaceMotion());
 
-            //m_Animator[1].transform.position = Vector3.zero;
-           // m_Animator[1].transform.rotation = Quaternion.identity;
+            m_ModelAniamtor.Play(MOTION, 0, 0);
+            m_FaceAnimator.Play(MOTION, 0, 0);
 
-            AnimatorClipChange(m_RuntimeAnimatorController[0], m_Animator[0],(AnimationClip)m_MotionConverter.GetMotion());
-            AnimatorClipChange(m_RuntimeAnimatorController[1], m_Animator[1],(AnimationClip)m_FaceAnimationRecorder.GetFaceMotion());
+            if ((m_LeftEyeAnimator!=null) || (m_RightEyeAnimator != null))
+            {
+                AnimatorClipChange(m_LeftEyeRuntimeAnimator, m_LeftEyeAnimator, (AnimationClip)m_EyeMotionConverter[0].GetMotion());
+                AnimatorClipChange(m_RightEyeRuntimeAnimator, m_RightEyeAnimator, (AnimationClip)m_EyeMotionConverter[1].GetMotion());
 
-            m_Animator[0].Play(MOTION, 0, 0);
-            m_Animator[1].Play(MOTION, 0, 0);
+                m_LeftEyeAnimator.Play(MOTION, 0, 0);
+                m_RightEyeAnimator.Play(MOTION, 0, 0);
+            }
         }
+        
         if (Input.GetKeyDown(m_RecordStopKey))
         {
-            if (true == m_IsPlay)
-            {
-                m_Animator[0].SetFloat(MOVING_SPEED, 1.0f);
-                m_Animator[1].SetFloat(MOVING_SPEED, 1.0f);
-                m_IsPlay = false;
-            }
-            else
-            {
-                m_Animator[0].SetFloat(MOVING_SPEED, 0.0f);
-                m_Animator[1].SetFloat(MOVING_SPEED, 0.0f);
-                m_IsPlay = true;
-            }
-            
+            m_VRIK.enabled = true;
+            m_ModelAniamtor.runtimeAnimatorController = null;
+            m_FaceAnimator.runtimeAnimatorController = null;
+            m_LeftEyeAnimator.runtimeAnimatorController = null;
+            m_RightEyeAnimator.runtimeAnimatorController = null;
         }
 
     }

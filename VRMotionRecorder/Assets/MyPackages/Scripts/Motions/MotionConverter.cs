@@ -12,17 +12,11 @@ public class MotionConverter : MonoBehaviour
 
     private Motion m_Motion;
 
-    void Update()
-    {
-     
-    }
-
     public void ExportHumanoidAnim()
     {
         var clip = new AnimationClip { frameRate = 30 };
         AnimationUtility.SetAnimationClipSettings(clip, new AnimationClipSettings { loopTime = false ,keepOriginalPositionY = true});
 
-        
         {
             var curveX = new AnimationCurve();
             var curveY = new AnimationCurve();
@@ -169,12 +163,8 @@ public class MotionConverter : MonoBehaviour
 
         clip.EnsureQuaternionContinuity();
 
-        //Debug.Log("Assets/Resources/Scene" + m_MotionDataRecorder.GetScene()
-        //                         + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + ".anim");
-
         var path = string.Format("Assets/Resources/Scene" + m_MotionDataRecorder.GetScene() 
                                  + "/Cat" + m_MotionDataRecorder.GetCat() + "/" + m_MotionDataRecorder.GetAnimatorName() +"/Take" + m_MotionDataRecorder.GetTake() + "_Humanoid.anim", DateTime.Now);
-       // var path = string.Format("Assets/Resources/RecordMotion_{0:yyyy_MM_dd_HH_mm_ss}_Humanoid.anim", DateTime.Now);
         var uniqueAssetPath = AssetDatabase.GenerateUniqueAssetPath(path);
         m_Motion = clip;
         AssetDatabase.CreateAsset(clip, uniqueAssetPath);

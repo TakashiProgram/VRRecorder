@@ -1,385 +1,1139 @@
 fileFormatVersion: 2
 guid: 4cb3a6e48a5c57e439d63d5b058b1ea2
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: BackHair1
-    100002: BackHair2
-    100004: BackHair3
-    100006: BackLeftHair1
-    100008: BackLeftHair10
-    100010: BackLeftHair11
-    100012: BackLeftHair12
-    100014: BackLeftHair2
-    100016: BackLeftHair3
-    100018: BackLeftHair4
-    100020: BackLeftHair5
-    100022: BackLeftHair6
-    100024: BackLeftHair7
-    100026: BackLeftHair8
-    100028: BackLeftHair9
-    100030: BackRightHair1
-    100032: BackRightHair10
-    100034: BackRightHair12
-    100036: BackRightHair12 1
-    100038: BackRightHair2
-    100040: BackRightHair3
-    100042: BackRightHair4
-    100044: BackRightHair5
-    100046: BackRightHair6
-    100048: BackRightHair7
-    100050: BackRightHair8
-    100052: BackRightHair9
-    100054: Chin00
-    100056: Chin01
-    100058: etc
-    100060: eye_mesh
-    100062: Eyebrow00
-    100064: Eyebrow01
-    100066: Eyebrow02
-    100068: Eyebrow03
-    100070: Eyebrow04
-    100072: Eyebrow05
-    100074: Eyebrow06
-    100076: Eyebrow07
-    100078: Eyebrow08
-    100080: Eyebrow09
-    100082: Eyebrow10
-    100084: Eyebrow11
-    100086: Eyebrow12
-    100088: Eyebrow13
-    100090: Eyebrow14
-    100092: Eyebrow15
-    100094: Eyelid00
-    100096: Eyelid01
-    100098: Eyelid02
-    100100: Eyelid03
-    100102: Eyelid04
-    100104: Eyelid05
-    100106: Eyelid06
-    100108: Eyelid07
-    100110: Eyelid08
-    100112: Eyelid09
-    100114: Eyelid10
-    100116: Eyelid11
-    100118: Eyelid12
-    100120: Eyelid13
-    100122: Eyelid14
-    100124: Eyelid15
-    100126: //RootNode
-    100128: face_mesh
-    100130: FrontHair1
-    100132: FrontHair2
-    100134: Head
-    100136: Hips
-    100138: Left_eye
-    100140: LeftArm
-    100142: LeftArmSub1
-    100144: LeftArmSub2
-    100146: LeftFoot
-    100148: LeftForeArm
-    100150: LeftForeArmRoll1
-    100152: LeftForeArmRoll2
-    100154: LeftForeArmSub
-    100156: LeftHair1
-    100158: LeftHair2
-    100160: LeftHand
-    100162: LeftHandIndex1
-    100164: LeftHandIndex2
-    100166: LeftHandIndex3
-    100168: LeftHandMiddle1
-    100170: LeftHandMiddle2
-    100172: LeftHandMiddle3
-    100174: LeftHandPinky1
-    100176: LeftHandPinky2
-    100178: LeftHandPinky3
-    100180: LeftHandRing1
-    100182: LeftHandRing2
-    100184: LeftHandRing3
-    100186: LeftHandRingSub
-    100188: LeftHandThumb1
-    100190: LeftHandThumb2
-    100192: LeftHandThumb3
-    100194: LeftLeg
-    100196: LeftLegRoll
-    100198: LeftLegSub
-    100200: LeftShoulder
-    100202: LeftToeBase
-    100204: LeftUpLeg
-    100206: LeftUpLegSub
-    100208: model
-    100210: Mouth00
-    100212: Mouth01
-    100214: Mouth02
-    100216: Mouth03
-    100218: Mouth04
-    100220: Mouth05
-    100222: Mouth06
-    100224: Mouth07
-    100226: Mouth08
-    100228: Mouth09
-    100230: Mouth10
-    100232: Mouth11
-    100234: Mouth12
-    100236: Mouth13
-    100238: Mouth14
-    100240: Mouth15
-    100242: Neck
-    100244: Reference
-    100246: Right_eye
-    100248: RightArm
-    100250: RightArmSub1
-    100252: RightArmSub2
-    100254: RightFoot
-    100256: RightForeArm
-    100258: RightForeArmRoll1
-    100260: RightForeArmRoll2
-    100262: RightForeArmSub
-    100264: RightHand
-    100266: RightHandIndex1
-    100268: RightHandIndex2
-    100270: RightHandIndex3
-    100272: RightHandMiddle1
-    100274: RightHandMiddle2
-    100276: RightHandMiddle3
-    100278: RightHandPinky1
-    100280: RightHandPinky2
-    100282: RightHandPinky3
-    100284: RightHandRing1
-    100286: RightHandRing2
-    100288: RightHandRing3
-    100290: RightHandRingSub
-    100292: RightHandThumb1
-    100294: RightHandThumb2
-    100296: RightHandThumb3
-    100298: RightLeg
-    100300: RightLegRoll
-    100302: RightLegSub
-    100304: RightShoulder
-    100306: RightToeBase
-    100308: RightUpLeg
-    100310: RightUpLegSub
-    100312: RigthHair1
-    100314: RigthHair2
-    100316: Root
-    100318: shape_root
-    100320: Spine
-    100322: Spine1
-    100324: Spine2
-    100326: TopHair
-    100328: fx00
-    100330: fx01
-    100332: fx02
-    100334: fx03
-    100336: fx04
-    100338: fx05
-    100340: fxroot
-    100342: RightHair1
-    100344: RightHair2
-    100346: eye
-    100348: face
-    100350: BackHair4
-    100352: BackLeftHair13
-    100354: BackLeftHair14
-    100356: BackLeftHair15
-    100358: BackRightHair11
-    100360: BackRightHair13
-    100362: BackRightHair14
-    100364: BackRightHair15
-    400000: BackHair1
-    400002: BackHair2
-    400004: BackHair3
-    400006: BackLeftHair1
-    400008: BackLeftHair10
-    400010: BackLeftHair11
-    400012: BackLeftHair12
-    400014: BackLeftHair2
-    400016: BackLeftHair3
-    400018: BackLeftHair4
-    400020: BackLeftHair5
-    400022: BackLeftHair6
-    400024: BackLeftHair7
-    400026: BackLeftHair8
-    400028: BackLeftHair9
-    400030: BackRightHair1
-    400032: BackRightHair10
-    400034: BackRightHair12
-    400036: BackRightHair12 1
-    400038: BackRightHair2
-    400040: BackRightHair3
-    400042: BackRightHair4
-    400044: BackRightHair5
-    400046: BackRightHair6
-    400048: BackRightHair7
-    400050: BackRightHair8
-    400052: BackRightHair9
-    400054: Chin00
-    400056: Chin01
-    400058: etc
-    400060: eye_mesh
-    400062: Eyebrow00
-    400064: Eyebrow01
-    400066: Eyebrow02
-    400068: Eyebrow03
-    400070: Eyebrow04
-    400072: Eyebrow05
-    400074: Eyebrow06
-    400076: Eyebrow07
-    400078: Eyebrow08
-    400080: Eyebrow09
-    400082: Eyebrow10
-    400084: Eyebrow11
-    400086: Eyebrow12
-    400088: Eyebrow13
-    400090: Eyebrow14
-    400092: Eyebrow15
-    400094: Eyelid00
-    400096: Eyelid01
-    400098: Eyelid02
-    400100: Eyelid03
-    400102: Eyelid04
-    400104: Eyelid05
-    400106: Eyelid06
-    400108: Eyelid07
-    400110: Eyelid08
-    400112: Eyelid09
-    400114: Eyelid10
-    400116: Eyelid11
-    400118: Eyelid12
-    400120: Eyelid13
-    400122: Eyelid14
-    400124: Eyelid15
-    400126: //RootNode
-    400128: face_mesh
-    400130: FrontHair1
-    400132: FrontHair2
-    400134: Head
-    400136: Hips
-    400138: Left_eye
-    400140: LeftArm
-    400142: LeftArmSub1
-    400144: LeftArmSub2
-    400146: LeftFoot
-    400148: LeftForeArm
-    400150: LeftForeArmRoll1
-    400152: LeftForeArmRoll2
-    400154: LeftForeArmSub
-    400156: LeftHair1
-    400158: LeftHair2
-    400160: LeftHand
-    400162: LeftHandIndex1
-    400164: LeftHandIndex2
-    400166: LeftHandIndex3
-    400168: LeftHandMiddle1
-    400170: LeftHandMiddle2
-    400172: LeftHandMiddle3
-    400174: LeftHandPinky1
-    400176: LeftHandPinky2
-    400178: LeftHandPinky3
-    400180: LeftHandRing1
-    400182: LeftHandRing2
-    400184: LeftHandRing3
-    400186: LeftHandRingSub
-    400188: LeftHandThumb1
-    400190: LeftHandThumb2
-    400192: LeftHandThumb3
-    400194: LeftLeg
-    400196: LeftLegRoll
-    400198: LeftLegSub
-    400200: LeftShoulder
-    400202: LeftToeBase
-    400204: LeftUpLeg
-    400206: LeftUpLegSub
-    400208: model
-    400210: Mouth00
-    400212: Mouth01
-    400214: Mouth02
-    400216: Mouth03
-    400218: Mouth04
-    400220: Mouth05
-    400222: Mouth06
-    400224: Mouth07
-    400226: Mouth08
-    400228: Mouth09
-    400230: Mouth10
-    400232: Mouth11
-    400234: Mouth12
-    400236: Mouth13
-    400238: Mouth14
-    400240: Mouth15
-    400242: Neck
-    400244: Reference
-    400246: Right_eye
-    400248: RightArm
-    400250: RightArmSub1
-    400252: RightArmSub2
-    400254: RightFoot
-    400256: RightForeArm
-    400258: RightForeArmRoll1
-    400260: RightForeArmRoll2
-    400262: RightForeArmSub
-    400264: RightHand
-    400266: RightHandIndex1
-    400268: RightHandIndex2
-    400270: RightHandIndex3
-    400272: RightHandMiddle1
-    400274: RightHandMiddle2
-    400276: RightHandMiddle3
-    400278: RightHandPinky1
-    400280: RightHandPinky2
-    400282: RightHandPinky3
-    400284: RightHandRing1
-    400286: RightHandRing2
-    400288: RightHandRing3
-    400290: RightHandRingSub
-    400292: RightHandThumb1
-    400294: RightHandThumb2
-    400296: RightHandThumb3
-    400298: RightLeg
-    400300: RightLegRoll
-    400302: RightLegSub
-    400304: RightShoulder
-    400306: RightToeBase
-    400308: RightUpLeg
-    400310: RightUpLegSub
-    400312: RigthHair1
-    400314: RigthHair2
-    400316: Root
-    400318: shape_root
-    400320: Spine
-    400322: Spine1
-    400324: Spine2
-    400326: TopHair
-    400328: fx00
-    400330: fx01
-    400332: fx02
-    400334: fx03
-    400336: fx04
-    400338: fx05
-    400340: fxroot
-    400342: RightHair1
-    400344: RightHair2
-    400346: eye
-    400348: face
-    400350: BackHair4
-    400352: BackLeftHair13
-    400354: BackLeftHair14
-    400356: BackLeftHair15
-    400358: BackRightHair11
-    400360: BackRightHair13
-    400362: BackRightHair14
-    400364: BackRightHair15
-    4300000: eye_mesh
-    4300002: face_mesh
-    4300004: eye
-    4300006: face
-    7400000: Take 001
-    9500000: //RootNode
-    13700000: eye_mesh
-    13700002: face_mesh
-    13700004: eye
-    13700006: face
-    2186277476908879412: ImportLogs
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BackHair1
+  - first:
+      1: 100002
+    second: BackHair2
+  - first:
+      1: 100004
+    second: BackHair3
+  - first:
+      1: 100006
+    second: BackLeftHair1
+  - first:
+      1: 100008
+    second: BackLeftHair10
+  - first:
+      1: 100010
+    second: BackLeftHair11
+  - first:
+      1: 100012
+    second: BackLeftHair12
+  - first:
+      1: 100014
+    second: BackLeftHair2
+  - first:
+      1: 100016
+    second: BackLeftHair3
+  - first:
+      1: 100018
+    second: BackLeftHair4
+  - first:
+      1: 100020
+    second: BackLeftHair5
+  - first:
+      1: 100022
+    second: BackLeftHair6
+  - first:
+      1: 100024
+    second: BackLeftHair7
+  - first:
+      1: 100026
+    second: BackLeftHair8
+  - first:
+      1: 100028
+    second: BackLeftHair9
+  - first:
+      1: 100030
+    second: BackRightHair1
+  - first:
+      1: 100032
+    second: BackRightHair10
+  - first:
+      1: 100034
+    second: BackRightHair12
+  - first:
+      1: 100036
+    second: BackRightHair12 1
+  - first:
+      1: 100038
+    second: BackRightHair2
+  - first:
+      1: 100040
+    second: BackRightHair3
+  - first:
+      1: 100042
+    second: BackRightHair4
+  - first:
+      1: 100044
+    second: BackRightHair5
+  - first:
+      1: 100046
+    second: BackRightHair6
+  - first:
+      1: 100048
+    second: BackRightHair7
+  - first:
+      1: 100050
+    second: BackRightHair8
+  - first:
+      1: 100052
+    second: BackRightHair9
+  - first:
+      1: 100054
+    second: Chin00
+  - first:
+      1: 100056
+    second: Chin01
+  - first:
+      1: 100058
+    second: etc
+  - first:
+      1: 100060
+    second: eye_mesh
+  - first:
+      1: 100062
+    second: Eyebrow00
+  - first:
+      1: 100064
+    second: Eyebrow01
+  - first:
+      1: 100066
+    second: Eyebrow02
+  - first:
+      1: 100068
+    second: Eyebrow03
+  - first:
+      1: 100070
+    second: Eyebrow04
+  - first:
+      1: 100072
+    second: Eyebrow05
+  - first:
+      1: 100074
+    second: Eyebrow06
+  - first:
+      1: 100076
+    second: Eyebrow07
+  - first:
+      1: 100078
+    second: Eyebrow08
+  - first:
+      1: 100080
+    second: Eyebrow09
+  - first:
+      1: 100082
+    second: Eyebrow10
+  - first:
+      1: 100084
+    second: Eyebrow11
+  - first:
+      1: 100086
+    second: Eyebrow12
+  - first:
+      1: 100088
+    second: Eyebrow13
+  - first:
+      1: 100090
+    second: Eyebrow14
+  - first:
+      1: 100092
+    second: Eyebrow15
+  - first:
+      1: 100094
+    second: Eyelid00
+  - first:
+      1: 100096
+    second: Eyelid01
+  - first:
+      1: 100098
+    second: Eyelid02
+  - first:
+      1: 100100
+    second: Eyelid03
+  - first:
+      1: 100102
+    second: Eyelid04
+  - first:
+      1: 100104
+    second: Eyelid05
+  - first:
+      1: 100106
+    second: Eyelid06
+  - first:
+      1: 100108
+    second: Eyelid07
+  - first:
+      1: 100110
+    second: Eyelid08
+  - first:
+      1: 100112
+    second: Eyelid09
+  - first:
+      1: 100114
+    second: Eyelid10
+  - first:
+      1: 100116
+    second: Eyelid11
+  - first:
+      1: 100118
+    second: Eyelid12
+  - first:
+      1: 100120
+    second: Eyelid13
+  - first:
+      1: 100122
+    second: Eyelid14
+  - first:
+      1: 100124
+    second: Eyelid15
+  - first:
+      1: 100126
+    second: //RootNode
+  - first:
+      1: 100128
+    second: face_mesh
+  - first:
+      1: 100130
+    second: FrontHair1
+  - first:
+      1: 100132
+    second: FrontHair2
+  - first:
+      1: 100134
+    second: Head
+  - first:
+      1: 100136
+    second: Hips
+  - first:
+      1: 100138
+    second: Left_eye
+  - first:
+      1: 100140
+    second: LeftArm
+  - first:
+      1: 100142
+    second: LeftArmSub1
+  - first:
+      1: 100144
+    second: LeftArmSub2
+  - first:
+      1: 100146
+    second: LeftFoot
+  - first:
+      1: 100148
+    second: LeftForeArm
+  - first:
+      1: 100150
+    second: LeftForeArmRoll1
+  - first:
+      1: 100152
+    second: LeftForeArmRoll2
+  - first:
+      1: 100154
+    second: LeftForeArmSub
+  - first:
+      1: 100156
+    second: LeftHair1
+  - first:
+      1: 100158
+    second: LeftHair2
+  - first:
+      1: 100160
+    second: LeftHand
+  - first:
+      1: 100162
+    second: LeftHandIndex1
+  - first:
+      1: 100164
+    second: LeftHandIndex2
+  - first:
+      1: 100166
+    second: LeftHandIndex3
+  - first:
+      1: 100168
+    second: LeftHandMiddle1
+  - first:
+      1: 100170
+    second: LeftHandMiddle2
+  - first:
+      1: 100172
+    second: LeftHandMiddle3
+  - first:
+      1: 100174
+    second: LeftHandPinky1
+  - first:
+      1: 100176
+    second: LeftHandPinky2
+  - first:
+      1: 100178
+    second: LeftHandPinky3
+  - first:
+      1: 100180
+    second: LeftHandRing1
+  - first:
+      1: 100182
+    second: LeftHandRing2
+  - first:
+      1: 100184
+    second: LeftHandRing3
+  - first:
+      1: 100186
+    second: LeftHandRingSub
+  - first:
+      1: 100188
+    second: LeftHandThumb1
+  - first:
+      1: 100190
+    second: LeftHandThumb2
+  - first:
+      1: 100192
+    second: LeftHandThumb3
+  - first:
+      1: 100194
+    second: LeftLeg
+  - first:
+      1: 100196
+    second: LeftLegRoll
+  - first:
+      1: 100198
+    second: LeftLegSub
+  - first:
+      1: 100200
+    second: LeftShoulder
+  - first:
+      1: 100202
+    second: LeftToeBase
+  - first:
+      1: 100204
+    second: LeftUpLeg
+  - first:
+      1: 100206
+    second: LeftUpLegSub
+  - first:
+      1: 100208
+    second: model
+  - first:
+      1: 100210
+    second: Mouth00
+  - first:
+      1: 100212
+    second: Mouth01
+  - first:
+      1: 100214
+    second: Mouth02
+  - first:
+      1: 100216
+    second: Mouth03
+  - first:
+      1: 100218
+    second: Mouth04
+  - first:
+      1: 100220
+    second: Mouth05
+  - first:
+      1: 100222
+    second: Mouth06
+  - first:
+      1: 100224
+    second: Mouth07
+  - first:
+      1: 100226
+    second: Mouth08
+  - first:
+      1: 100228
+    second: Mouth09
+  - first:
+      1: 100230
+    second: Mouth10
+  - first:
+      1: 100232
+    second: Mouth11
+  - first:
+      1: 100234
+    second: Mouth12
+  - first:
+      1: 100236
+    second: Mouth13
+  - first:
+      1: 100238
+    second: Mouth14
+  - first:
+      1: 100240
+    second: Mouth15
+  - first:
+      1: 100242
+    second: Neck
+  - first:
+      1: 100244
+    second: Reference
+  - first:
+      1: 100246
+    second: Right_eye
+  - first:
+      1: 100248
+    second: RightArm
+  - first:
+      1: 100250
+    second: RightArmSub1
+  - first:
+      1: 100252
+    second: RightArmSub2
+  - first:
+      1: 100254
+    second: RightFoot
+  - first:
+      1: 100256
+    second: RightForeArm
+  - first:
+      1: 100258
+    second: RightForeArmRoll1
+  - first:
+      1: 100260
+    second: RightForeArmRoll2
+  - first:
+      1: 100262
+    second: RightForeArmSub
+  - first:
+      1: 100264
+    second: RightHand
+  - first:
+      1: 100266
+    second: RightHandIndex1
+  - first:
+      1: 100268
+    second: RightHandIndex2
+  - first:
+      1: 100270
+    second: RightHandIndex3
+  - first:
+      1: 100272
+    second: RightHandMiddle1
+  - first:
+      1: 100274
+    second: RightHandMiddle2
+  - first:
+      1: 100276
+    second: RightHandMiddle3
+  - first:
+      1: 100278
+    second: RightHandPinky1
+  - first:
+      1: 100280
+    second: RightHandPinky2
+  - first:
+      1: 100282
+    second: RightHandPinky3
+  - first:
+      1: 100284
+    second: RightHandRing1
+  - first:
+      1: 100286
+    second: RightHandRing2
+  - first:
+      1: 100288
+    second: RightHandRing3
+  - first:
+      1: 100290
+    second: RightHandRingSub
+  - first:
+      1: 100292
+    second: RightHandThumb1
+  - first:
+      1: 100294
+    second: RightHandThumb2
+  - first:
+      1: 100296
+    second: RightHandThumb3
+  - first:
+      1: 100298
+    second: RightLeg
+  - first:
+      1: 100300
+    second: RightLegRoll
+  - first:
+      1: 100302
+    second: RightLegSub
+  - first:
+      1: 100304
+    second: RightShoulder
+  - first:
+      1: 100306
+    second: RightToeBase
+  - first:
+      1: 100308
+    second: RightUpLeg
+  - first:
+      1: 100310
+    second: RightUpLegSub
+  - first:
+      1: 100312
+    second: RigthHair1
+  - first:
+      1: 100314
+    second: RigthHair2
+  - first:
+      1: 100316
+    second: Root
+  - first:
+      1: 100318
+    second: shape_root
+  - first:
+      1: 100320
+    second: Spine
+  - first:
+      1: 100322
+    second: Spine1
+  - first:
+      1: 100324
+    second: Spine2
+  - first:
+      1: 100326
+    second: TopHair
+  - first:
+      1: 100328
+    second: fx00
+  - first:
+      1: 100330
+    second: fx01
+  - first:
+      1: 100332
+    second: fx02
+  - first:
+      1: 100334
+    second: fx03
+  - first:
+      1: 100336
+    second: fx04
+  - first:
+      1: 100338
+    second: fx05
+  - first:
+      1: 100340
+    second: fxroot
+  - first:
+      1: 100342
+    second: RightHair1
+  - first:
+      1: 100344
+    second: RightHair2
+  - first:
+      1: 100346
+    second: eye
+  - first:
+      1: 100348
+    second: face
+  - first:
+      1: 100350
+    second: BackHair4
+  - first:
+      1: 100352
+    second: BackLeftHair13
+  - first:
+      1: 100354
+    second: BackLeftHair14
+  - first:
+      1: 100356
+    second: BackLeftHair15
+  - first:
+      1: 100358
+    second: BackRightHair11
+  - first:
+      1: 100360
+    second: BackRightHair13
+  - first:
+      1: 100362
+    second: BackRightHair14
+  - first:
+      1: 100364
+    second: BackRightHair15
+  - first:
+      4: 400000
+    second: BackHair1
+  - first:
+      4: 400002
+    second: BackHair2
+  - first:
+      4: 400004
+    second: BackHair3
+  - first:
+      4: 400006
+    second: BackLeftHair1
+  - first:
+      4: 400008
+    second: BackLeftHair10
+  - first:
+      4: 400010
+    second: BackLeftHair11
+  - first:
+      4: 400012
+    second: BackLeftHair12
+  - first:
+      4: 400014
+    second: BackLeftHair2
+  - first:
+      4: 400016
+    second: BackLeftHair3
+  - first:
+      4: 400018
+    second: BackLeftHair4
+  - first:
+      4: 400020
+    second: BackLeftHair5
+  - first:
+      4: 400022
+    second: BackLeftHair6
+  - first:
+      4: 400024
+    second: BackLeftHair7
+  - first:
+      4: 400026
+    second: BackLeftHair8
+  - first:
+      4: 400028
+    second: BackLeftHair9
+  - first:
+      4: 400030
+    second: BackRightHair1
+  - first:
+      4: 400032
+    second: BackRightHair10
+  - first:
+      4: 400034
+    second: BackRightHair12
+  - first:
+      4: 400036
+    second: BackRightHair12 1
+  - first:
+      4: 400038
+    second: BackRightHair2
+  - first:
+      4: 400040
+    second: BackRightHair3
+  - first:
+      4: 400042
+    second: BackRightHair4
+  - first:
+      4: 400044
+    second: BackRightHair5
+  - first:
+      4: 400046
+    second: BackRightHair6
+  - first:
+      4: 400048
+    second: BackRightHair7
+  - first:
+      4: 400050
+    second: BackRightHair8
+  - first:
+      4: 400052
+    second: BackRightHair9
+  - first:
+      4: 400054
+    second: Chin00
+  - first:
+      4: 400056
+    second: Chin01
+  - first:
+      4: 400058
+    second: etc
+  - first:
+      4: 400060
+    second: eye_mesh
+  - first:
+      4: 400062
+    second: Eyebrow00
+  - first:
+      4: 400064
+    second: Eyebrow01
+  - first:
+      4: 400066
+    second: Eyebrow02
+  - first:
+      4: 400068
+    second: Eyebrow03
+  - first:
+      4: 400070
+    second: Eyebrow04
+  - first:
+      4: 400072
+    second: Eyebrow05
+  - first:
+      4: 400074
+    second: Eyebrow06
+  - first:
+      4: 400076
+    second: Eyebrow07
+  - first:
+      4: 400078
+    second: Eyebrow08
+  - first:
+      4: 400080
+    second: Eyebrow09
+  - first:
+      4: 400082
+    second: Eyebrow10
+  - first:
+      4: 400084
+    second: Eyebrow11
+  - first:
+      4: 400086
+    second: Eyebrow12
+  - first:
+      4: 400088
+    second: Eyebrow13
+  - first:
+      4: 400090
+    second: Eyebrow14
+  - first:
+      4: 400092
+    second: Eyebrow15
+  - first:
+      4: 400094
+    second: Eyelid00
+  - first:
+      4: 400096
+    second: Eyelid01
+  - first:
+      4: 400098
+    second: Eyelid02
+  - first:
+      4: 400100
+    second: Eyelid03
+  - first:
+      4: 400102
+    second: Eyelid04
+  - first:
+      4: 400104
+    second: Eyelid05
+  - first:
+      4: 400106
+    second: Eyelid06
+  - first:
+      4: 400108
+    second: Eyelid07
+  - first:
+      4: 400110
+    second: Eyelid08
+  - first:
+      4: 400112
+    second: Eyelid09
+  - first:
+      4: 400114
+    second: Eyelid10
+  - first:
+      4: 400116
+    second: Eyelid11
+  - first:
+      4: 400118
+    second: Eyelid12
+  - first:
+      4: 400120
+    second: Eyelid13
+  - first:
+      4: 400122
+    second: Eyelid14
+  - first:
+      4: 400124
+    second: Eyelid15
+  - first:
+      4: 400126
+    second: //RootNode
+  - first:
+      4: 400128
+    second: face_mesh
+  - first:
+      4: 400130
+    second: FrontHair1
+  - first:
+      4: 400132
+    second: FrontHair2
+  - first:
+      4: 400134
+    second: Head
+  - first:
+      4: 400136
+    second: Hips
+  - first:
+      4: 400138
+    second: Left_eye
+  - first:
+      4: 400140
+    second: LeftArm
+  - first:
+      4: 400142
+    second: LeftArmSub1
+  - first:
+      4: 400144
+    second: LeftArmSub2
+  - first:
+      4: 400146
+    second: LeftFoot
+  - first:
+      4: 400148
+    second: LeftForeArm
+  - first:
+      4: 400150
+    second: LeftForeArmRoll1
+  - first:
+      4: 400152
+    second: LeftForeArmRoll2
+  - first:
+      4: 400154
+    second: LeftForeArmSub
+  - first:
+      4: 400156
+    second: LeftHair1
+  - first:
+      4: 400158
+    second: LeftHair2
+  - first:
+      4: 400160
+    second: LeftHand
+  - first:
+      4: 400162
+    second: LeftHandIndex1
+  - first:
+      4: 400164
+    second: LeftHandIndex2
+  - first:
+      4: 400166
+    second: LeftHandIndex3
+  - first:
+      4: 400168
+    second: LeftHandMiddle1
+  - first:
+      4: 400170
+    second: LeftHandMiddle2
+  - first:
+      4: 400172
+    second: LeftHandMiddle3
+  - first:
+      4: 400174
+    second: LeftHandPinky1
+  - first:
+      4: 400176
+    second: LeftHandPinky2
+  - first:
+      4: 400178
+    second: LeftHandPinky3
+  - first:
+      4: 400180
+    second: LeftHandRing1
+  - first:
+      4: 400182
+    second: LeftHandRing2
+  - first:
+      4: 400184
+    second: LeftHandRing3
+  - first:
+      4: 400186
+    second: LeftHandRingSub
+  - first:
+      4: 400188
+    second: LeftHandThumb1
+  - first:
+      4: 400190
+    second: LeftHandThumb2
+  - first:
+      4: 400192
+    second: LeftHandThumb3
+  - first:
+      4: 400194
+    second: LeftLeg
+  - first:
+      4: 400196
+    second: LeftLegRoll
+  - first:
+      4: 400198
+    second: LeftLegSub
+  - first:
+      4: 400200
+    second: LeftShoulder
+  - first:
+      4: 400202
+    second: LeftToeBase
+  - first:
+      4: 400204
+    second: LeftUpLeg
+  - first:
+      4: 400206
+    second: LeftUpLegSub
+  - first:
+      4: 400208
+    second: model
+  - first:
+      4: 400210
+    second: Mouth00
+  - first:
+      4: 400212
+    second: Mouth01
+  - first:
+      4: 400214
+    second: Mouth02
+  - first:
+      4: 400216
+    second: Mouth03
+  - first:
+      4: 400218
+    second: Mouth04
+  - first:
+      4: 400220
+    second: Mouth05
+  - first:
+      4: 400222
+    second: Mouth06
+  - first:
+      4: 400224
+    second: Mouth07
+  - first:
+      4: 400226
+    second: Mouth08
+  - first:
+      4: 400228
+    second: Mouth09
+  - first:
+      4: 400230
+    second: Mouth10
+  - first:
+      4: 400232
+    second: Mouth11
+  - first:
+      4: 400234
+    second: Mouth12
+  - first:
+      4: 400236
+    second: Mouth13
+  - first:
+      4: 400238
+    second: Mouth14
+  - first:
+      4: 400240
+    second: Mouth15
+  - first:
+      4: 400242
+    second: Neck
+  - first:
+      4: 400244
+    second: Reference
+  - first:
+      4: 400246
+    second: Right_eye
+  - first:
+      4: 400248
+    second: RightArm
+  - first:
+      4: 400250
+    second: RightArmSub1
+  - first:
+      4: 400252
+    second: RightArmSub2
+  - first:
+      4: 400254
+    second: RightFoot
+  - first:
+      4: 400256
+    second: RightForeArm
+  - first:
+      4: 400258
+    second: RightForeArmRoll1
+  - first:
+      4: 400260
+    second: RightForeArmRoll2
+  - first:
+      4: 400262
+    second: RightForeArmSub
+  - first:
+      4: 400264
+    second: RightHand
+  - first:
+      4: 400266
+    second: RightHandIndex1
+  - first:
+      4: 400268
+    second: RightHandIndex2
+  - first:
+      4: 400270
+    second: RightHandIndex3
+  - first:
+      4: 400272
+    second: RightHandMiddle1
+  - first:
+      4: 400274
+    second: RightHandMiddle2
+  - first:
+      4: 400276
+    second: RightHandMiddle3
+  - first:
+      4: 400278
+    second: RightHandPinky1
+  - first:
+      4: 400280
+    second: RightHandPinky2
+  - first:
+      4: 400282
+    second: RightHandPinky3
+  - first:
+      4: 400284
+    second: RightHandRing1
+  - first:
+      4: 400286
+    second: RightHandRing2
+  - first:
+      4: 400288
+    second: RightHandRing3
+  - first:
+      4: 400290
+    second: RightHandRingSub
+  - first:
+      4: 400292
+    second: RightHandThumb1
+  - first:
+      4: 400294
+    second: RightHandThumb2
+  - first:
+      4: 400296
+    second: RightHandThumb3
+  - first:
+      4: 400298
+    second: RightLeg
+  - first:
+      4: 400300
+    second: RightLegRoll
+  - first:
+      4: 400302
+    second: RightLegSub
+  - first:
+      4: 400304
+    second: RightShoulder
+  - first:
+      4: 400306
+    second: RightToeBase
+  - first:
+      4: 400308
+    second: RightUpLeg
+  - first:
+      4: 400310
+    second: RightUpLegSub
+  - first:
+      4: 400312
+    second: RigthHair1
+  - first:
+      4: 400314
+    second: RigthHair2
+  - first:
+      4: 400316
+    second: Root
+  - first:
+      4: 400318
+    second: shape_root
+  - first:
+      4: 400320
+    second: Spine
+  - first:
+      4: 400322
+    second: Spine1
+  - first:
+      4: 400324
+    second: Spine2
+  - first:
+      4: 400326
+    second: TopHair
+  - first:
+      4: 400328
+    second: fx00
+  - first:
+      4: 400330
+    second: fx01
+  - first:
+      4: 400332
+    second: fx02
+  - first:
+      4: 400334
+    second: fx03
+  - first:
+      4: 400336
+    second: fx04
+  - first:
+      4: 400338
+    second: fx05
+  - first:
+      4: 400340
+    second: fxroot
+  - first:
+      4: 400342
+    second: RightHair1
+  - first:
+      4: 400344
+    second: RightHair2
+  - first:
+      4: 400346
+    second: eye
+  - first:
+      4: 400348
+    second: face
+  - first:
+      4: 400350
+    second: BackHair4
+  - first:
+      4: 400352
+    second: BackLeftHair13
+  - first:
+      4: 400354
+    second: BackLeftHair14
+  - first:
+      4: 400356
+    second: BackLeftHair15
+  - first:
+      4: 400358
+    second: BackRightHair11
+  - first:
+      4: 400360
+    second: BackRightHair13
+  - first:
+      4: 400362
+    second: BackRightHair14
+  - first:
+      4: 400364
+    second: BackRightHair15
+  - first:
+      43: 4300000
+    second: eye_mesh
+  - first:
+      43: 4300002
+    second: face_mesh
+  - first:
+      43: 4300004
+    second: eye
+  - first:
+      43: 4300006
+    second: face
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: eye_mesh
+  - first:
+      137: 13700002
+    second: face_mesh
+  - first:
+      137: 13700004
+    second: eye
+  - first:
+      137: 13700006
+    second: face
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -407,7 +1161,7 @@ ModelImporter:
       name: MN01_face_h00
     second: {fileID: 2100000, guid: ae2a99a5f1c8e1a46ae2132bfc4f7784, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 1
     materialSearch: 1
     materialLocation: 0
@@ -417,7 +1171,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -425,7 +1180,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -440,6 +1195,7 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -447,18 +1203,19 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -467,12 +1224,307 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 0
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
-    skeleton: []
+    skeleton:
+    - name: face(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: face(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Root
+      position: {x: -5.4210107e-22, y: 0, z: 1.3322676e-17}
+      rotation: {x: -0.7071063, y: 0.70710725, z: -0.0000011702954, w: -0.0000011702969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_eye
+      parentName: Head
+      position: {x: -0.044513393, y: 0.03872139, z: -0.07149999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_eye
+      parentName: Head
+      position: {x: -0.044513498, y: -0.038721833, z: -0.07150001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model
+      parentName: face(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye
+      parentName: model
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: face
+      parentName: model
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shape_root
+      parentName: face(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow00
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow01
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow02
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow03
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow04
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow05
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow06
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow07
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow08
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow09
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow10
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow11
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow12
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow13
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow14
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow15
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid00
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid01
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid02
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid03
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid04
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid05
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid06
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid07
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid08
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid09
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid10
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid11
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid12
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid13
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid14
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelid15
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth00
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth01
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth02
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth03
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth04
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth05
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth06
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth07
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth08
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth09
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth10
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth11
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth12
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth13
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth14
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth15
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chin00
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chin01
+      parentName: shape_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -480,13 +1532,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
